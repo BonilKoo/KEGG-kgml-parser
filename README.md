@@ -18,4 +18,4 @@ pathway_list: pathway list file (one line, one pathway entry) (Refer example fil
 
 output_dir: output directory for saving results
 
-verbose: print progress bar
+verbose: print progress bar (python package "tqdm" is required)
