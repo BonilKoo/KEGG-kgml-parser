@@ -1,0 +1,17 @@
+entry1	entry2	type	name	value
+332	324	PPrel	phosphorylation	+p
+324	329	PPrel	binding/association	---
+329	331	PPrel	binding/association	---
+324	330	PPrel	binding/association	---
+324	325	PPrel	binding/association	---
+70	69	PPrel	binding/association	---
+70	325	PPrel	binding/association	---
+324	326	PPrel	binding/association	---
+326	112	PPrel	binding/association	---
+112	67	PPrel	binding/association	---
+336	335	PPrel	binding/association	---
+336	337	PPrel	binding/association	---
+336	328	PPrel	binding/association	---
+324	328	PPrel	binding/association	---
+321	112	PPrel	inhibition	--|
+325	69	PPrel	binding/association	---

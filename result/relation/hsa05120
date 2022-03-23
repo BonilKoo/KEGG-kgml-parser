@@ -1,0 +1,31 @@
+entry1	entry2	type	name	value
+83	81	PPrel	phosphorylation	+p
+83	81	PPrel	indirect effect	..>
+44	51	PPrel	activation	-->
+37	36	PPrel	activation	-->
+37	36	PPrel	phosphorylation	+p
+36	35	PPrel	activation	-->
+68	76	PPrel	activation	-->
+76	67	PPrel	indirect effect	..>
+67	62	PPrel	activation	-->
+62	78	PPrel	activation	-->
+61	62	PPrel	activation	-->
+77	80	PPrel	inhibition	--|
+59	75	PPrel	binding/association	---
+41	45	PPrel	dissociation	-+-
+51	163	PPrel	activation	-->
+51	163	PPrel	phosphorylation	+p
+38	41	PPrel	activation	-->
+38	41	PPrel	phosphorylation	+p
+40	41	PPrel	activation	-->
+40	41	PPrel	phosphorylation	+p
+35	48	GErel	expression	-->
+35	47	GErel	expression	-->
+45	46	GErel	expression	-->
+45	47	GErel	expression	-->
+45	48	GErel	expression	-->
+44	37	PPrel	indirect effect	..>
+44	37	PPrel	phosphorylation	+p
+86	45	PPrel	indirect effect	..>
+34	48	GErel	expression	-->
+34	47	GErel	expression	-->

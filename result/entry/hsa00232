@@ -1,0 +1,51 @@
+id	name_entry	type_entry	link	reaction	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
+29	cpd:C00385	compound	https://www.kegg.jp/dbget-bin/www_bget?C00385		C00385	#000000	#FFFFFF	circle	88	606	8	8
+30	cpd:C13747	compound	https://www.kegg.jp/dbget-bin/www_bget?C13747		C13747	#000000	#FFFFFF	circle	550	210	8	8
+31	cpd:C16362	compound	https://www.kegg.jp/dbget-bin/www_bget?C16362		C16362	#000000	#FFFFFF	circle	729	504	8	8
+32	cpd:C16363	compound	https://www.kegg.jp/dbget-bin/www_bget?C16363		C16363	#000000	#FFFFFF	circle	781	545	8	8
+33	cpd:C00048	compound	https://www.kegg.jp/dbget-bin/www_bget?C00048		C00048	#000000	#FFFFFF	circle	681	544	8	8
+34	cpd:C16364	compound	https://www.kegg.jp/dbget-bin/www_bget?C16364		C16364	#000000	#FFFFFF	circle	729	576	8	8
+35	cpd:C16359	compound	https://www.kegg.jp/dbget-bin/www_bget?C16359		C16359	#000000	#FFFFFF	circle	396	676	8	8
+36	cpd:C16357	compound	https://www.kegg.jp/dbget-bin/www_bget?C16357		C16357	#000000	#FFFFFF	circle	396	478	8	8
+37	cpd:C16355	compound	https://www.kegg.jp/dbget-bin/www_bget?C16355		C16355	#000000	#FFFFFF	circle	393	390	8	8
+38	hsa:1544	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1544	rn:R07943	CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	#000000	#BFFFBF	rectangle	651	627	46	17
+40	hsa:7498	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:7498	rn:R07942	XDH, XAN1, XO, XOR	#000000	#BFFFBF	rectangle	396	641	46	17
+41	ko:K21722	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K21722	rn:R07969 rn:R07970	K21722	#000000	#FFFFFF	rectangle	320	613	46	17
+42	ko:K21723	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K21723	rn:R07975 rn:R07976	K21723	#000000	#FFFFFF	rectangle	476	605	46	17
+43	ko:K00365 ko:K16838	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K00365+K16838	rn:R07981	K00365...	#000000	#FFFFFF	rectangle	729	464	46	17
+45	ko:K21722	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K21722	rn:R07973 rn:R07974	K21722	#000000	#FFFFFF	rectangle	476	485	46	17
+46	ko:K21723	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K21723	rn:R07967 rn:R07968	K21723	#000000	#FFFFFF	rectangle	320	479	46	17
+47	hsa:7498	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:7498	rn:R07978	XDH, XAN1, XO, XOR	#000000	#BFFFBF	rectangle	551	408	46	17
+49	ko:K21723	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K21723	rn:R07961 rn:R07962	K21723	#000000	#FFFFFF	rectangle	476	338	46	17
+50	ko:K21673 ko:K21674 ko:K21675	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K21673+K21674+K21675	rn:R07980	K21673...	#000000	#FFFFFF	rectangle	729	380	46	17
+51	ko:K21722	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K21722	rn:R07955 rn:R07956	K21722	#000000	#FFFFFF	rectangle	651	352	46	17
+52	ko:K12730	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K12730	rn:R07919	K12730	#000000	#FFFFFF	rectangle	476	281	46	17
+53	ko:K12731	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K12731	rn:R07920	K12731	#000000	#FFFFFF	rectangle	601	338	46	17
+54	hsa:1544	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1544	rn:R07945	CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	#000000	#BFFFBF	rectangle	451	158	46	17
+55	hsa:10 hsa:9	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10+hsa:9	rn:R07940	NAT2, AAC2, NAT-2, PNAT...	#000000	#BFFFBF	rectangle	551	148	46	17
+56	ko:K12731	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K12731	rn:R07919	K12731	#000000	#FFFFFF	rectangle	476	302	46	17
+58	ko:K12729	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K12729	rn:R07917	K12729	#000000	#FFFFFF	rectangle	163	211	46	17
+59	hsa:7498	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:7498	rn:R07979	XDH, XAN1, XO, XOR	#000000	#BFFFBF	rectangle	393	359	46	17
+60	ko:K21724	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K21724	rn:R07965 rn:R07966	K21724	#000000	#FFFFFF	rectangle	320	341	46	17
+61	ko:K21722	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K21722	rn:R07957 rn:R07958	K21722	#000000	#FFFFFF	rectangle	476	219	46	17
+62	cpd:C07481	compound	https://www.kegg.jp/dbget-bin/www_bget?C07481		C07481	#000000	#FFFFFF	circle	701	344	8	8
+63	hsa:1544	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1544	rn:R07939	CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	#000000	#BFFFBF	rectangle	634	268	46	17
+64	ko:K21723	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K21723	rn:R07954 rn:R07939	K21723	#000000	#FFFFFF	rectangle	634	247	46	17
+65	hsa:7498	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:7498	rn:R07977	XDH, XAN1, XO, XOR	#000000	#BFFFBF	rectangle	476	179	46	17
+67	path:hsa00230	map	https://www.kegg.jp/dbget-bin/www_bget?hsa00230		Purine metabolism	#000000	#FFFFFF	roundrectangle	89	454	109	25
+68	path:hsa00232	map	https://www.kegg.jp/dbget-bin/www_bget?hsa00232		TITLE:Caffeine metabolism	#000000	#FFFFFF	roundrectangle	129	58	177	25
+69	path:hsa00630	map	https://www.kegg.jp/dbget-bin/www_bget?hsa00630		Glyoxylate and dicarboxylate metabolism	#000000	#FFFFFF	roundrectangle	597	544	78	34
+70	cpd:C16358	compound	https://www.kegg.jp/dbget-bin/www_bget?C16358		C16358	#000000	#FFFFFF	circle	396	612	8	8
+71	cpd:C16356	compound	https://www.kegg.jp/dbget-bin/www_bget?C16356		C16356	#000000	#FFFFFF	circle	396	168	8	8
+72	cpd:C16366	compound	https://www.kegg.jp/dbget-bin/www_bget?C16366		C16366	#000000	#FFFFFF	circle	681	113	8	8
+73	cpd:C07480	compound	https://www.kegg.jp/dbget-bin/www_bget?C07480		C07480	#000000	#FFFFFF	circle	550	344	8	8
+74	cpd:C07130	compound	https://www.kegg.jp/dbget-bin/www_bget?C07130		C07130	#000000	#FFFFFF	circle	550	481	8	8
+75	cpd:C16352	compound	https://www.kegg.jp/dbget-bin/www_bget?C16352		C16352	#000000	#FFFFFF	circle	241	210	8	8
+76	cpd:C01762	compound	https://www.kegg.jp/dbget-bin/www_bget?C01762		C01762	#000000	#FFFFFF	circle	88	210	8	8
+77	cpd:C16365	compound	https://www.kegg.jp/dbget-bin/www_bget?C16365		C16365	#000000	#FFFFFF	circle	550	113	8	8
+78	cpd:C16353	compound	https://www.kegg.jp/dbget-bin/www_bget?C16353		C16353	#000000	#FFFFFF	circle	396	210	8	8
+79	cpd:C16360	compound	https://www.kegg.jp/dbget-bin/www_bget?C16360		C16360	#000000	#FFFFFF	circle	550	444	8	8
+85	hsa:1548 hsa:1549	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1548+hsa:1549	rn:R07945	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...	#000000	#BFFFBF	rectangle	499	158	46	17
+87	ko:K00492	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K00492	rn:R11153	K00492	#000000	#FFFFFF	rectangle	776	431	46	17
+89	cpd:C21144	compound	https://www.kegg.jp/dbget-bin/www_bget?C21144		C21144	#000000	#FFFFFF	circle	828	430	8	8
+90	cpd:C16361	compound	https://www.kegg.jp/dbget-bin/www_bget?C16361		C16361	#000000	#FFFFFF	circle	729	430	8	8

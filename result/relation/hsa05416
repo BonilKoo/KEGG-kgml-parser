@@ -1,0 +1,22 @@
+entry1	entry2	type	name	value
+39	36	PPrel	binding/association	---
+36	37	PPrel	binding/association	---
+37	42	PPrel	binding/association	---
+37	42	PPrel	missing interaction	-/-
+42	138	PPrel	binding/association	---
+42	138	PPrel	missing interaction	-/-
+88	86	PPrel	activation	-->
+98	97	PPrel	activation	-->
+103	104	PPrel	activation	-->
+105	106	PPrel	activation	-->
+106	107	PPrel	activation	-->
+104	105	PPrel	activation	-->
+104	105	PPrel	indirect effect	..>
+52	166	PPrel	activation	-->
+52	166	PPrel	indirect effect	..>
+52	167	PPrel	activation	-->
+52	167	PPrel	indirect effect	..>
+167	173	PPrel	activation	-->
+166	172	PPrel	activation	-->
+166	172	PPrel	phosphorylation	+p
+124	123	PPrel	activation	-->

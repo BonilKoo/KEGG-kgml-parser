@@ -1,0 +1,13 @@
+entry1	entry2	type	name	value
+703	704	PPrel	binding/association	---
+712	703	PPrel	binding/association	---
+748	747	PPrel	binding/association	---
+747	1078	PPrel	binding/association	---
+1046	1065	PPrel	binding/association	---
+1046	1067	PPrel	binding/association	---
+1046	1064	PPrel	binding/association	---
+1046	1066	PPrel	binding/association	---
+1065	1047	PPrel	phosphorylation	+p
+1065	1048	PPrel	phosphorylation	+p
+1083	812	PPrel	binding/association	---
+1062	420	PPrel	binding/association	---

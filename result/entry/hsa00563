@@ -1,0 +1,65 @@
+id	name_entry	type_entry	reaction	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height	coords
+13	hsa:84992	gene	rn:R05916	https://www.kegg.jp/dbget-bin/www_bget?hsa:84992	PIGY, HPMRS6, PIG-Y	#000000	#BFFFBF	rectangle	200	206	46	17	
+14	hsa:8818	gene	rn:R05916	https://www.kegg.jp/dbget-bin/www_bget?hsa:8818	DPM2, CDG1U	#000000	#BFFFBF	rectangle	178	223	46	17	
+15	hsa:9091	gene	rn:R05916	https://www.kegg.jp/dbget-bin/www_bget?hsa:9091	PIGQ, DEE77, EIEE77, GPI1, c407A10.1	#000000	#BFFFBF	rectangle	154	206	46	17	
+16	hsa:51227	gene	rn:R05916	https://www.kegg.jp/dbget-bin/www_bget?hsa:51227	PIGP, DCRC, DCRC-S, DEE55, DSCR5, DSRC, EIEE55, PIG-P	#000000	#BFFFBF	rectangle	200	189	46	17	
+17	hsa:5283	gene	rn:R05916	https://www.kegg.jp/dbget-bin/www_bget?hsa:5283	PIGH, GPI-H	#000000	#BFFFBF	rectangle	154	189	46	17	
+18	hsa:5279	gene	rn:R05916	https://www.kegg.jp/dbget-bin/www_bget?hsa:5279	PIGC, GPI2, GPIBD16, MRT62	#000000	#BFFFBF	rectangle	200	172	46	17	
+19	hsa:54965	gene	rn:R05919	https://www.kegg.jp/dbget-bin/www_bget?hsa:54965	PIGX, PIG-X	#000000	#BFFFBF	rectangle	301	281	46	17	
+20	gl:G13150	compound		https://www.kegg.jp/dbget-bin/www_bget?G13150	G13150	#000000	#FFFFFF	circle	348	553	8	8	
+21	hsa:128869	gene		https://www.kegg.jp/dbget-bin/www_bget?hsa:128869	PIGU, CDC91L1, GAB1, GPIBD21, NEDBSS	#000000	#BFFFBF	rectangle	420	579	46	17	
+22	hsa:51604	gene		https://www.kegg.jp/dbget-bin/www_bget?hsa:51604	PIGT, CGI-06, MCAHS3, NDAP, PNH2	#000000	#BFFFBF	rectangle	443	562	46	17	
+23	hsa:94005	gene		https://www.kegg.jp/dbget-bin/www_bget?hsa:94005	PIGS, GPIBD18	#000000	#BFFFBF	rectangle	397	562	46	17	
+24	gl:G12396	compound		https://www.kegg.jp/dbget-bin/www_bget?G12396	G12396	#000000	#FFFFFF	circle	477	189	8	8	
+25	hsa:93183	gene	rn:R05919	https://www.kegg.jp/dbget-bin/www_bget?hsa:93183	PIGM, GPI-MT-I	#000000	#BFFFBF	rectangle	301	264	46	17	
+26	gl:G00145	compound		https://www.kegg.jp/dbget-bin/www_bget?G00145	G00145	#000000	#FFFFFF	circle	356	272	8	8	
+27	gl:G00143	compound		https://www.kegg.jp/dbget-bin/www_bget?G00143	G00143	#000000	#FFFFFF	circle	245	189	8	8	
+28	gl:G00144	compound		https://www.kegg.jp/dbget-bin/www_bget?G00144	G00144	#000000	#FFFFFF	circle	356	189	8	8	
+29	gl:G00146	compound		https://www.kegg.jp/dbget-bin/www_bget?G00146	G00146	#000000	#FFFFFF	circle	246	272	8	8	
+30	gl:G13151	compound		https://www.kegg.jp/dbget-bin/www_bget?G13151	G13151	#000000	#FFFFFF	circle	237	553	8	8	
+31	gl:G13128	compound		https://www.kegg.jp/dbget-bin/www_bget?G13128	G13128	#000000	#FFFFFF	circle	246	373	8	8	
+32	cpd:C00350	compound		https://www.kegg.jp/dbget-bin/www_bget?C00350	C00350	#000000	#FFFFFF	circle	519	393	8	8	
+33	gl:G13152	compound		https://www.kegg.jp/dbget-bin/www_bget?G13152	G13152	#000000	#FFFFFF	circle	478	553	8	8	
+34	gl:G00149	compound		https://www.kegg.jp/dbget-bin/www_bget?G00149	G00149	#000000	#FFFFFF	circle	478	373	8	8	
+35	gl:G00148	compound		https://www.kegg.jp/dbget-bin/www_bget?G00148	G00148	#000000	#FFFFFF	circle	357	373	8	8	
+36	hsa:5281	gene	rn:R08107	https://www.kegg.jp/dbget-bin/www_bget?hsa:5281	PIGF	#000000	#BFFFBF	rectangle	501	419	46	17	
+37	hsa:9487	gene	rn:R05917	https://www.kegg.jp/dbget-bin/www_bget?hsa:9487	PIGL, CHIME	#000000	#BFFFBF	rectangle	298	190	46	17	
+38	hsa:10026	gene		https://www.kegg.jp/dbget-bin/www_bget?hsa:10026	PIGK, GPI8, NEDHCAS	#000000	#BFFFBF	rectangle	443	545	46	17	
+39	hsa:9488	gene	rn:R05922	https://www.kegg.jp/dbget-bin/www_bget?hsa:9488	PIGB, DEE80, EIEE80, GPI-MT-III, PIG-B	#000000	#BFFFBF	rectangle	421	374	46	17	
+40	hsa:8733	gene		https://www.kegg.jp/dbget-bin/www_bget?hsa:8733	GPAA1, GAA1, GPIBD15, hGAA1	#000000	#BFFFBF	rectangle	397	545	46	17	
+41	hsa:80055	gene		https://www.kegg.jp/dbget-bin/www_bget?hsa:80055	PGAP1, Bst1, ISPD3024, MRT42, SPG67	#000000	#BFFFBF	rectangle	300	554	46	17	
+42	hsa:23556	gene	rn:R12351	https://www.kegg.jp/dbget-bin/www_bget?hsa:23556	PIGN, MCAHS, MCAHS1, MCD4, MDC4, PIG-N	#000000	#BFFFBF	rectangle	301	374	46	17	
+43	hsa:5277	gene	rn:R05916	https://www.kegg.jp/dbget-bin/www_bget?hsa:5277	PIGA, GPI3, MCAHS2, PIG-A, PNH1	#000000	#BFFFBF	rectangle	154	172	46	17	
+44	hsa:2822	gene	rn:R06623	https://www.kegg.jp/dbget-bin/www_bget?hsa:2822	GPLD1, GPIPLD, GPIPLDM, PIGPLD, PIGPLD1, PLD	#000000	#BFFFBF	rectangle	410	190	46	17	
+45	hsa:84720	gene	rn:R08107	https://www.kegg.jp/dbget-bin/www_bget?hsa:84720	PIGO, HPMRS2	#000000	#BFFFBF	rectangle	455	419	46	17	
+46	hsa:284098	gene	rn:R05918	https://www.kegg.jp/dbget-bin/www_bget?hsa:284098	PIGW, Gwt1, HPMRS5	#000000	#BFFFBF	rectangle	356	237	46	17	
+47	hsa:55650	gene	rn:R12350	https://www.kegg.jp/dbget-bin/www_bget?hsa:55650	PIGV, GPI-MT-II, HPMRS1, PIG-V	#000000	#BFFFBF	rectangle	246	334	46	17	
+48	path:hsa00564	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00564	Glycerophospholipid metabolism	#000000	#FFFFFF	roundrectangle	105	119	122	34	
+49	path:hsa00563	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00563	TITLE:Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	#000000	#FFFFFF	roundrectangle	275	58	470	25	
+50	path:hsa00510	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00510	N-Glycan biosynthesis	#000000	#FFFFFF	roundrectangle	457	304	76	34	
+51	cpd:C00350	compound		https://www.kegg.jp/dbget-bin/www_bget?C00350	C00350	#000000	#FFFFFF	circle	266	408	8	8	
+52	gl:G10617	compound		https://www.kegg.jp/dbget-bin/www_bget?G10617	G10617	#000000	#FFFFFF	circle	341	304	8	8	
+53	cpd:C00154	compound		https://www.kegg.jp/dbget-bin/www_bget?C00154	C00154	#000000	#FFFFFF	circle	393	215	8	8	
+54	gl:G10610	compound		https://www.kegg.jp/dbget-bin/www_bget?G10610	G10610	#000000	#FFFFFF	circle	117	219	8	8	
+55	cpd:C01194	compound		https://www.kegg.jp/dbget-bin/www_bget?C01194	C01194	#000000	#FFFFFF	circle	104	189	8	8	
+65	hsa:80235	gene	rn:R07129	https://www.kegg.jp/dbget-bin/www_bget?hsa:80235	PIGZ, GPI-MT-IV, PIG-Z, SMP3	#66CC66	#FFFFFF	line					118,686,148,686
+66	hsa:9488	gene	rn:R05922	https://www.kegg.jp/dbget-bin/www_bget?hsa:9488	PIGB, DEE80, EIEE80, GPI-MT-III, PIG-B	#66CC66	#FFFFFF	line					195,686,225,686
+67	hsa:55650	gene	rn:R12350	https://www.kegg.jp/dbget-bin/www_bget?hsa:55650	PIGV, GPI-MT-II, HPMRS1, PIG-V	#66CC66	#FFFFFF	line					272,686,302,686
+68	hsa:93183	gene	rn:R05919	https://www.kegg.jp/dbget-bin/www_bget?hsa:93183	PIGM, GPI-MT-I	#66CC66	#FFFFFF	line					348,686,378,686
+69	hsa:5277	gene	rn:R05916	https://www.kegg.jp/dbget-bin/www_bget?hsa:5277	PIGA, GPI3, MCAHS2, PIG-A, PNH1	#66CC66	#FFFFFF	line					426,686,456,686
+70	hsa:84720	gene	rn:R08107	https://www.kegg.jp/dbget-bin/www_bget?hsa:84720	PIGO, HPMRS2	#66CC66	#FFFFFF	line					174,642,174,672
+71	hsa:54872	gene	rn:R12702	https://www.kegg.jp/dbget-bin/www_bget?hsa:54872	PIGG, GPI7, LAS21, MRT53, PRO4405, RLGS1930	#66CC66	#FFFFFF	line					250,642,250,672
+72	hsa:23556	gene	rn:R12351	https://www.kegg.jp/dbget-bin/www_bget?hsa:23556	PIGN, MCAHS, MCAHS1, MCD4, MDC4, PIG-N	#66CC66	#FFFFFF	line					327,642,327,672
+73	hsa:10026	gene		https://www.kegg.jp/dbget-bin/www_bget?hsa:10026	PIGK, GPI8, NEDHCAS	#66CC66	#FFFFFF	line					118,637,148,637
+75	gl:G13044	compound		https://www.kegg.jp/dbget-bin/www_bget?G13044	G13044	#000000	#FFFFFF	circle	478	463	8	8	
+77	hsa:54872	gene	rn:R12702	https://www.kegg.jp/dbget-bin/www_bget?hsa:54872	PIGG, GPI7, LAS21, MRT53, PRO4405, RLGS1930	#000000	#BFFFBF	rectangle	455	509	46	17	
+78	hsa:5281	gene	rn:R12702	https://www.kegg.jp/dbget-bin/www_bget?hsa:5281	PIGF	#000000	#BFFFBF	rectangle	501	509	46	17	
+79	cpd:C00350	compound		https://www.kegg.jp/dbget-bin/www_bget?C00350	C00350	#000000	#FFFFFF	circle	519	483	8	8	
+81	hsa:65258	gene		https://www.kegg.jp/dbget-bin/www_bget?hsa:65258	MPPE1, Cdc1, PGAP5	#000000	#BFFFBF	rectangle	194	554	46	17	
+83	gl:G13046	compound		https://www.kegg.jp/dbget-bin/www_bget?G13046	G13046	#000000	#FFFFFF	circle	127	553	8	8	
+89	cpd:C00346	compound		https://www.kegg.jp/dbget-bin/www_bget?C00346	C00346	#000000	#FFFFFF	circle	154	512	8	8	
+90	undefined	group				#000000	#FFFFFF	rectangle	301	272	46	34	
+91	undefined	group				#000000	#FFFFFF	rectangle	478	419	92	17	
+92	undefined	group				#000000	#FFFFFF	rectangle	420	562	92	51	
+93	undefined	group				#000000	#FFFFFF	rectangle	177	197	92	68	
+94	undefined	group				#000000	#FFFFFF	rectangle	478	509	92	17	

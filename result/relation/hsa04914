@@ -1,0 +1,39 @@
+entry1	entry2	type	name	value
+9	26	PPrel	compound	39
+13	16	PPrel	compound	15
+10	11	PPrel	binding/association	---
+41	42	PPrel	activation	-->
+41	37	PPrel	activation	-->
+35	33	PPrel	activation	-->
+35	32	PPrel	activation	-->
+36	8	PPrel	activation	-->
+36	8	PPrel	phosphorylation	+p
+7	30	PPrel	activation	-->
+7	30	PPrel	phosphorylation	+p
+30	29	PPrel	activation	-->
+30	29	PPrel	phosphorylation	+p
+29	28	PPrel	activation	-->
+29	28	PPrel	phosphorylation	+p
+23	22	PPrel	activation	-->
+23	22	PPrel	phosphorylation	+p
+28	21	PPrel	activation	-->
+28	21	PPrel	phosphorylation	+p
+12	45	PPrel	activation	-->
+28	27	PPrel	inhibition	--|
+28	27	PPrel	phosphorylation	+p
+27	14	PPrel	inhibition	--|
+27	14	PPrel	phosphorylation	+p
+22	14	PPrel	activation	-->
+22	14	PPrel	dephosphorylation	-p
+21	20	PPrel	indirect effect	..>
+19	18	PPrel	indirect effect	..>
+20	19	PPrel	inhibition	--|
+25	7	PPrel	activation	-->
+31	9	PPrel	inhibition	--|
+16	17	PPrel	activation	-->
+16	17	PPrel	phosphorylation	+p
+4	13	PPrel	indirect effect	..>
+4	12	PPrel	indirect effect	..>
+6	4	PPrel	activation	-->
+5	4	PPrel	activation	-->
+40	41	PCrel	activation	-->

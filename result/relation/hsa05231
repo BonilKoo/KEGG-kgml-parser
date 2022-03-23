@@ -1,0 +1,64 @@
+entry1	entry2	type	name	value
+32	29	PPrel	activation	-->
+29	30	PPrel	activation	-->
+30	7	PPrel	activation	-->
+7	8	PPrel	activation	-->
+8	10	PPrel	activation	-->
+8	58	PPrel	activation	-->
+58	5	PPrel	activation	-->
+29	12	PPrel	activation	-->
+12	14	PCrel	activation	-->
+14	13	PCrel	activation	-->
+13	11	PPrel	activation	-->
+65	66	PPrel	activation	-->
+78	10	PCrel	activation	-->
+78	66	PCrel	activation	-->
+78	106	PCrel	activation	-->
+78	108	PCrel	activation	-->
+106	107	PPrel	activation	-->
+106	107	PPrel	indirect effect	..>
+108	109	PPrel	activation	-->
+108	109	PPrel	indirect effect	..>
+12	36	PPrel	activation	-->
+12	36	PPrel	indirect effect	..>
+12	63	PPrel	activation	-->
+12	63	PPrel	indirect effect	..>
+8	63	PPrel	activation	-->
+8	63	PPrel	indirect effect	..>
+8	37	PPrel	activation	-->
+8	37	PPrel	indirect effect	..>
+10	63	PPrel	activation	-->
+10	63	PPrel	indirect effect	..>
+10	36	PPrel	activation	-->
+10	36	PPrel	indirect effect	..>
+58	63	PPrel	activation	-->
+58	63	PPrel	indirect effect	..>
+58	36	PPrel	activation	-->
+58	36	PPrel	indirect effect	..>
+10	9	PPrel	activation	-->
+10	9	PPrel	phosphorylation	+p
+9	6	PPrel	activation	-->
+9	6	PPrel	phosphorylation	+p
+66	67	PPrel	activation	-->
+66	67	PPrel	phosphorylation	+p
+11	64	PPrel	inhibition	--|
+11	64	PPrel	phosphorylation	+p
+66	68	PPrel	inhibition	--|
+66	68	PPrel	phosphorylation	+p
+6	39	PPrel	inhibition	--|
+6	39	PPrel	phosphorylation	+p
+5	39	PPrel	inhibition	--|
+5	39	PPrel	phosphorylation	+p
+125	35	PPrel	activation	-->
+125	35	PPrel	indirect effect	..>
+128	36	PPrel	activation	-->
+128	36	PPrel	indirect effect	..>
+127	36	PPrel	activation	-->
+127	36	PPrel	indirect effect	..>
+123	63	PPrel	activation	-->
+123	63	PPrel	indirect effect	..>
+131	39	PPrel	activation	-->
+131	39	PPrel	indirect effect	..>
+92	139	PCrel	activation	-->
+6	136	GErel	expression	-->
+5	136	GErel	expression	-->

@@ -1,0 +1,33 @@
+id	name_entry	type_entry	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
+13	ko:K06223	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K06223	K06223	#000000	#FFFFFF	rectangle	278	775	46	17
+14	ko:K03555 ko:K07456	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03555+K07456	K03555...	#000000	#FFFFFF	rectangle	146	216	46	17
+15	hsa:4436	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4436	MSH2, COCA1, FCC1, HNPCC, HNPCC1, LCFS2, hMSH2	#000000	#BFFFBF	rectangle	578	363	46	17
+16	hsa:27030	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:27030	MLH3, HNPCC7	#000000	#BFFFBF	rectangle	624	346	46	17
+17	hsa:4292	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4292	MLH1, COCA2, FCC2, HNPCC, HNPCC2, hMLH1	#000000	#BFFFBF	rectangle	578	346	46	17
+18	path:hsa05210	map	http://www.kegg.jp/dbget-bin/www_bget?hsa05210	Colorectal cancer	#000000	#FFFFFF	roundrectangle	770	353	98	24
+19	ko:K03573	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03573	K03573	#000000	#FFFFFF	rectangle	146	357	46	17
+20	ko:K03572	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03572	K03572	#000000	#FFFFFF	rectangle	146	233	46	17
+21	ko:K01972	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K01972	K01972	#000000	#FFFFFF	rectangle	146	775	46	17
+22	ko:K03657	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03657	K03657	#000000	#FFFFFF	rectangle	146	494	46	17
+23	hsa:4292	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4292	MLH1, COCA2, FCC2, HNPCC, HNPCC2, hMLH1	#000000	#BFFFBF	rectangle	624	233	46	17
+24	hsa:3978	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3978	LIG1	#000000	#BFFFBF	rectangle	624	775	46	17
+25	hsa:5111	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5111	PCNA, ATLD2	#000000	#BFFFBF	rectangle	755	261	46	17
+26	ko:K02337 ko:K03763 ko:K02342 ko:K14159 ko:K02345 ko:K02343 ko:K02341 ko:K02340 ko:K02339 ko:K02344 ko:K02338	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K02337+K03763+K02342+K14159+K02345+K02343+K02341+K02340+K02339+K02344+K02338	K02337...	#000000	#FFFFFF	rectangle	278	643	46	17
+27	ko:K01141	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K01141	K01141	#000000	#FFFFFF	rectangle	278	494	46	17
+28	hsa:10714 hsa:5424 hsa:5425 hsa:57804	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:10714+hsa:5424+hsa:5425+hsa:57804	POLD3, P66, P68, PPP1R128...	#000000	#BFFFBF	rectangle	755	643	46	17
+29	hsa:29935 hsa:6117 hsa:6118 hsa:6119	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:29935+hsa:6117+hsa:6118+hsa:6119	RPA4, HSU24186...	#000000	#BFFFBF	rectangle	624	643	46	17
+30	ko:K10857	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K10857	K10857	#000000	#FFFFFF	rectangle	278	515	46	17
+31	ko:K07462	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K07462	K07462	#000000	#FFFFFF	rectangle	330	515	46	17
+32	hsa:2956	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2956	MSH6, GTBP, GTMBP, HNPCC5, HSAP, p160	#000000	#BFFFBF	rectangle	578	250	46	17
+33	hsa:9156	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:9156	EXO1, HEX1, hExoI	#000000	#BFFFBF	rectangle	755	499	46	17
+34	hsa:4436	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4436	MSH2, COCA1, FCC1, HNPCC, HNPCC1, LCFS2, hMSH2	#000000	#BFFFBF	rectangle	578	306	46	17
+35	hsa:4437	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4437	MSH3, DUP, FAP4, MRP1	#000000	#BFFFBF	rectangle	624	306	46	17
+36	hsa:5395	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5395	PMS2, HNPCC4, MLH4, PMS2CL, PMSL2	#000000	#BFFFBF	rectangle	624	289	46	17
+37	hsa:5395	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5395	PMS2, HNPCC4, MLH4, PMS2CL, PMSL2	#000000	#BFFFBF	rectangle	578	233	46	17
+38	hsa:5981 hsa:5982 hsa:5983 hsa:5984 hsa:5985	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5981+hsa:5982+hsa:5983+hsa:5984+hsa:5985	RFC1, A1, CANVAS, MHCBFB, PO-GA, RECC1, RFC, RFC140...	#000000	#BFFFBF	rectangle	755	233	46	17
+39	ko:K03601 ko:K03602	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03601+K03602	K03601...	#000000	#FFFFFF	rectangle	330	494	46	17
+40	hsa:4437	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4437	MSH3, DUP, FAP4, MRP1	#000000	#BFFFBF	rectangle	624	363	46	17
+41	hsa:4436	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4436	MSH2, COCA1, FCC1, HNPCC, HNPCC1, LCFS2, hMSH2	#000000	#BFFFBF	rectangle	624	250	46	17
+42	hsa:4292	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4292	MLH1, COCA2, FCC2, HNPCC, HNPCC2, hMLH1	#000000	#BFFFBF	rectangle	578	289	46	17
+43	hsa:6742	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:6742	SSBP1, Mt-SSB, SOSS-B1, SSBP, mtSSB	#000000	#BFFFBF	rectangle	146	643	46	17
+44	path:hsa03430	map	http://www.kegg.jp/dbget-bin/www_bget?hsa03430	TITLE:Mismatch repair	#000000	#FFFFFF	roundrectangle	116	57	151	25

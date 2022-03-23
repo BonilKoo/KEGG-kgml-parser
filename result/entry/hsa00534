@@ -1,0 +1,45 @@
+id	name_entry	type_entry	link	reaction	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height	coords
+10	path:hsa00532	map	https://www.kegg.jp/dbget-bin/www_bget?hsa00532		Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	#000000	#FFFFFF	roundrectangle	1310	159	116	34	
+11	gl:G00164	compound	https://www.kegg.jp/dbget-bin/www_bget?G00164		G00164	#000000	#FFFFFF	circle	1311	463	8	8	
+12	gl:G00163	compound	https://www.kegg.jp/dbget-bin/www_bget?G00163		G00163	#000000	#FFFFFF	circle	1311	392	8	8	
+13	gl:G00162	compound	https://www.kegg.jp/dbget-bin/www_bget?G00162		G00162	#000000	#FFFFFF	circle	1311	323	8	8	
+14	gl:G00157	compound	https://www.kegg.jp/dbget-bin/www_bget?G00157		G00157	#000000	#FFFFFF	circle	1311	254	8	8	
+15	hsa:2135 hsa:2137	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2135+hsa:2137	rn:R05930	EXTL2, EXTR2...	#000000	#BFFFBF	rectangle	1311	281	46	17	
+17	hsa:64131 hsa:64132	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:64131+hsa:64132	rn:R05925	XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I...	#66CC66	#FFFFFF	line					1021,296,1064,296
+18	hsa:2131 hsa:2132	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2131+hsa:2132		EXT1, EXT, LGCR, LGS, TRPS2, TTV...	#66CC66	#FFFFFF	line					128,296,178,296
+19	path:hsa00534	map	https://www.kegg.jp/dbget-bin/www_bget?hsa00534		TITLE:Glycosaminoglycan biosynthesis - heparan sulfate / heparin	#000000	#FFFFFF	roundrectangle	298	58	516	25	
+21	hsa:3340 hsa:64579 hsa:8509 hsa:9348	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:3340+hsa:64579+hsa:8509+hsa:9348		NDST1, HSST, MRT46, NST1...	#000000	#BFFFBF	rectangle	379	462	46	17	
+22	hsa:9956	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9956		HS3ST2, 30ST2, 3OST2	#000000	#BFFFBF	rectangle	545	762	46	17	
+23	hsa:9957	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9957		HS3ST1, 3OST, 3OST1	#000000	#BFFFBF	rectangle	379	762	46	17	
+24	hsa:90161	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:90161		HS6ST2, MRXSPM	#000000	#BFFFBF	rectangle	186	610	46	17	
+25	hsa:9957	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9957		HS3ST1, 3OST, 3OST1	#000000	#BFFFBF	rectangle	186	762	46	17	
+31	hsa:9953 hsa:9955	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9953+hsa:9955		HS3ST3B1, 3-OST-3B, 3OST3B1, h3-OST-3B...	#000000	#BFFFBF	rectangle	786	941	46	17	
+32	hsa:9956	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9956		HS3ST2, 30ST2, 3OST2	#000000	#BFFFBF	rectangle	939	941	46	17	
+33	hsa:9394	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9394		HS6ST1, HH15, HS6ST	#000000	#BFFFBF	rectangle	1105	799	46	17	
+34	hsa:26035	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:26035		GLCE, HSEPI	#000000	#BFFFBF	rectangle	610	511	46	17	
+35	cpd:C00054	compound	https://www.kegg.jp/dbget-bin/www_bget?C00054		C00054	#000000	#FFFFFF	circle	1343	660	8	8	
+36	cpd:C00053	compound	https://www.kegg.jp/dbget-bin/www_bget?C00053		C00053	#000000	#FFFFFF	circle	1282	623	8	8	
+37	cpd:C00033	compound	https://www.kegg.jp/dbget-bin/www_bget?C00033		C00033	#000000	#FFFFFF	circle	1283	660	8	8	
+43	hsa:11285	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:11285	rn:R05926	B4GALT7, EDSP1, EDSSLA, EDSSPD1, XGALT1, XGPT, XGPT1	#66CC66	#FFFFFF	line					937,296,980,296
+44	hsa:9653	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9653		HS2ST1, NFSRA, dJ604K5.2	#000000	#BFFFBF	rectangle	964	610	46	17	
+46	hsa:2131 hsa:2132	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2131+hsa:2132	rn:R05935	EXT1, EXT, LGCR, LGS, TRPS2, TTV...	#000000	#BFFFBF	rectangle	1311	352	46	17	
+48	hsa:2134 hsa:2137	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2134+hsa:2137	rn:R05936	EXTL1, EXTL...	#000000	#BFFFBF	rectangle	1312	422	46	17	
+53	hsa:26035	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:26035		GLCE, HSEPI	#000000	#BFFFBF	rectangle	1312	718	46	17	
+54	hsa:126792	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:126792	rn:R05927	B3GALT6, ALGAZ, EDSP2, EDSSPD2, SEMDJL1, beta3GalT6	#66CC66	#FFFFFF	line					851,296,894,296
+55	hsa:26229	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:26229	rn:R05928	B3GAT3, GLCATI, JDSCD, glcUAT-I	#66CC66	#FFFFFF	line					761,296,804,296
+56	hsa:2135 hsa:2137	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2135+hsa:2137	rn:R05930	EXTL2, EXTR2...	#66CC66	#FFFFFF	line					671,296,714,296
+57	hsa:2131 hsa:2132	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2131+hsa:2132	rn:R05935	EXT1, EXT, LGCR, LGS, TRPS2, TTV...	#66CC66	#FFFFFF	line					567,296,610,296
+58	hsa:2134 hsa:2137	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2134+hsa:2137	rn:R05936	EXTL1, EXTL...	#66CC66	#FFFFFF	line					479,296,522,296
+59	hsa:2131 hsa:2132	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2131+hsa:2132	rn:R10138	EXT1, EXT, LGCR, LGS, TRPS2, TTV...	#66CC66	#FFFFFF	line					375,296,418,296
+60	hsa:2131 hsa:2132	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2131+hsa:2132	rn:R10139	EXT1, EXT, LGCR, LGS, TRPS2, TTV...	#66CC66	#FFFFFF	line					285,296,328,296
+61	hsa:2131 hsa:2132	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2131+hsa:2132		EXT1, EXT, LGCR, LGS, TRPS2, TTV...	#66CC66	#FFFFFF	line					182,296,225,296
+62	hsa:9653	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9653		HS2ST1, NFSRA, dJ604K5.2	#000000	#BFFFBF	rectangle	545	610	46	17	
+63	hsa:9394	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9394		HS6ST1, HH15, HS6ST	#000000	#BFFFBF	rectangle	698	610	46	17	
+64	hsa:266722	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:266722		HS6ST3, HS6ST-3	#000000	#BFFFBF	rectangle	238	610	46	17	
+65	hsa:266722	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:266722		HS6ST3, HS6ST-3	#000000	#BFFFBF	rectangle	750	610	46	17	
+66	hsa:266722	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:266722		HS6ST3, HS6ST-3	#000000	#BFFFBF	rectangle	1155	799	46	17	
+142	path:hsa00531	map	https://www.kegg.jp/dbget-bin/www_bget?hsa00531		Glycosaminoglycan degradation	#000000	#FFFFFF	roundrectangle	1319	988	116	34	
+149	hsa:3340 hsa:64579 hsa:8509 hsa:9348	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:3340+hsa:64579+hsa:8509+hsa:9348		NDST1, HSST, MRT46, NST1...	#000000	#BFFFBF	rectangle	1312	640	46	17	
+154	hsa:222537	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:222537		HS3ST5, 3-OST-5, 3OST5, HS3OST5, NBLA04021	#000000	#BFFFBF	rectangle	238	762	46	17	
+155	hsa:9953 hsa:9955	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9953+hsa:9955		HS3ST3B1, 3-OST-3B, 3OST3B1, h3-OST-3B...	#000000	#BFFFBF	rectangle	989	941	46	17	
+157	hsa:9953 hsa:9955	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9953+hsa:9955		HS3ST3B1, 3-OST-3B, 3OST3B1, h3-OST-3B...	#000000	#BFFFBF	rectangle	1130	942	46	17	

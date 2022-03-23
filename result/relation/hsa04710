@@ -1,0 +1,17 @@
+entry1	entry2	type	name	value
+51	13	GErel	expression	-->
+64	13	GErel	expression	-->
+64	21	GErel	expression	-->
+64	63	GErel	expression	-->
+64	12	GErel	expression	-->
+64	11	GErel	expression	-->
+12	8	GErel	repression	--|
+65	64	PPrel	inhibition	--|
+55	13	PPrel	activation	-->
+55	13	PPrel	phosphorylation	+p
+47	21	PPrel	activation	-->
+47	21	PPrel	phosphorylation	+p
+66	13	PPrel	inhibition	--|
+66	13	PPrel	ubiquitination	+u
+27	21	PPrel	inhibition	--|
+27	21	PPrel	ubiquitination	+u

@@ -1,0 +1,46 @@
+entry1	entry2	type	name	value
+148	27	PCrel	activation	-->
+27	135	PPrel	activation	-->
+135	136	PPrel	activation	-->
+136	142	PCrel	activation	-->
+142	141	PCrel	activation	-->
+143	138	PCrel	activation	-->
+55	117	PCrel	activation	-->
+117	120	PPrel	activation	-->
+117	37	PPrel	activation	-->
+37	38	PPrel	activation	-->
+46	50	PCrel	activation	-->
+52	53	PCrel	activation	-->
+47	53	PCrel	activation	-->
+37	119	PPrel	activation	-->
+55	125	PCrel	activation	-->
+55	25	PCrel	activation	-->
+25	34	PPrel	activation	-->
+34	35	PPrel	activation	-->
+39	36	PCrel	activation	-->
+97	39	PCrel	activation	-->
+92	93	PPrel	activation	-->
+103	93	PPrel	activation	-->
+93	166	PPrel	activation	-->
+172	170	PCrel	activation	-->
+173	167	PCrel	activation	-->
+93	180	PPrel	inhibition	--|
+170	168	PPrel	inhibition	--|
+154	35	PPrel	inhibition	--|
+154	35	PPrel	indirect effect	..>
+197	198	PPrel	activation	-->
+198	199	PPrel	activation	-->
+178	197	PCrel	activation	-->
+178	197	PCrel	indirect effect	..>
+178	171	PCrel	activation	-->
+178	171	PCrel	indirect effect	..>
+178	170	PCrel	activation	-->
+55	92	PCrel	activation	-->
+55	103	PCrel	activation	-->
+93	181	PPrel	activation	-->
+93	35	PPrel	inhibition	--|
+169	170	PPrel	activation	-->
+199	169	PPrel	activation	-->
+199	169	PPrel	phosphorylation	+p
+171	169	PPrel	inhibition	--|
+171	169	PPrel	dephosphorylation	-p

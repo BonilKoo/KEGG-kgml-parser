@@ -1,0 +1,24 @@
+entry1	entry2	type	name	value
+28	29	PCrel	state change	...
+28	18	PCrel	activation	-->
+14	18	PCrel	activation	-->
+18	11	GErel	expression	-->
+18	13	GErel	expression	-->
+18	19	GErel	expression	-->
+18	26	GErel	expression	-->
+18	12	GErel	expression	-->
+42	38	PPrel	activation	-->
+60	38	PPrel	activation	-->
+38	39	PPrel	activation	-->
+39	40	PPrel	activation	-->
+40	48	PCrel	activation	-->
+48	41	PCrel	activation	-->
+41	13	PPrel	activation	-->
+41	13	PPrel	phosphorylation	+p
+13	64	PPrel	activation	-->
+13	20	PPrel	inhibition	--|
+13	20	PPrel	phosphorylation	+p
+20	11	PPrel	ubiquitination	+u
+66	20	PPrel	binding/association	---
+19	40	PPrel	activation	-->
+19	40	PPrel	indirect effect	..>

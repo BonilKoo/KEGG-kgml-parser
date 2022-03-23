@@ -1,0 +1,33 @@
+entry1	entry2	type	name	value
+40	32	GErel	expression	-->
+32	28	GErel	expression	-->
+10	7	GErel	expression	-->
+10	29	GErel	expression	-->
+29	33	GErel	expression	-->
+29	36	GErel	expression	-->
+29	22	GErel	expression	-->
+29	14	GErel	expression	-->
+38	12	GErel	expression	-->
+16	12	GErel	expression	-->
+30	12	GErel	expression	-->
+30	21	GErel	expression	-->
+30	11	GErel	expression	-->
+30	19	GErel	expression	-->
+18	19	GErel	expression	-->
+18	11	GErel	expression	-->
+18	21	GErel	expression	-->
+25	19	GErel	expression	-->
+25	11	GErel	expression	-->
+25	21	GErel	expression	-->
+16	19	GErel	expression	-->
+12	26	GErel	expression	-->
+12	31	GErel	expression	-->
+20	31	GErel	expression	-->
+20	17	GErel	expression	-->
+20	13	GErel	expression	-->
+31	27	GErel	expression	-->
+31	24	GErel	expression	-->
+8	29	PPrel	inhibition	--|
+34	32	PPrel	indirect effect	..>
+35	32	PPrel	indirect effect	..>
+33	37	PPrel	indirect effect	..>

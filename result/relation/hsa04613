@@ -1,0 +1,103 @@
+entry1	entry2	type	name	value
+252	253	PPrel	activation	-->
+253	254	PPrel	activation	-->
+22	40	PPrel	activation	-->
+40	44	PCrel	activation	-->
+44	46	PCrel	activation	-->
+40	42	PCrel	activation	-->
+22	29	PPrel	activation	-->
+29	36	PCrel	activation	-->
+36	58	PCrel	activation	-->
+36	307	PCrel	activation	-->
+180	178	PPrel	activation	-->
+177	178	PPrel	activation	-->
+466	461	PCrel	activation	-->
+466	462	PCrel	activation	-->
+467	461	PCrel	activation	-->
+467	462	PCrel	activation	-->
+488	315	PCrel	activation	-->
+415	414	PCrel	activation	-->
+294	190	PPrel	activation	-->
+297	296	PPrel	activation	-->
+298	295	PPrel	activation	-->
+491	193	PCrel	activation	-->
+491	179	PCrel	activation	-->
+492	193	PPrel	activation	-->
+492	179	PPrel	activation	-->
+187	186	PPrel	activation	-->
+188	189	PPrel	activation	-->
+498	217	PCrel	activation	-->
+46	264	PPrel	activation	-->
+254	48	PPrel	activation	-->
+254	48	PPrel	phosphorylation	+p
+48	49	PPrel	activation	-->
+48	49	PPrel	phosphorylation	+p
+47	48	PPrel	activation	-->
+47	48	PPrel	phosphorylation	+p
+21	20	PPrel	activation	-->
+21	19	PPrel	activation	-->
+21	461	PPrel	activation	-->
+21	462	PPrel	activation	-->
+21	315	PPrel	activation	-->
+21	190	PPrel	activation	-->
+21	296	PPrel	activation	-->
+21	295	PPrel	activation	-->
+49	498	PPrel	activation	-->
+49	498	PPrel	indirect effect	..>
+197	498	PPrel	activation	-->
+197	498	PPrel	indirect effect	..>
+217	199	PCrel	activation	-->
+217	199	PCrel	indirect effect	..>
+46	498	PPrel	activation	-->
+46	498	PPrel	indirect effect	..>
+52	201	PCrel	activation	-->
+52	201	PCrel	indirect effect	..>
+42	52	PCrel	activation	-->
+42	52	PCrel	indirect effect	..>
+58	263	PPrel	activation	-->
+58	263	PPrel	indirect effect	..>
+263	264	PPrel	activation	-->
+263	264	PPrel	indirect effect	..>
+19	22	PPrel	binding/association	---
+28	20	PPrel	binding/association	---
+28	19	PPrel	binding/association	---
+461	22	PPrel	binding/association	---
+462	22	PPrel	binding/association	---
+315	22	PPrel	binding/association	---
+190	22	PPrel	binding/association	---
+296	22	PPrel	binding/association	---
+295	22	PPrel	binding/association	---
+190	323	PCrel	activation	-->
+190	323	PCrel	indirect effect	..>
+296	323	PCrel	activation	-->
+296	323	PCrel	indirect effect	..>
+295	323	PCrel	activation	-->
+295	323	PCrel	indirect effect	..>
+323	322	PCrel	activation	-->
+323	322	PCrel	indirect effect	..>
+193	496	PPrel	activation	-->
+193	496	PPrel	indirect effect	..>
+179	497	PPrel	activation	-->
+179	497	PPrel	indirect effect	..>
+499	204	PPrel	binding/association	---
+204	200	PPrel	binding/association	---
+198	459	PPrel	state change	...
+199	454	PPrel	state change	...
+459	260	PPrel	state change	...
+454	259	PPrel	state change	...
+201	262	PPrel	state change	...
+322	262	PPrel	state change	...
+213	46	PCrel	activation	-->
+213	46	PCrel	indirect effect	..>
+480	200	PPrel	binding/association	---
+472	498	PPrel	inhibition	--|
+472	498	PPrel	indirect effect	..>
+414	40	PPrel	activation	-->
+414	40	PPrel	indirect effect	..>
+414	29	PPrel	activation	-->
+414	29	PPrel	indirect effect	..>
+22	49	PPrel	activation	-->
+22	49	PPrel	indirect effect	..>
+218	229	PCrel	activation	-->
+218	229	PCrel	indirect effect	..>
+475	472	PCrel	activation	-->

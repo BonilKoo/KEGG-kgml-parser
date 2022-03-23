@@ -1,0 +1,30 @@
+entry1	entry2	type	name	value
+88	64	PPrel	activation	-->
+64	71	PPrel	activation	-->
+86	65	PCrel	activation	-->
+65	71	PPrel	activation	-->
+71	72	PPrel	activation	-->
+81	72	PCrel	activation	-->
+81	82	PCrel	activation	-->
+72	74	PCrel	activation	-->
+74	73	PCrel	activation	-->
+75	166	PCrel	activation	-->
+166	168	PPrel	activation	-->
+166	167	PPrel	activation	-->
+61	79	PCrel	activation	-->
+79	96	PPrel	activation	-->
+96	66	PPrel	activation	-->
+66	67	PCrel	activation	-->
+67	69	PCrel	activation	-->
+137	135	PPrel	activation	-->
+135	134	PPrel	activation	-->
+82	158	PPrel	activation	-->
+82	158	PPrel	phosphorylation	+p
+69	119	PPrel	activation	-->
+69	119	PPrel	phosphorylation	+p
+158	159	PPrel	binding/association	---
+134	66	PPrel	inhibition	--|
+67	116	PCrel	activation	-->
+67	116	PCrel	indirect effect	..>
+67	153	PCrel	activation	-->
+67	153	PCrel	indirect effect	..>

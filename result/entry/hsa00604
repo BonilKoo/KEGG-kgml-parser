@@ -1,0 +1,70 @@
+id	name_entry	type_entry	reaction	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height	coords
+17	hsa:6482 hsa:6483	gene	rn:R05949	https://www.kegg.jp/dbget-bin/www_bget?hsa:6482+hsa:6483	ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA.1, ST3GalIA, ST3GalIA,1, ST3O...	#000000	#BFFFBF	rectangle	536	447	46	17	
+35	hsa:2720	gene	rn:R06010	https://www.kegg.jp/dbget-bin/www_bget?hsa:2720	GLB1, EBP, ELNR1, MPS4B	#000000	#BFFFBF	rectangle	398	351	46	17	
+36	hsa:3073 hsa:3074	gene	rn:R06004	https://www.kegg.jp/dbget-bin/www_bget?hsa:3073+hsa:3074	HEXA, TSD...	#000000	#BFFFBF	rectangle	398	245	46	17	
+37	hsa:6489	gene	rn:R05947	https://www.kegg.jp/dbget-bin/www_bget?hsa:6489	ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI	#000000	#BFFFBF	rectangle	614	162	46	17	
+38	gl:G00129	compound		https://www.kegg.jp/dbget-bin/www_bget?G00129	G00129	#000000	#FFFFFF	circle	83	703	8	8	
+39	gl:G00128	compound		https://www.kegg.jp/dbget-bin/www_bget?G00128	G00128	#000000	#FFFFFF	circle	83	646	8	8	
+40	gl:G00127	compound		https://www.kegg.jp/dbget-bin/www_bget?G00127	G00127	#000000	#FFFFFF	circle	83	504	8	8	
+41	gl:G00132	compound		https://www.kegg.jp/dbget-bin/www_bget?G00132	G00132	#000000	#FFFFFF	circle	83	394	8	8	
+42	gl:G00131	compound		https://www.kegg.jp/dbget-bin/www_bget?G00131	G00131	#000000	#FFFFFF	circle	83	338	8	8	
+43	gl:G00130	compound		https://www.kegg.jp/dbget-bin/www_bget?G00130	G00130	#000000	#FFFFFF	circle	83	283	8	8	
+44	gl:G00170	compound		https://www.kegg.jp/dbget-bin/www_bget?G00170	G00170	#000000	#FFFFFF	circle	698	116	8	8	
+45	gl:G00122	compound		https://www.kegg.jp/dbget-bin/www_bget?G00122	G00122	#000000	#FFFFFF	circle	698	616	8	8	
+46	gl:G00121	compound		https://www.kegg.jp/dbget-bin/www_bget?G00121	G00121	#000000	#FFFFFF	circle	698	504	8	8	
+47	gl:G00120	compound		https://www.kegg.jp/dbget-bin/www_bget?G00120	G00120	#000000	#FFFFFF	circle	698	394	8	8	
+48	gl:G00119	compound		https://www.kegg.jp/dbget-bin/www_bget?G00119	G00119	#000000	#FFFFFF	circle	698	283	8	8	
+49	gl:G00118	compound		https://www.kegg.jp/dbget-bin/www_bget?G00118	G00118	#000000	#FFFFFF	circle	698	172	8	8	
+50	gl:G00169	compound		https://www.kegg.jp/dbget-bin/www_bget?G00169	G00169	#000000	#FFFFFF	circle	537	116	8	8	
+51	gl:G00168	compound		https://www.kegg.jp/dbget-bin/www_bget?G00168	G00168	#000000	#FFFFFF	circle	461	504	8	8	
+52	gl:G00166	compound		https://www.kegg.jp/dbget-bin/www_bget?G00166	G00166	#000000	#FFFFFF	circle	461	394	8	8	
+53	gl:G00126	compound		https://www.kegg.jp/dbget-bin/www_bget?G00126	G00126	#000000	#FFFFFF	circle	214	616	8	8	
+54	gl:G00167	compound		https://www.kegg.jp/dbget-bin/www_bget?G00167	G00167	#000000	#FFFFFF	circle	301	504	8	8	
+55	gl:G00125	compound		https://www.kegg.jp/dbget-bin/www_bget?G00125	G00125	#000000	#FFFFFF	circle	214	504	8	8	
+56	hsa:29906	gene	rn:R05947	https://www.kegg.jp/dbget-bin/www_bget?hsa:29906	ST8SIA5, SIAT8-E, SIAT8E, ST8SiaV	#000000	#BFFFBF	rectangle	614	183	46	17	
+57	hsa:9197	gene		https://www.kegg.jp/dbget-bin/www_bget?hsa:9197	SLC33A1, ACATN, AT-1, AT1, CCHLND, SPG42	#000000	#BFFFBF	rectangle	698	148	46	17	
+58	hsa:8705	gene	rn:R05953	https://www.kegg.jp/dbget-bin/www_bget?hsa:8705	B3GALT4, BETA3GALT4, GALT2, GALT4	#000000	#BFFFBF	rectangle	698	331	46	17	
+59	hsa:2583	gene	rn:R05952	https://www.kegg.jp/dbget-bin/www_bget?hsa:2583	B4GALNT1, GALGT, GALNACT, GalNAc-T, SPG26	#000000	#BFFFBF	rectangle	698	224	46	17	
+60	hsa:29906	gene	rn:R05950	https://www.kegg.jp/dbget-bin/www_bget?hsa:29906	ST8SIA5, SIAT8-E, SIAT8E, ST8SiaV	#000000	#BFFFBF	rectangle	536	560	46	17	
+61	hsa:30815	gene	rn:R05951	https://www.kegg.jp/dbget-bin/www_bget?hsa:30815	ST6GALNAC6, SIAT7-F, SIAT7F, ST6GALNACVI	#000000	#BFFFBF	rectangle	485	560	46	17	
+62	hsa:30815	gene	rn:R05945	https://www.kegg.jp/dbget-bin/www_bget?hsa:30815	ST6GALNAC6, SIAT7-F, SIAT7F, ST6GALNACVI	#000000	#BFFFBF	rectangle	325	560	46	17	
+63	path:hsa00600	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00600	Sphingolipid metabolism	#000000	#FFFFFF	roundrectangle	96	172	76	34	
+64	gl:G00115	compound		https://www.kegg.jp/dbget-bin/www_bget?G00115	G00115	#000000	#FFFFFF	circle	537	394	8	8	
+65	hsa:29906	gene	rn:R05958	https://www.kegg.jp/dbget-bin/www_bget?hsa:29906	ST8SIA5, SIAT8-E, SIAT8E, ST8SiaV	#000000	#BFFFBF	rectangle	214	560	46	17	
+66	hsa:256435	gene	rn:R05959	https://www.kegg.jp/dbget-bin/www_bget?hsa:256435	ST6GALNAC3, PRO7177, SIAT7C, ST6GALNACIII, STY	#000000	#BFFFBF	rectangle	129	494	46	17	
+67	hsa:6489	gene	rn:R05940	https://www.kegg.jp/dbget-bin/www_bget?hsa:6489	ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI	#000000	#BFFFBF	rectangle	448	171	46	17	
+68	hsa:27090	gene	rn:R05959	https://www.kegg.jp/dbget-bin/www_bget?hsa:27090	ST6GALNAC4, IV, SIAT3-C, SIAT3C, SIAT7-D, SIAT7D, ST6GALNACIV, ST6GalNAc	#000000	#BFFFBF	rectangle	177	494	46	17	
+69	hsa:29906	gene	rn:R05943	https://www.kegg.jp/dbget-bin/www_bget?hsa:29906	ST8SIA5, SIAT8-E, SIAT8E, ST8SiaV	#000000	#BFFFBF	rectangle	376	560	46	17	
+70	hsa:8705	gene	rn:R05948	https://www.kegg.jp/dbget-bin/www_bget?hsa:8705	B3GALT4, BETA3GALT4, GALT2, GALT4	#000000	#BFFFBF	rectangle	536	331	46	17	
+71	hsa:9197	gene		https://www.kegg.jp/dbget-bin/www_bget?hsa:9197	SLC33A1, ACATN, AT-1, AT1, CCHLND, SPG42	#000000	#BFFFBF	rectangle	536	148	46	17	
+72	hsa:6482 hsa:6483	gene	rn:R05942	https://www.kegg.jp/dbget-bin/www_bget?hsa:6482+hsa:6483	ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA.1, ST3GalIA, ST3GalIA,1, ST3O...	#000000	#BFFFBF	rectangle	376	447	46	17	
+73	hsa:8869	gene	rn:R05937	https://www.kegg.jp/dbget-bin/www_bget?hsa:8869	ST3GAL5, SATI, SIAT9, SIATGM3S, SPDRS, ST3Gal_V, ST3GalV	#000000	#BFFFBF	rectangle	287	171	46	17	
+74	hsa:2583	gene	rn:R05938	https://www.kegg.jp/dbget-bin/www_bget?hsa:2583	B4GALNT1, GALGT, GALNACT, GalNAc-T, SPG26	#000000	#BFFFBF	rectangle	214	224	46	17	
+76	hsa:8705	gene	rn:R05956	https://www.kegg.jp/dbget-bin/www_bget?hsa:8705	B3GALT4, BETA3GALT4, GALT2, GALT4	#000000	#BFFFBF	rectangle	214	331	46	17	
+77	hsa:8705	gene	rn:R05941	https://www.kegg.jp/dbget-bin/www_bget?hsa:8705	B3GALT4, BETA3GALT4, GALT2, GALT4	#000000	#BFFFBF	rectangle	353	331	46	17	
+79	hsa:2583	gene	rn:R05939	https://www.kegg.jp/dbget-bin/www_bget?hsa:2583	B4GALNT1, GALGT, GALNACT, GalNAc-T, SPG26	#000000	#BFFFBF	rectangle	353	224	46	17	
+80	hsa:6482 hsa:6483	gene	rn:R05957	https://www.kegg.jp/dbget-bin/www_bget?hsa:6482+hsa:6483	ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA.1, ST3GalIA, ST3GalIA,1, ST3O...	#000000	#BFFFBF	rectangle	214	447	46	17	
+81	hsa:2583	gene	rn:R05946	https://www.kegg.jp/dbget-bin/www_bget?hsa:2583	B4GALNT1, GALGT, GALNACT, GalNAc-T, SPG26	#000000	#BFFFBF	rectangle	536	224	46	17	
+82	path:hsa00604	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00604	TITLE:Glycosphingolipid biosynthesis - ganglio series	#000000	#FFFFFF	roundrectangle	242	58	403	25	
+83	hsa:30815	gene	rn:R05959	https://www.kegg.jp/dbget-bin/www_bget?hsa:30815	ST6GALNAC6, SIAT7-F, SIAT7F, ST6GALNACVI	#000000	#BFFFBF	rectangle	177	515	46	17	
+84	hsa:81849	gene	rn:R05959	https://www.kegg.jp/dbget-bin/www_bget?hsa:81849	ST6GALNAC5, SIAT7-E, SIAT7E, ST6GalNAcV	#000000	#BFFFBF	rectangle	129	515	46	17	
+86	gl:G00092	compound		https://www.kegg.jp/dbget-bin/www_bget?G00092	G00092	#000000	#FFFFFF	circle	214	172	8	8	
+87	gl:G00123	compound		https://www.kegg.jp/dbget-bin/www_bget?G00123	G00123	#000000	#FFFFFF	circle	214	283	8	8	
+88	gl:G00124	compound		https://www.kegg.jp/dbget-bin/www_bget?G00124	G00124	#000000	#FFFFFF	circle	214	394	8	8	
+89	gl:G00112	compound		https://www.kegg.jp/dbget-bin/www_bget?G00112	G00112	#000000	#FFFFFF	circle	375	616	8	8	
+90	gl:G00111	compound		https://www.kegg.jp/dbget-bin/www_bget?G00111	G00111	#000000	#FFFFFF	circle	375	504	8	8	
+91	gl:G00110	compound		https://www.kegg.jp/dbget-bin/www_bget?G00110	G00110	#000000	#FFFFFF	circle	375	394	8	8	
+92	gl:G00109	compound		https://www.kegg.jp/dbget-bin/www_bget?G00109	G00109	#000000	#FFFFFF	circle	375	283	8	8	
+93	gl:G00108	compound		https://www.kegg.jp/dbget-bin/www_bget?G00108	G00108	#000000	#FFFFFF	circle	375	172	8	8	
+94	gl:G00113	compound		https://www.kegg.jp/dbget-bin/www_bget?G00113	G00113	#000000	#FFFFFF	circle	537	172	8	8	
+95	gl:G00114	compound		https://www.kegg.jp/dbget-bin/www_bget?G00114	G00114	#000000	#FFFFFF	circle	537	283	8	8	
+96	gl:G00116	compound		https://www.kegg.jp/dbget-bin/www_bget?G00116	G00116	#000000	#FFFFFF	circle	537	504	8	8	
+97	gl:G00117	compound		https://www.kegg.jp/dbget-bin/www_bget?G00117	G00117	#000000	#FFFFFF	circle	537	616	8	8	
+101	hsa:8705	gene	rn:R05956 rn:R05941 rn:R05948 rn:R05953	https://www.kegg.jp/dbget-bin/www_bget?hsa:8705	B3GALT4, BETA3GALT4, GALT2, GALT4	#66CC66	#FFFFFF	line					349,805,364,790
+102	hsa:29906	gene	rn:R05958 rn:R05943 rn:R05950 rn:R05955	https://www.kegg.jp/dbget-bin/www_bget?hsa:29906	ST8SIA5, SIAT8-E, SIAT8E, ST8SiaV	#66CC66	#FFFFFF	line					205,787,235,787
+103	hsa:6482 hsa:6483	gene	rn:R05957 rn:R05942 rn:R05949 rn:R05954	https://www.kegg.jp/dbget-bin/www_bget?hsa:6482+hsa:6483	ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA.1, ST3GalIA, ST3GalIA,1, ST3O...	#66CC66	#FFFFFF	line					298,787,313,802
+105	hsa:256435 hsa:27090 hsa:30815 hsa:81849	gene	rn:R05959 rn:R05945 rn:R05951	https://www.kegg.jp/dbget-bin/www_bget?hsa:256435+hsa:27090+hsa:30815+hsa:81849	ST6GALNAC3, PRO7177, SIAT7C, ST6GALNACIII, STY...	#66CC66	#FFFFFF	line					350,760,365,775
+106	hsa:29906 hsa:6489	gene	rn:R05947	https://www.kegg.jp/dbget-bin/www_bget?hsa:29906+hsa:6489	ST8SIA5, SIAT8-E, SIAT8E, ST8SiaV...	#66CC66	#FFFFFF	line					239,858,269,858
+107	hsa:6489	gene	rn:R05940	https://www.kegg.jp/dbget-bin/www_bget?hsa:6489	ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI	#66CC66	#FFFFFF	line					332,858,362,858
+108	hsa:2583	gene	rn:R05938 rn:R05939 rn:R05946 rn:R05952	https://www.kegg.jp/dbget-bin/www_bget?hsa:2583	B4GALNT1, GALGT, GALNACT, GalNAc-T, SPG26	#66CC66	#FFFFFF	line					420,791,440,811
+109	hsa:8869	gene	rn:R05937	https://www.kegg.jp/dbget-bin/www_bget?hsa:8869	ST3GAL5, SATI, SIAT9, SIATGM3S, SPDRS, ST3Gal_V, ST3GalV	#66CC66	#FFFFFF	line					419,850,439,830

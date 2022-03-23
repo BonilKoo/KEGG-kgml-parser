@@ -1,0 +1,28 @@
+id	name_entry	type_entry	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
+38	ko:K10784 ko:K10785	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K10784+K10785	K10784...	#000000	#FFFFFF	rectangle	568	214	46	17
+39	ko:K10784 ko:K10785	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K10784+K10785	K10784...	#000000	#FFFFFF	rectangle	317	402	46	17
+40	hsa:3382	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3382	ICA1, ICA69, ICAp69	#000000	#BFFFBF	rectangle	166	286	46	17
+41	cpd:C00704 cpd:C00027 cpd:C00533	compound	http://www.kegg.jp/dbget-bin/www_bget?C00704+C00027+C00533	C00704...	#000000	#FFFFFF	circle	264	577	8	8
+42	hsa:940	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:940	CD28, Tp44	#000000	#BFFFBF	rectangle	568	237	46	17
+43	path:hsa04210	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04210	Apoptosis	#000000	#FFFFFF	roundrectangle	139	506	71	25
+44	hsa:3592 hsa:3593	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3592+hsa:3593	IL12A, CLMF, IL-12A, NFSK, NKSF1, P35...	#000000	#BFFFBF	rectangle	514	278	46	17
+45	hsa:1363	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1363	CPE, CPH	#000000	#BFFFBF	rectangle	166	246	46	17
+46	hsa:941 hsa:942	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:941+hsa:942	CD80, B7, B7-1, B7.1, BB1, CD28LG, CD28LG1, LAB7...	#000000	#BFFFBF	rectangle	460	237	46	17
+47	hsa:5798 hsa:5799	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5798+hsa:5799	PTPRN, IA-2, IA-2/PTP, IA2, ICA512, R-PTP-N...	#000000	#BFFFBF	rectangle	166	226	46	17
+48	hsa:2571 hsa:2572	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2571+hsa:2572	GAD1, CPSQ1, GAD, SCP...	#000000	#BFFFBF	rectangle	166	205	46	17
+49	hsa:3329	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3329	HSPD1, CPN60, GROEL, HLD4, HSP-60, HSP60, HSP65, HuCHA60, SPG13	#000000	#BFFFBF	rectangle	166	266	46	17
+50	hsa:3558	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3558	IL2, IL-2, TCGF, lymphokine	#000000	#BFFFBF	rectangle	542	357	46	17
+51	path:hsa04660	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04660	T cell receptor signaling pathway	#000000	#FFFFFF	roundrectangle	645	225	99	34
+52	hsa:3630	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3630	INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	#000000	#BFFFBF	rectangle	166	185	46	17
+53	hsa:356	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:356	FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A	#000000	#BFFFBF	rectangle	317	425	46	17
+54	hsa:3002	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3002	GZMB, C11, CCPI, CGL-1, CGL1, CSP-B, CSPB, CTLA1, CTSGL1, HLP, SECT	#000000	#BFFFBF	rectangle	263	477	46	17
+55	hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3108+hsa:3109+hsa:3111+hsa:3112+hsa:3113+hsa:3115+hsa:3117+hsa:3118+hsa:3119+hsa:3122+hsa:3123+hsa:3125+hsa:3126+hsa:3127	HLA-DMA, D6S222E, DMA, HLADM, RING6...	#000000	#BFFFBF	rectangle	460	214	46	17
+56	hsa:3105 hsa:3106 hsa:3107 hsa:3133 hsa:3134 hsa:3135	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3105+hsa:3106+hsa:3107+hsa:3133+hsa:3134+hsa:3135	HLA-A, HLAA...	#000000	#BFFFBF	rectangle	209	402	46	17
+57	hsa:355	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:355	FAS, ALPS1A, APO-1, APT1, CD95, FAS1, FASTM, TNFRSF6	#000000	#BFFFBF	rectangle	209	425	46	17
+58	hsa:3458	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3458	IFNG, IFG, IFI	#000000	#BFFFBF	rectangle	263	499	46	17
+59	hsa:3458	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3458	IFNG, IFG, IFI	#000000	#BFFFBF	rectangle	599	357	46	17
+60	hsa:5551	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5551	PRF1, HPLH2, P1, PFP	#000000	#BFFFBF	rectangle	263	458	46	17
+61	hsa:3552 hsa:3553	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3552+hsa:3553	IL1A, IL-1A, IL1, IL1-ALPHA, IL1F1...	#000000	#BFFFBF	rectangle	263	559	46	17
+62	hsa:7124	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:7124	TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F	#000000	#BFFFBF	rectangle	263	540	46	17
+63	hsa:4049	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4049	LTA, LT, TNFB, TNFSF1, TNLG1E	#000000	#BFFFBF	rectangle	263	518	46	17
+64	path:hsa04940	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04940	TITLE:Type I diabetes mellitus	#000000	#FFFFFF	roundrectangle	149	58	218	25

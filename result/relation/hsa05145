@@ -1,0 +1,68 @@
+entry1	entry2	type	name	value
+124	125	PPrel	binding/association	---
+125	47	PPrel	binding/association	---
+47	48	PPrel	activation	-->
+47	48	PPrel	phosphorylation	+p
+48	49	PPrel	activation	-->
+60	47	PPrel	inhibition	--|
+60	47	PPrel	binding/association	---
+6	7	PPrel	activation	-->
+7	8	PPrel	activation	-->
+8	218	PPrel	activation	-->
+9	17	PPrel	activation	-->
+9	17	PPrel	phosphorylation	+p
+17	16	PPrel	activation	-->
+17	16	PPrel	phosphorylation	+p
+9	15	PPrel	activation	-->
+9	15	PPrel	phosphorylation	+p
+9	15	PPrel	indirect effect	..>
+9	14	PPrel	activation	-->
+9	14	PPrel	phosphorylation	+p
+9	14	PPrel	indirect effect	..>
+9	11	PPrel	activation	-->
+9	11	PPrel	phosphorylation	+p
+11	12	PPrel	activation	-->
+11	12	PPrel	phosphorylation	+p
+12	13	PPrel	dissociation	-+-
+118	119	PPrel	binding/association	---
+119	6	PPrel	activation	-->
+120	122	PPrel	binding/association	---
+122	6	PPrel	activation	-->
+113	105	PPrel	binding/association	---
+164	165	PPrel	binding/association	---
+165	87	PPrel	activation	-->
+165	87	PPrel	indirect effect	..>
+74	85	PPrel	activation	-->
+85	86	PPrel	activation	-->
+87	86	PPrel	activation	-->
+90	91	PPrel	activation	-->
+90	91	PPrel	indirect effect	..>
+91	92	PPrel	compound	94
+91	92	PPrel	activation	-->
+92	93	PPrel	activation	-->
+92	93	PPrel	phosphorylation	+p
+93	161	PPrel	inhibition	--|
+93	161	PPrel	phosphorylation	+p
+129	130	PPrel	binding/association	---
+128	127	PPrel	activation	-->
+127	19	PPrel	activation	-->
+200	199	PPrel	binding/association	---
+199	207	PPrel	binding/association	---
+207	82	PPrel	activation	-->
+207	82	PPrel	phosphorylation	+p
+174	85	PPrel	inhibition	--|
+174	86	PPrel	inhibition	--|
+49	51	GErel	expression	-->
+48	50	GErel	expression	-->
+48	43	GErel	expression	-->
+13	43	GErel	expression	-->
+13	39	GErel	expression	-->
+13	40	GErel	expression	-->
+13	41	GErel	expression	-->
+13	42	GErel	expression	-->
+82	45	GErel	repression	--|
+82	45	GErel	indirect effect	..>
+19	45	GErel	expression	-->
+19	45	GErel	indirect effect	..>
+130	45	GErel	expression	-->
+130	45	GErel	indirect effect	..>

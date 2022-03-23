@@ -1,0 +1,197 @@
+id	name_entry	type_entry	link	reaction	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height	coords
+14	ko:K05538	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05538		K05538	#000000	#FFFFFF	rectangle	788	290	46	17	
+15	path:hsa00510	map	http://www.kegg.jp/dbget-bin/www_bget?hsa00510		N-Glycan biosynthesis	#000000	#FFFFFF	roundrectangle	92	148	129	25	
+16	gl:G11040	compound	http://www.kegg.jp/dbget-bin/www_bget?G11040		G11040	#000000	#FFFFFF	circle	655	147	8	8	
+17	gl:G10841	compound	http://www.kegg.jp/dbget-bin/www_bget?G10841		G10841	#000000	#FFFFFF	circle	564	147	8	8	
+18	gl:G01813	compound	http://www.kegg.jp/dbget-bin/www_bget?G01813		G01813	#000000	#FFFFFF	circle	473	147	8	8	
+19	gl:G12625	compound	http://www.kegg.jp/dbget-bin/www_bget?G12625		G12625	#000000	#FFFFFF	circle	473	218	8	8	
+20	gl:G12626	compound	http://www.kegg.jp/dbget-bin/www_bget?G12626		G12626	#000000	#FFFFFF	circle	473	289	8	8	
+21	gl:G00012	compound	http://www.kegg.jp/dbget-bin/www_bget?G00012		G00012	#000000	#FFFFFF	circle	384	147	8	8	
+22	ko:K05529	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05529		K05529	#000000	#FFFFFF	rectangle	451	185	46	17	
+23	ko:K05533	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05533		K05533	#000000	#FFFFFF	rectangle	473	256	46	17	
+24	ko:K05535	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05535		K05535	#000000	#FFFFFF	rectangle	512	289	46	17	
+25	ko:K05538	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05538		K05538	#000000	#FFFFFF	rectangle	603	148	46	17	
+26	ko:K05537	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05537		K05537	#000000	#FFFFFF	rectangle	696	290	46	17	
+27	ko:K05532	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05532		K05532	#000000	#FFFFFF	rectangle	519	239	46	17	
+28	ko:K05530	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05530		K05530	#000000	#FFFFFF	rectangle	496	185	46	17	
+29	hsa:10905 hsa:4121 hsa:57134	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:10905+hsa:4121+hsa:57134	rn:R12479	MAN1A2, MAN1B...	#000000	#BFFFBF	rectangle	332	147	46	17	
+30	ko:K05529	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05529		K05529	#000000	#FFFFFF	rectangle	427	248	46	17	
+31	ko:K05528	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05528	rn:R08599	K05528	#000000	#FFFFFF	rectangle	422	147	46	17	
+32	ko:K05536	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05536		K05536	#000000	#FFFFFF	rectangle	603	289	46	17	
+33	ko:K05534	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05534		K05534	#000000	#FFFFFF	rectangle	519	256	46	17	
+34	ko:K05531	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05531		K05531	#000000	#FFFFFF	rectangle	473	239	46	17	
+35	path:hsa00513	map	http://www.kegg.jp/dbget-bin/www_bget?hsa00513		TITLE:Various types of N-glycan biosynthesis	#000000	#FFFFFF	roundrectangle	213	58	345	25	
+36	gl:G00011	compound	http://www.kegg.jp/dbget-bin/www_bget?G00011		G00011	#000000	#FFFFFF	circle	203	147	8	8	
+37	gl:G13047	compound	http://www.kegg.jp/dbget-bin/www_bget?G13047		G13047	#000000	#FFFFFF	circle	564	289	8	8	
+38	gl:G13048	compound	http://www.kegg.jp/dbget-bin/www_bget?G13048		G13048	#000000	#FFFFFF	circle	655	289	8	8	
+39	gl:G13049	compound	http://www.kegg.jp/dbget-bin/www_bget?G13049		G13049	#000000	#FFFFFF	circle	747	289	8	8	
+40	gl:G13050	compound	http://www.kegg.jp/dbget-bin/www_bget?G13050		G13050	#000000	#FFFFFF	circle	838	289	8	8	
+41	ko:K05529	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05529		K05529	#000000	#FFFFFF	line					148,322,168,322
+42	ko:K05529	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05529		K05529	#000000	#FFFFFF	line					213,323,223,333
+43	ko:K05529	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05529		K05529	#000000	#FFFFFF	line					380,385,400,405
+44	ko:K05535	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05535		K05535	#000000	#FFFFFF	line					379,441,399,421
+45	ko:K05529	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05529		K05529	#000000	#FFFFFF	line					444,413,464,413
+46	ko:K05535	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05535		K05535	#000000	#FFFFFF	line					212,354,222,344
+47	ko:K05538	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05538		K05538	#000000	#FFFFFF	line					84,355,104,355
+48	ko:K05536	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05536		K05536	#000000	#FFFFFF	line					149,355,169,355
+49	ko:K05538	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05538		K05538	#000000	#FFFFFF	line					233,430,253,430
+50	ko:K05537	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05537		K05537	#000000	#FFFFFF	line					293,430,313,430
+51	ko:K05537	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05537		K05537	#000000	#FFFFFF	line					324,432,334,437
+52	ko:K05536	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05536		K05536	#000000	#FFFFFF	line					324,455,334,450
+53	ko:K05538	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05538		K05538	#000000	#FFFFFF	line					258,457,278,457
+54	ko:K05529	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05529		K05529	#000000	#FFFFFF	line					267,340,277,350
+55	ko:K05535	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05535		K05535	#000000	#FFFFFF	line					266,380,276,370
+56	ko:K05538	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05538		K05538	#000000	#FFFFFF	line					137,382,157,382
+57	ko:K05536	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05536		K05536	#000000	#FFFFFF	line					202,382,222,382
+58	ko:K05535	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05535		K05535	#000000	#FFFFFF	line					322,407,334,395
+59	ko:K05538	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05538		K05538	#000000	#FFFFFF	line					191,409,211,409
+60	ko:K05536	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05536		K05536	#000000	#FFFFFF	line					256,409,276,409
+61	ko:K05529	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05529		K05529	#000000	#FFFFFF	line					323,362,335,374
+62	hsa:440138	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:440138	rn:R06127	ALG11, CDG1P, GT8	#66CC66	#FFFFFF	line					514,466,527,453
+63	ko:K05538	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05538		K05538	#000000	#FFFFFF	line					387,472,407,472
+64	hsa:440138	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:440138	rn:R06128	ALG11, CDG1P, GT8	#66CC66	#FFFFFF	line					452,472,472,472
+65	ko:K05528	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05528	rn:R08599	K05528	#000000	#FFFFFF	line					510,413,528,431
+66	ko:K05538	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K05538		K05538	#000000	#FFFFFF	line					388,353,408,353
+67	hsa:79796	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:79796	rn:R06261	ALG9, CDG1L, DIBD1, GIKANIS, LOH11CR1J	#66CC66	#FFFFFF	line					453,353,473,353
+68	hsa:10195	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:10195	rn:R06258	ALG3, CDG1D, CDGS4, CDGS6, D16Ertd36e, NOT56L, Not56, not	#66CC66	#FFFFFF	line					517,390,527,380
+69	hsa:79087	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:79087	rn:R06260	ALG12, CDG1G, ECM39, PP14673, hALG12	#66CC66	#FFFFFF	line					518,353,528,363
+70	hsa:85365	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:85365	rn:R05973	ALG2, CDG1I, CDGIi, CMS14, CMSTA3, NET38, hALPG2	#66CC66	#FFFFFF	line					572,438,592,418
+71	hsa:85365	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:85365	rn:R06238	ALG2, CDG1I, CDGIi, CMS14, CMSTA3, NET38, hALPG2	#66CC66	#FFFFFF	line					573,378,593,398
+72	hsa:56052	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:56052	rn:R05972	ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	#66CC66	#FFFFFF	line					635,408,655,408
+73	hsa:199857 hsa:79868	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:199857+hsa:79868	rn:R05970	ALG14, CMS15...	#66CC66	#FFFFFF	line					713,408,733,408
+74	hsa:1603 hsa:1650 hsa:201595 hsa:3703 hsa:6184 hsa:6185 hsa:7991	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1603+hsa:1650+hsa:201595+hsa:3703+hsa:6184+hsa:6185+hsa:7991	rn:R05976	DAD1, OST2...	#66CC66	#FFFFFF	line					792,408,812,408
+90	hsa:85365	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:85365	rn:R05973	ALG2, CDG1I, CDGIi, CMS14, CMSTA3, NET38, hALPG2	#66CC66	#FFFFFF	line					394,851,414,831
+91	hsa:85365	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:85365	rn:R06238	ALG2, CDG1I, CDGIi, CMS14, CMSTA3, NET38, hALPG2	#66CC66	#FFFFFF	line					394,798,414,818
+92	hsa:56052	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:56052	rn:R05972	ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	#66CC66	#FFFFFF	line					459,824,479,824
+93	hsa:199857 hsa:79868	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:199857+hsa:79868	rn:R05970	ALG14, CMS15...	#66CC66	#FFFFFF	line					537,826,547,836
+94	hsa:1603 hsa:1650 hsa:201595 hsa:3703 hsa:6184 hsa:6185 hsa:7991	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1603+hsa:1650+hsa:201595+hsa:3703+hsa:6184+hsa:6185+hsa:7991	rn:R05976	DAD1, OST2...	#66CC66	#FFFFFF	line					606,844,626,844
+95	ko:K00753	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K00753	rn:R09318	K00753	#000000	#FFFFFF	line					537,860,547,850
+96	ko:K03714	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03714	rn:R06016	K03714	#000000	#FFFFFF	line					435,862,435,842
+97	hsa:4245	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4245	rn:R05983	MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT	#66CC66	#FFFFFF	line					328,852,348,852
+98	hsa:4247	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4247	rn:R05985	MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2	#66CC66	#FFFFFF	line					328,796,348,796
+99	ko:K14412	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K14412		K14412	#000000	#FFFFFF	line					262,834,272,844
+100	ko:K14413	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K14413		K14413	#000000	#FFFFFF	line					261,868,271,858
+101	ko:K14412	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K14412		K14412	#000000	#FFFFFF	line					261,779,271,789
+102	ko:K14413	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K14413		K14413	#000000	#FFFFFF	line					260,813,270,803
+104	path:hsa00510	map	http://www.kegg.jp/dbget-bin/www_bget?hsa00510		N-Glycan biosynthesis	#000000	#FFFFFF	roundrectangle	92	1714	129	25	
+105	hsa:85365	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:85365	rn:R05973	ALG2, CDG1I, CDGIi, CMS14, CMSTA3, NET38, hALPG2	#66CC66	#FFFFFF	line					388,1942,408,1922
+106	hsa:85365	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:85365	rn:R06238	ALG2, CDG1I, CDGIi, CMS14, CMSTA3, NET38, hALPG2	#66CC66	#FFFFFF	line					389,1886,409,1906
+107	hsa:56052	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:56052	rn:R05972	ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	#66CC66	#FFFFFF	line					451,1914,471,1914
+108	hsa:199857 hsa:79868	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:199857+hsa:79868	rn:R05970	ALG14, CMS15...	#66CC66	#FFFFFF	line					529,1912,539,1902
+109	hsa:1603 hsa:1650 hsa:201595 hsa:3703 hsa:6184 hsa:6185 hsa:7991	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1603+hsa:1650+hsa:201595+hsa:3703+hsa:6184+hsa:6185+hsa:7991	rn:R05976	DAD1, OST2...	#66CC66	#FFFFFF	line					598,1895,618,1895
+110	hsa:283358 hsa:338707	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:283358+hsa:338707		B4GALNT3...	#66CC66	#FFFFFF	line					257,1861,267,1871
+111	hsa:2530	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2530	rn:R05988	FUT8, CDGF, CDGF1	#66CC66	#FFFFFF	line					530,1877,540,1887
+112	hsa:64377 hsa:83539	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:64377+hsa:83539		CHST8, GALNAC4ST1, GalNAc4ST, PSS3...	#66CC66	#FFFFFF	line					177,1859,197,1859
+115	gl:G00016	compound	http://www.kegg.jp/dbget-bin/www_bget?G00016		G00016	#000000	#FFFFFF	circle	654	1782	8	8	
+116	hsa:4245	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4245	rn:R05983	MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT	#66CC66	#FFFFFF	line					334,1966,344,1956
+117	hsa:4247	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4247	rn:R05985	MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2	#66CC66	#FFFFFF	line					324,1879,344,1879
+118	gl:G00017	compound	http://www.kegg.jp/dbget-bin/www_bget?G00017		G00017	#000000	#FFFFFF	circle	744	1782	8	8	
+119	gl:G10716	compound	http://www.kegg.jp/dbget-bin/www_bget?G10716		G10716	#000000	#FFFFFF	circle	835	1782	8	8	
+120	hsa:2683 hsa:8703 hsa:8704	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2683+hsa:8703+hsa:8704	rn:R05989	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1...	#66CC66	#FFFFFF	line					255,1896,265,1886
+121	hsa:6487	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:6487		ST3GAL3, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	#66CC66	#FFFFFF	line					198,1898,218,1898
+122	hsa:283358 hsa:338707	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:283358+hsa:338707		B4GALNT3...	#66CC66	#FFFFFF	line					268,1951,278,1961
+123	hsa:64377 hsa:83539	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:64377+hsa:83539		CHST8, GALNAC4ST1, GalNAc4ST, PSS3...	#66CC66	#FFFFFF	line					188,1950,208,1950
+124	hsa:2683 hsa:8703 hsa:8704	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2683+hsa:8703+hsa:8704	rn:R05989	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1...	#66CC66	#FFFFFF	line					266,1986,276,1976
+125	hsa:6487	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:6487		ST3GAL3, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	#66CC66	#FFFFFF	line					209,1989,229,1989
+126	hsa:11282 hsa:11320 hsa:152586 hsa:25834	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:11282+hsa:11320+hsa:152586+hsa:25834	rn:R05987	MGAT4B, GNT-IV, GNT-IVB...	#66CC66	#FFFFFF	line					336,1929,346,1939
+127	hsa:2683 hsa:8703 hsa:8704	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2683+hsa:8703+hsa:8704		B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1...	#66CC66	#FFFFFF	line					258,1928,278,1928
+128	hsa:6487	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:6487		ST3GAL3, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	#66CC66	#FFFFFF	line					201,1928,221,1928
+129	hsa:2530	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2530	rn:R05988	FUT8, CDGF, CDGF1	#000000	#BFFFBF	rectangle	654	1744	46	17	
+130	hsa:2683 hsa:8703 hsa:8704	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2683+hsa:8703+hsa:8704	rn:R05989	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1...	#000000	#BFFFBF	rectangle	695	1783	46	17	
+132	hsa:6487	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:6487		ST3GAL3, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	#000000	#BFFFBF	rectangle	787	1783	46	17	
+134	gl:G11000	compound	http://www.kegg.jp/dbget-bin/www_bget?G11000		G11000	#000000	#FFFFFF	circle	744	1826	8	8	
+135	hsa:283358 hsa:338707	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:283358+hsa:338707		B4GALNT3...	#000000	#BFFFBF	rectangle	696	1827	46	17	
+136	gl:G11933	compound	http://www.kegg.jp/dbget-bin/www_bget?G11933		G11933	#000000	#FFFFFF	circle	835	1826	8	8	
+138	hsa:64377 hsa:83539	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:64377+hsa:83539		CHST8, GALNAC4ST1, GalNAc4ST, PSS3...	#000000	#BFFFBF	rectangle	788	1827	46	17	
+151	gl:G00014	compound	http://www.kegg.jp/dbget-bin/www_bget?G00014		G00014	#000000	#FFFFFF	circle	563	1713	8	8	
+152	gl:G00013	compound	http://www.kegg.jp/dbget-bin/www_bget?G00013		G00013	#000000	#FFFFFF	circle	472	1713	8	8	
+153	gl:G00012	compound	http://www.kegg.jp/dbget-bin/www_bget?G00012		G00012	#000000	#FFFFFF	circle	382	1713	8	8	
+154	gl:G00011	compound	http://www.kegg.jp/dbget-bin/www_bget?G00011		G00011	#000000	#FFFFFF	circle	203	1713	8	8	
+159	gl:G00015	compound	http://www.kegg.jp/dbget-bin/www_bget?G00015		G00015	#000000	#FFFFFF	circle	654	1713	8	8	
+160	hsa:10905 hsa:4121 hsa:57134	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:10905+hsa:4121+hsa:57134	rn:R12479	MAN1A2, MAN1B...	#000000	#BFFFBF	rectangle	332	1713	46	17	
+161	hsa:4245	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4245	rn:R05983	MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT	#000000	#BFFFBF	rectangle	421	1713	46	17	
+162	hsa:4122 hsa:4124	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4122+hsa:4124	rn:R05984	MAN2A2, MANA2X...	#000000	#BFFFBF	rectangle	511	1713	46	17	
+163	hsa:4247	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4247	rn:R05985	MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2	#000000	#BFFFBF	rectangle	602	1713	46	17	
+167	gl:G00011	compound	http://www.kegg.jp/dbget-bin/www_bget?G00011		G00011	#000000	#FFFFFF	circle	203	1448	8	8	
+168	gl:G00012	compound	http://www.kegg.jp/dbget-bin/www_bget?G00012		G00012	#000000	#FFFFFF	circle	378	1448	8	8	
+169	gl:G00013	compound	http://www.kegg.jp/dbget-bin/www_bget?G00013		G00013	#000000	#FFFFFF	circle	468	1448	8	8	
+170	gl:G00014	compound	http://www.kegg.jp/dbget-bin/www_bget?G00014		G00014	#000000	#FFFFFF	circle	559	1448	8	8	
+172	hsa:10905 hsa:4121 hsa:57134	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:10905+hsa:4121+hsa:57134	rn:R12479	MAN1A2, MAN1B...	#000000	#BFFFBF	rectangle	328	1448	46	17	
+173	hsa:4245	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4245	rn:R05983	MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT	#000000	#BFFFBF	rectangle	417	1448	46	17	
+174	hsa:4122 hsa:4124	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4122+hsa:4124	rn:R05984	MAN2A2, MANA2X...	#000000	#BFFFBF	rectangle	507	1448	46	17	
+176	gl:G10770	compound	http://www.kegg.jp/dbget-bin/www_bget?G10770		G10770	#000000	#FFFFFF	circle	559	1519	8	8	
+177	hsa:2530	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2530	rn:R09319	FUT8, CDGF, CDGF1	#000000	#BFFFBF	rectangle	559	1479	46	17	
+179	ko:K14434	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K14434	rn:R09320	K14434	#000000	#FFFFFF	rectangle	598	1520	46	17	
+180	gl:G13057	compound	http://www.kegg.jp/dbget-bin/www_bget?G13057		G13057	#000000	#FFFFFF	circle	651	1519	8	8	
+182	hsa:284004	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:284004	rn:R09323	HEXD, HEXDC	#000000	#BFFFBF	rectangle	687	1519	46	17	
+183	gl:G13058	compound	http://www.kegg.jp/dbget-bin/www_bget?G13058		G13058	#000000	#FFFFFF	circle	741	1519	8	8	
+185	ko:K14464	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K14464	rn:R09324	K14464	#000000	#FFFFFF	rectangle	780	1519	46	17	
+186	gl:G13059	compound	http://www.kegg.jp/dbget-bin/www_bget?G13059		G13059	#000000	#FFFFFF	circle	832	1519	8	8	
+187	path:hsa00510	map	http://www.kegg.jp/dbget-bin/www_bget?hsa00510		N-Glycan biosynthesis	#000000	#FFFFFF	roundrectangle	92	1449	129	25	
+188	hsa:1603 hsa:1650 hsa:201595 hsa:3703 hsa:6184 hsa:6185 hsa:7991	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1603+hsa:1650+hsa:201595+hsa:3703+hsa:6184+hsa:6185+hsa:7991	rn:R05976	DAD1, OST2...	#66CC66	#FFFFFF	line					491,1580,511,1580
+189	hsa:199857 hsa:79868	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:199857+hsa:79868	rn:R05970	ALG14, CMS15...	#66CC66	#FFFFFF	line					412,1580,432,1580
+190	hsa:56052	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:56052	rn:R05972	ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	#66CC66	#FFFFFF	line					334,1580,354,1580
+191	ko:K14464	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K14464	rn:R09324	K14464	#000000	#FFFFFF	line					422,1601,432,1591
+192	hsa:2530	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2530	rn:R09319	FUT8, CDGF, CDGF1	#66CC66	#FFFFFF	line					424,1557,434,1567
+193	ko:K14434	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K14434	rn:R09320	K14434	#000000	#FFFFFF	line					359,1555,379,1555
+217	hsa:85365	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:85365	rn:R05973	ALG2, CDG1I, CDGIi, CMS14, CMSTA3, NET38, hALPG2	#66CC66	#FFFFFF	line					272,1056,292,1036
+218	hsa:85365	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:85365	rn:R06238	ALG2, CDG1I, CDGIi, CMS14, CMSTA3, NET38, hALPG2	#66CC66	#FFFFFF	line					272,1003,292,1023
+219	hsa:56052	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:56052	rn:R05972	ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	#66CC66	#FFFFFF	line					335,1031,355,1031
+220	hsa:199857 hsa:79868	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:199857+hsa:79868	rn:R05970	ALG14, CMS15...	#66CC66	#FFFFFF	line					415,1031,425,1041
+221	hsa:1603 hsa:1650 hsa:201595 hsa:3703 hsa:6184 hsa:6185 hsa:7991	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1603+hsa:1650+hsa:201595+hsa:3703+hsa:6184+hsa:6185+hsa:7991	rn:R05976	DAD1, OST2...	#66CC66	#FFFFFF	line					484,1049,504,1049
+222	ko:K00753	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K00753	rn:R09318	K00753	#000000	#FFFFFF	line					415,1065,425,1055
+223	ko:K03714	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03714	rn:R06016	K03714	#000000	#FFFFFF	line					313,1067,313,1047
+227	gl:G00011	compound	http://www.kegg.jp/dbget-bin/www_bget?G00011		G00011	#000000	#FFFFFF	circle	203	1210	8	8	
+228	gl:G00012	compound	http://www.kegg.jp/dbget-bin/www_bget?G00012		G00012	#000000	#FFFFFF	circle	383	1210	8	8	
+229	gl:G00013	compound	http://www.kegg.jp/dbget-bin/www_bget?G00013		G00013	#000000	#FFFFFF	circle	473	1210	8	8	
+230	gl:G00014	compound	http://www.kegg.jp/dbget-bin/www_bget?G00014		G00014	#000000	#FFFFFF	circle	564	1210	8	8	
+232	hsa:10905 hsa:4121 hsa:57134	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:10905+hsa:4121+hsa:57134	rn:R12479	MAN1A2, MAN1B...	#000000	#BFFFBF	rectangle	334	1210	46	17	
+233	hsa:4245	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4245	rn:R05983	MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT	#000000	#BFFFBF	rectangle	422	1210	46	17	
+234	hsa:4122 hsa:4124	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4122+hsa:4124	rn:R05984	MAN2A2, MANA2X...	#000000	#BFFFBF	rectangle	512	1210	46	17	
+235	path:hsa00510	map	http://www.kegg.jp/dbget-bin/www_bget?hsa00510		N-Glycan biosynthesis	#000000	#FFFFFF	roundrectangle	92	1210	129	25	
+237	hsa:2530	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2530	rn:R09319	FUT8, CDGF, CDGF1	#000000	#BFFFBF	rectangle	564	1239	46	17	
+238	gl:G10770	compound	http://www.kegg.jp/dbget-bin/www_bget?G10770		G10770	#000000	#FFFFFF	circle	564	1280	8	8	
+240	gl:G05477	compound	http://www.kegg.jp/dbget-bin/www_bget?G05477		G05477	#000000	#FFFFFF	circle	656	1280	8	8	
+241	ko:K00753	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K00753	rn:R11318	K00753	#000000	#FFFFFF	rectangle	603	1280	46	17	
+243	ko:K20730	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K20730	rn:R11317	K20730	#000000	#FFFFFF	rectangle	692	1280	46	17	
+244	gl:G10920	compound	http://www.kegg.jp/dbget-bin/www_bget?G10920		G10920	#000000	#FFFFFF	circle	746	1280	8	8	
+245	hsa:1603 hsa:1650 hsa:201595 hsa:3703 hsa:6184 hsa:6185 hsa:7991	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1603+hsa:1650+hsa:201595+hsa:3703+hsa:6184+hsa:6185+hsa:7991	rn:R05976	DAD1, OST2...	#66CC66	#FFFFFF	line					497,1330,517,1330
+246	hsa:199857 hsa:79868	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:199857+hsa:79868	rn:R05970	ALG14, CMS15...	#66CC66	#FFFFFF	line					418,1330,438,1330
+247	hsa:56052	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:56052	rn:R05972	ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	#66CC66	#FFFFFF	line					340,1330,360,1330
+248	ko:K14464	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K14464	rn:R09324	K14464	#000000	#FFFFFF	line					428,1351,438,1341
+249	hsa:2530	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2530	rn:R09319	FUT8, CDGF, CDGF1	#66CC66	#FFFFFF	line					430,1307,440,1317
+250	hsa:85365	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:85365	rn:R06238	ALG2, CDG1I, CDGIi, CMS14, CMSTA3, NET38, hALPG2	#66CC66	#FFFFFF	line					278,1303,298,1323
+251	hsa:85365	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:85365	rn:R05973	ALG2, CDG1I, CDGIi, CMS14, CMSTA3, NET38, hALPG2	#66CC66	#FFFFFF	line					278,1356,298,1336
+252	hsa:85365	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:85365	rn:R06238	ALG2, CDG1I, CDGIi, CMS14, CMSTA3, NET38, hALPG2	#66CC66	#FFFFFF	line					273,1551,293,1571
+253	hsa:85365	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:85365	rn:R05973	ALG2, CDG1I, CDGIi, CMS14, CMSTA3, NET38, hALPG2	#66CC66	#FFFFFF	line					272,1606,292,1586
+255	path:hsa00510	map	http://www.kegg.jp/dbget-bin/www_bget?hsa00510		N-Glycan biosynthesis	#000000	#FFFFFF	roundrectangle	98	616	129	25	
+256	gl:G00015	compound	http://www.kegg.jp/dbget-bin/www_bget?G00015		G00015	#000000	#FFFFFF	circle	661	616	8	8	
+258	ko:K03714	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03714	rn:R06016	K03714	#000000	#FFFFFF	rectangle	701	616	46	17	
+259	gl:G12617	compound	http://www.kegg.jp/dbget-bin/www_bget?G12617		G12617	#000000	#FFFFFF	circle	1021	616	8	8	
+261	ko:K14413	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K14413		K14413	#000000	#FFFFFF	rectangle	881	616	46	17	
+263	ko:K14412	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K14412		K14412	#000000	#FFFFFF	rectangle	973	616	46	17	
+264	gl:G13055	compound	http://www.kegg.jp/dbget-bin/www_bget?G13055		G13055	#000000	#FFFFFF	circle	931	616	8	8	
+265	gl:G13056	compound	http://www.kegg.jp/dbget-bin/www_bget?G13056		G13056	#000000	#FFFFFF	circle	841	616	8	8	
+270	gl:G00011	compound	http://www.kegg.jp/dbget-bin/www_bget?G00011		G00011	#000000	#FFFFFF	circle	209	615	8	8	
+271	gl:G00012	compound	http://www.kegg.jp/dbget-bin/www_bget?G00012		G00012	#000000	#FFFFFF	circle	389	615	8	8	
+272	gl:G00013	compound	http://www.kegg.jp/dbget-bin/www_bget?G00013		G00013	#000000	#FFFFFF	circle	480	616	8	8	
+273	gl:G00014	compound	http://www.kegg.jp/dbget-bin/www_bget?G00014		G00014	#000000	#FFFFFF	circle	571	616	8	8	
+274	hsa:10905 hsa:4121 hsa:57134	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:10905+hsa:4121+hsa:57134	rn:R12479	MAN1A2, MAN1B...	#000000	#BFFFBF	rectangle	339	616	46	17	
+275	hsa:4245	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4245	rn:R05983	MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT	#000000	#BFFFBF	rectangle	428	616	46	17	
+276	hsa:4122 hsa:4124	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4122+hsa:4124	rn:R05984	MAN2A2, MANA2X...	#000000	#BFFFBF	rectangle	519	616	46	17	
+277	hsa:4247	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4247	rn:R05985	MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2	#000000	#BFFFBF	rectangle	610	616	46	17	
+279	hsa:11253	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:11253	rn:R06722	MAN1B1, ERMAN1, ERManI, MANA-ER, MRT15	#000000	#BFFFBF	rectangle	248	616	46	17	
+280	gl:G10694	compound	http://www.kegg.jp/dbget-bin/www_bget?G10694		G10694	#000000	#FFFFFF	circle	299	615	8	8	
+284	hsa:3073 hsa:3074	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3073+hsa:3074		HEXA, TSD...	#000000	#BFFFBF	rectangle	919	700	46	17	
+285	hsa:3073 hsa:3074	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3073+hsa:3074		HEXA, TSD...	#000000	#BFFFBF	rectangle	1022	654	46	17	
+288	ko:K00753	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K00753	rn:R09318	K00753	#000000	#FFFFFF	rectangle	791	616	46	17	
+291	gl:G00179	compound	http://www.kegg.jp/dbget-bin/www_bget?G00179		G00179	#000000	#FFFFFF	circle	751	616	8	8	
+292	gl:G10665	compound	http://www.kegg.jp/dbget-bin/www_bget?G10665		G10665	#000000	#FFFFFF	circle	1021	699	8	8	
+294	hsa:11253	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:11253	rn:R06722	MAN1B1, ERMAN1, ERManI, MANA-ER, MRT15	#000000	#BFFFBF	rectangle	242	148	46	17	
+295	gl:G10694	compound	http://www.kegg.jp/dbget-bin/www_bget?G10694		G10694	#000000	#FFFFFF	circle	293	147	8	8	
+297	hsa:11253	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:11253	rn:R06722	MAN1B1, ERMAN1, ERManI, MANA-ER, MRT15	#000000	#BFFFBF	rectangle	242	1449	46	17	
+298	gl:G10694	compound	http://www.kegg.jp/dbget-bin/www_bget?G10694		G10694	#000000	#FFFFFF	circle	293	1448	8	8	
+300	hsa:11253	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:11253	rn:R06722	MAN1B1, ERMAN1, ERManI, MANA-ER, MRT15	#000000	#BFFFBF	rectangle	242	1211	46	17	
+301	gl:G10694	compound	http://www.kegg.jp/dbget-bin/www_bget?G10694		G10694	#000000	#FFFFFF	circle	293	1210	8	8	
+303	hsa:11253	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:11253	rn:R06722	MAN1B1, ERMAN1, ERManI, MANA-ER, MRT15	#000000	#BFFFBF	rectangle	242	1714	46	17	
+304	gl:G10694	compound	http://www.kegg.jp/dbget-bin/www_bget?G10694		G10694	#000000	#FFFFFF	circle	293	1713	8	8	

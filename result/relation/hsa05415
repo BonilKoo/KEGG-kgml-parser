@@ -1,0 +1,98 @@
+entry1	entry2	type	name	value
+283	532	PCrel	activation	-->
+532	470	PPrel	activation	-->
+283	533	PCrel	activation	-->
+283	724	PCrel	activation	-->
+62	44	PCrel	activation	-->
+62	65	PCrel	activation	-->
+62	737	PCrel	activation	-->
+62	738	PCrel	activation	-->
+62	739	PCrel	activation	-->
+496	487	PPrel	activation	-->
+498	497	PCrel	activation	-->
+607	608	PPrel	activation	-->
+608	611	PPrel	activation	-->
+599	600	PCrel	activation	-->
+475	481	PCrel	activation	-->
+475	481	PCrel	indirect effect	..>
+473	479	PPrel	activation	-->
+473	479	PPrel	indirect effect	..>
+473	740	PPrel	activation	-->
+473	740	PPrel	indirect effect	..>
+527	740	PPrel	activation	-->
+527	740	PPrel	indirect effect	..>
+434	481	PCrel	activation	-->
+434	481	PCrel	indirect effect	..>
+473	481	PPrel	activation	-->
+473	481	PPrel	indirect effect	..>
+473	480	PPrel	activation	-->
+473	480	PPrel	indirect effect	..>
+91	481	PPrel	activation	-->
+91	481	PPrel	indirect effect	..>
+511	486	PPrel	activation	-->
+511	486	PPrel	indirect effect	..>
+639	620	PCrel	activation	-->
+639	620	PCrel	indirect effect	..>
+600	619	PPrel	activation	-->
+600	619	PPrel	indirect effect	..>
+634	619	PCrel	activation	-->
+634	620	PCrel	activation	-->
+481	542	GErel	expression	-->
+481	541	GErel	expression	-->
+481	474	GErel	expression	-->
+429	465	GErel	expression	-->
+429	467	GErel	expression	-->
+429	466	GErel	expression	-->
+620	603	PPrel	activation	-->
+620	603	PPrel	indirect effect	..>
+620	604	PPrel	activation	-->
+620	604	PPrel	indirect effect	..>
+620	605	PPrel	activation	-->
+620	605	PPrel	indirect effect	..>
+481	413	PPrel	activation	-->
+481	413	PPrel	indirect effect	..>
+481	521	PPrel	activation	-->
+481	521	PPrel	indirect effect	..>
+481	522	PPrel	activation	-->
+481	522	PPrel	indirect effect	..>
+524	720	PPrel	activation	-->
+524	720	PPrel	indirect effect	..>
+283	524	PCrel	inhibition	--|
+545	543	PPrel	inhibition	--|
+631	627	PCrel	activation	-->
+618	629	PCrel	activation	-->
+626	622	PCrel	activation	-->
+623	599	PCrel	activation	-->
+700	704	PCrel	missing interaction	-/-
+708	701	PCrel	missing interaction	-/-
+693	675	PPrel	inhibition	--|
+648	647	PPrel	inhibition	--|
+648	647	PPrel	indirect effect	..>
+659	648	PCrel	activation	-->
+659	648	PCrel	indirect effect	..>
+475	473	PCrel	activation	-->
+487	507	PPrel	activation	-->
+487	507	PPrel	phosphorylation	+p
+511	495	PPrel	activation	-->
+511	495	PPrel	phosphorylation	+p
+491	498	PPrel	inhibition	--|
+491	498	PPrel	phosphorylation	+p
+507	510	PPrel	missing interaction	-/-
+511	491	PPrel	missing interaction	-/-
+554	435	PCrel	activation	-->
+16	429	PCrel	activation	-->
+589	590	PCrel	activation	-->
+593	591	PCrel	activation	-->
+512	509	PCrel	inhibition	--|
+512	509	PCrel	dephosphorylation	-p
+509	511	PCrel	activation	-->
+647	646	PCrel	activation	-->
+652	700	PCrel	inhibition	--|
+652	700	PCrel	indirect effect	..>
+684	647	PCrel	inhibition	--|
+611	603	GErel	expression	-->
+611	604	GErel	expression	-->
+611	605	GErel	expression	-->
+44	507	PPrel	inhibition	--|
+44	507	PPrel	phosphorylation	+p
+510	509	PCrel	missing interaction	-/-

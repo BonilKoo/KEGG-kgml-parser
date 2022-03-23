@@ -1,0 +1,72 @@
+entry1	entry2	type	name	value
+9	19	PPrel	activation	-->
+19	22	PPrel	binding/association	---
+22	31	PPrel	binding/association	---
+137	84	PPrel	activation	-->
+138	27	PPrel	activation	-->
+138	27	PPrel	phosphorylation	+p
+138	29	PPrel	activation	-->
+138	29	PPrel	phosphorylation	+p
+19	85	PPrel	binding/association	---
+85	22	PPrel	binding/association	---
+85	31	PPrel	binding/association	---
+85	139	PPrel	binding/association	---
+37	140	PPrel	activation	-->
+140	141	PPrel	activation	-->
+140	141	PPrel	indirect effect	..>
+50	20	PPrel	dissociation	-+-
+10	19	PPrel	activation	-->
+19	108	PPrel	binding/association	---
+108	109	PPrel	activation	-->
+109	20	PPrel	activation	-->
+109	20	PPrel	indirect effect	..>
+109	101	PPrel	activation	-->
+109	101	PPrel	indirect effect	..>
+19	46	PPrel	binding/association	---
+46	99	PPrel	activation	-->
+99	20	PPrel	activation	-->
+99	20	PPrel	indirect effect	..>
+99	100	PPrel	activation	-->
+99	100	PPrel	indirect effect	..>
+99	101	PPrel	activation	-->
+99	101	PPrel	indirect effect	..>
+55	9	PPrel	inhibition	--|
+55	10	PPrel	activation	-->
+14	9	PPrel	activation	-->
+14	9	PPrel	ubiquitination	+u
+74	9	PPrel	inhibition	--|
+15	9	PPrel	inhibition	--|
+15	9	PPrel	ubiquitination	+u
+64	9	PPrel	binding/association	---
+142	9	PPrel	binding/association	---
+142	19	PPrel	binding/association	---
+73	19	PPrel	binding/association	---
+21	22	PPrel	inhibition	--|
+87	28	PPrel	inhibition	--|
+97	53	PPrel	binding/association	---
+77	27	PPrel	binding/association	---
+90	10	PPrel	inhibition	--|
+61	10	PPrel	inhibition	--|
+61	10	PPrel	ubiquitination	+u
+68	19	PPrel	inhibition	--|
+48	50	PPrel	activation	-->
+48	50	PPrel	phosphorylation	+p
+27	44	GErel	expression	-->
+27	45	GErel	expression	-->
+27	114	GErel	expression	-->
+27	115	GErel	expression	-->
+27	116	GErel	expression	-->
+29	44	GErel	expression	-->
+29	45	GErel	expression	-->
+29	114	GErel	expression	-->
+29	115	GErel	expression	-->
+29	116	GErel	expression	-->
+20	44	GErel	expression	-->
+20	45	GErel	expression	-->
+20	114	GErel	expression	-->
+20	115	GErel	expression	-->
+20	116	GErel	expression	-->
+20	117	GErel	expression	-->
+20	118	GErel	expression	-->
+20	119	GErel	expression	-->
+20	120	GErel	expression	-->

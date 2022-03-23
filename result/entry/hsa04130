@@ -1,0 +1,43 @@
+id	name_entry	type_entry	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
+45	hsa:662	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:662	BNIP1, NIP1, SEC20, TRG-8	#000000	#BFFFBF	rectangle	354	727	46	17
+46	hsa:55850	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:55850	USE1, D12, MDS032, P31, SLT1	#000000	#BFFFBF	rectangle	354	710	46	17
+47	hsa:53407	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:53407	STX18, Ufe1	#000000	#BFFFBF	rectangle	354	693	46	17
+48	hsa:55014	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:55014	STX17	#000000	#BFFFBF	rectangle	254	696	46	17
+49	hsa:10282 hsa:51272	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10282+hsa:51272	BET1, HBET1...	#000000	#BFFFBF	rectangle	234	646	46	17
+50	hsa:10652	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10652	YKT6	#000000	#BFFFBF	rectangle	330	564	46	17
+51	hsa:9527	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9527	GOSR1, GOLIM2, GOS-28, GOS28, GOS28/P28, GS28, P28	#000000	#BFFFBF	rectangle	330	547	46	17
+52	hsa:6811	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:6811	STX5, SED5, STX5A	#000000	#BFFFBF	rectangle	330	530	46	17
+53	hsa:9554	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9554	SEC22B, ERS-24, SEC22L1	#000000	#BFFFBF	rectangle	281	564	46	17
+54	hsa:9570	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9570	GOSR2, Bos1, EPM6, GS27	#000000	#BFFFBF	rectangle	281	547	46	17
+55	hsa:6811	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:6811	STX5, SED5, STX5A	#000000	#BFFFBF	rectangle	281	530	46	17
+56	hsa:9342	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9342	SNAP29, CEDNIK, SNAP-29	#000000	#BFFFBF	rectangle	330	453	46	17
+57	hsa:10228	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10228	STX6	#000000	#BFFFBF	rectangle	281	473	46	17
+58	hsa:8675	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8675	STX16, SYN16	#000000	#BFFFBF	rectangle	281	453	46	17
+59	hsa:415117 hsa:8676	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:415117+hsa:8676	STX19...	#000000	#BFFFBF	rectangle	281	433	46	17
+60	hsa:10652	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10652	YKT6	#000000	#BFFFBF	rectangle	457	409	46	17
+61	hsa:10490 hsa:143187	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10490+hsa:143187	VTI1B, VTI1, VTI1-LIKE, VTI1L, VTI2, v-SNARE, vti1-rp1...	#000000	#BFFFBF	rectangle	546	384	46	17
+62	hsa:9482	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9482	STX8, CARB	#000000	#BFFFBF	rectangle	546	367	46	17
+63	hsa:8417	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8417	STX7	#000000	#BFFFBF	rectangle	546	350	46	17
+64	hsa:8674	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8674	VAMP4, VAMP-4, VAMP24	#000000	#BFFFBF	rectangle	392	198	46	17
+65	hsa:10791	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10791	VAMP5	#000000	#BFFFBF	rectangle	377	165	46	17
+66	hsa:8773	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8773	SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	#000000	#BFFFBF	rectangle	302	167	46	17
+67	ko:K08506	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K08506	K08506	#000000	#FFFFFF	rectangle	305	710	46	17
+68	hsa:8773	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8773	SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	#000000	#BFFFBF	rectangle	154	200	46	17
+69	hsa:112755 hsa:2054 hsa:6804 hsa:6809 hsa:6810	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:112755+hsa:2054+hsa:6804+hsa:6809+hsa:6810	STX1B, GEFSP9, STX1B1, STX1B2...	#000000	#BFFFBF	rectangle	257	167	46	17
+70	hsa:112755 hsa:2054 hsa:6804 hsa:6809 hsa:6810	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:112755+hsa:2054+hsa:6804+hsa:6809+hsa:6810	STX1B, GEFSP9, STX1B1, STX1B2...	#000000	#BFFFBF	rectangle	109	200	46	17
+71	path:hsa04130	map	https://www.kegg.jp/dbget-bin/www_bget?hsa04130	TITLE:SNARE interactions in vesicular transport	#000000	#FFFFFF	roundrectangle	228	58	375	25
+113	ko:K08505	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K08505	K08505	#000000	#FFFFFF	rectangle	433	457	46	17
+114	hsa:9554	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:9554	SEC22B, ERS-24, SEC22L1	#000000	#BFFFBF	rectangle	429	644	46	17
+115	hsa:8674	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8674	VAMP4, VAMP-4, VAMP24	#000000	#BFFFBF	rectangle	291	260	46	17
+116	hsa:8673	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8673	VAMP8, EDB, VAMP-8	#000000	#BFFFBF	rectangle	162	335	46	17
+117	hsa:6843 hsa:6844 hsa:9341	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:6843+hsa:6844+hsa:9341	VAMP1, CMS25, SPAX1, SYB1, VAMP-1...	#000000	#BFFFBF	rectangle	143	297	46	17
+118	hsa:6845	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:6845	VAMP7, SYBL1, TI-VAMP, TIVAMP, VAMP-7	#000000	#BFFFBF	rectangle	415	356	46	17
+126	hsa:8675	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8675	STX16, SYN16	#000000	#BFFFBF	rectangle	460	218	46	17
+127	hsa:10228	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10228	STX6	#000000	#BFFFBF	rectangle	460	235	46	17
+128	hsa:10490 hsa:143187	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10490+hsa:143187	VTI1B, VTI1, VTI1-LIKE, VTI1L, VTI2, v-SNARE, vti1-rp1...	#000000	#BFFFBF	rectangle	460	252	46	17
+129	undefined	group			#000000	#FFFFFF	rectangle	131	200	91	17
+130	undefined	group			#000000	#FFFFFF	rectangle	279	167	91	17
+131	undefined	group			#000000	#FFFFFF	rectangle	460	235	46	51
+132	undefined	group			#000000	#FFFFFF	rectangle	546	367	46	51
+133	undefined	group			#000000	#FFFFFF	rectangle	281	547	46	51
+134	undefined	group			#000000	#FFFFFF	rectangle	354	710	46	51

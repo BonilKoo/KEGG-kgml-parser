@@ -1,0 +1,35 @@
+id	name_entry	type_entry	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
+6	path:hsa04060	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04060	Cytokine-cytokine receptor interaction	#000000	#FFFFFF	roundrectangle	572	434	113	34
+10	path:hsa04660	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04660	T cell receptor signaling pathway	#000000	#FFFFFF	roundrectangle	569	123	113	34
+11	hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3108+hsa:3109+hsa:3111+hsa:3112+hsa:3113+hsa:3115+hsa:3117+hsa:3118+hsa:3119+hsa:3122+hsa:3123+hsa:3125+hsa:3126+hsa:3127	HLA-DMA, D6S222E, DMA, HLADM, RING6...	#000000	#BFFFBF	rectangle	441	193	46	17
+12	ko:K10784 ko:K10785	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K10784+K10785	K10784...	#000000	#FFFFFF	rectangle	521	193	46	17
+14	path:hsa04612	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04612	Antigen processing and presentation	#000000	#FFFFFF	roundrectangle	393	123	112	34
+15	path:hsa04514	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04514	Cell adhesion molecules (CAMs)	#000000	#FFFFFF	roundrectangle	477	305	113	34
+16	path:hsa05332	map	http://www.kegg.jp/dbget-bin/www_bget?hsa05332	TITLE:Graft-versus-host disease	#000000	#FFFFFF	roundrectangle	157	58	233	25
+21	hsa:355	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:355	FAS, ALPS1A, APO-1, APT1, CD95, FAS1, FASTM, TNFRSF6	#000000	#BFFFBF	rectangle	1023	123	46	17
+24	hsa:356	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:356	FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A	#000000	#BFFFBF	rectangle	946	123	46	17
+25	ko:K10784 ko:K10785	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K10784+K10785	K10784...	#000000	#FFFFFF	rectangle	946	95	46	17
+26	hsa:3105 hsa:3106 hsa:3107 hsa:3133 hsa:3134 hsa:3135	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3105+hsa:3106+hsa:3107+hsa:3133+hsa:3134+hsa:3135	HLA-A, HLAA...	#000000	#BFFFBF	rectangle	1023	95	46	17
+29	hsa:3002	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3002	GZMB, C11, CCPI, CGL-1, CGL1, CSP-B, CSPB, CTLA1, CTSGL1, HLP, SECT	#000000	#BFFFBF	rectangle	983	190	46	17
+30	hsa:5551	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5551	PRF1, HPLH2, P1, PFP	#000000	#BFFFBF	rectangle	983	165	46	17
+31	path:hsa04210	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04210	Apoptosis	#000000	#FFFFFF	roundrectangle	1076	200	112	25
+32	path:hsa04650	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04650	Natural killer cell mediated cytotoxicity	#000000	#FFFFFF	roundrectangle	892	367	112	34
+34	hsa:940	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:940	CD28, Tp44	#000000	#BFFFBF	rectangle	521	216	46	17
+39	hsa:3458	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3458	IFNG, IFG, IFI	#000000	#BFFFBF	rectangle	794	265	46	17
+41	hsa:7124	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:7124	TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F	#000000	#BFFFBF	rectangle	979	471	46	17
+42	cpd:C00533	compound	http://www.kegg.jp/dbget-bin/www_bget?C00533	C00533	#000000	#FFFFFF	circle	978	517	8	8
+43	hsa:941 hsa:942	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:941+hsa:942	CD80, B7, B7-1, B7.1, BB1, CD28LG, CD28LG1, LAB7...	#000000	#BFFFBF	rectangle	440	216	46	17
+47	hsa:355	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:355	FAS, ALPS1A, APO-1, APT1, CD95, FAS1, FASTM, TNFRSF6	#000000	#BFFFBF	rectangle	1023	287	46	17
+50	hsa:356	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:356	FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A	#000000	#BFFFBF	rectangle	946	287	46	17
+52	hsa:3002	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3002	GZMB, C11, CCPI, CGL-1, CGL1, CSP-B, CSPB, CTLA1, CTSGL1, HLP, SECT	#000000	#BFFFBF	rectangle	983	352	46	17
+53	hsa:5551	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5551	PRF1, HPLH2, P1, PFP	#000000	#BFFFBF	rectangle	983	325	46	17
+55	hsa:3558	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3558	IL2, IL-2, TCGF, lymphokine	#000000	#BFFFBF	rectangle	793	144	46	17
+58	hsa:3458	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3458	IFNG, IFG, IFI	#000000	#BFFFBF	rectangle	758	398	46	17
+71	hsa:3569	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3569	IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6	#000000	#BFFFBF	rectangle	349	313	46	17
+72	hsa:3552 hsa:3553	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3552+hsa:3553	IL1A, IL-1_alpha, IL-1A, IL1, IL1-ALPHA, IL1F1...	#000000	#BFFFBF	rectangle	349	334	46	17
+73	hsa:3552 hsa:3553	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3552+hsa:3553	IL1A, IL-1_alpha, IL-1A, IL1, IL1-ALPHA, IL1F1...	#000000	#BFFFBF	rectangle	979	494	46	17
+74	hsa:7124	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:7124	TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F	#000000	#BFFFBF	rectangle	349	357	46	17
+75	path:hsa04620	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04620	Toll-like receptor signaling pathway	#000000	#FFFFFF	roundrectangle	769	558	113	34
+76	hsa:3105 hsa:3106 hsa:3107 hsa:3133 hsa:3134 hsa:3135	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3105+hsa:3106+hsa:3107+hsa:3133+hsa:3134+hsa:3135	HLA-A, HLAA...	#000000	#BFFFBF	rectangle	1023	258	46	17
+77	hsa:115653 hsa:3802 hsa:3803 hsa:3804 hsa:3811 hsa:3812 hsa:3821 hsa:3824 hsa:57292	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:115653+hsa:3802+hsa:3803+hsa:3804+hsa:3811+hsa:3812+hsa:3821+hsa:3824+hsa:57292	KIR3DL3, CD158Z, KIR3DL7, KIR44, KIRC1...	#000000	#BFFFBF	rectangle	946	258	46	17
+108	cpd:C00338	compound	http://www.kegg.jp/dbget-bin/www_bget?C00338	C00338	#000000	#FFFFFF	circle	558	538	8	8

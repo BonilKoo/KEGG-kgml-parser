@@ -1,0 +1,56 @@
+id	name_entry	type_entry	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
+24	path:hsa04660	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04660	T cell receptor signaling pathway	#000000	#FFFFFF	roundrectangle	552	386	113	34
+25	hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3108+hsa:3109+hsa:3111+hsa:3112+hsa:3113+hsa:3115+hsa:3117+hsa:3118+hsa:3119+hsa:3122+hsa:3123+hsa:3125+hsa:3126+hsa:3127	HLA-DMA, D6S222E, DMA, HLADM, RING6...	#000000	#BFFFBF	rectangle	425	634	46	17
+26	ko:K10784 ko:K10785	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K10784+K10785	K10784...	#000000	#FFFFFF	rectangle	506	634	46	17
+27	hsa:959	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:959	CD40LG, CD154, CD40L, HIGM1, IGM, IMD3, T-BAM, TNFSF5, TRAP, gp39, hCD40L	#000000	#BFFFBF	rectangle	725	634	46	17
+28	hsa:958	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:958	CD40, Bp50, CDW40, TNFRSF5, p50	#000000	#BFFFBF	rectangle	808	634	46	17
+29	ko:K10784 ko:K10785	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K10784+K10785	K10784...	#000000	#FFFFFF	rectangle	725	657	46	17
+30	hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3108+hsa:3109+hsa:3111+hsa:3112+hsa:3113+hsa:3115+hsa:3117+hsa:3118+hsa:3119+hsa:3122+hsa:3123+hsa:3125+hsa:3126+hsa:3127	HLA-DMA, D6S222E, DMA, HLADM, RING6...	#000000	#BFFFBF	rectangle	808	657	46	17
+33	path:hsa04612	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04612	Antigen processing and presentation	#000000	#FFFFFF	roundrectangle	400	386	112	34
+35	path:hsa04514	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04514	Cell adhesion molecules	#000000	#FFFFFF	roundrectangle	471	546	113	34
+37	path:hsa04662	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04662	B cell receptor signaling pathway	#000000	#FFFFFF	roundrectangle	845	500	112	34
+38	hsa:102723407	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:102723407	IGH, IGH@, IGHV4, IGHV4-30, IGHV4-38-2, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	#000000	#BFFFBF	rectangle	849	603	46	17
+39	path:hsa05320	map	http://www.kegg.jp/dbget-bin/www_bget?hsa05320	TITLE:Autoimmune thyroid disease	#000000	#FFFFFF	roundrectangle	169	58	257	25
+46	cpd:C01382	compound	http://www.kegg.jp/dbget-bin/www_bget?C01382	C01382	#000000	#FFFFFF	circle	212	131	8	8
+47	dr:D00636	compound	http://www.kegg.jp/dbget-bin/www_bget?D00636	D00636	#000000	#FFFFFF	circle	260	131	8	8
+48	hsa:7173	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:7173	TPO, MSA, TDH2A, TPX	#000000	#BFFFBF	rectangle	240	411	46	17
+49	hsa:7038	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:7038	TG, AITD3, TGN	#000000	#BFFFBF	rectangle	240	439	46	17
+50	hsa:7253	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:7253	TSHR, CHNG1, LGR3, hTSHR-I	#000000	#BFFFBF	rectangle	240	501	46	17
+64	hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3108+hsa:3109+hsa:3111+hsa:3112+hsa:3113+hsa:3115+hsa:3117+hsa:3118+hsa:3119+hsa:3122+hsa:3123+hsa:3125+hsa:3126+hsa:3127	HLA-DMA, D6S222E, DMA, HLADM, RING6...	#000000	#BFFFBF	rectangle	425	267	46	17
+65	ko:K10784 ko:K10785	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K10784+K10785	K10784...	#000000	#FFFFFF	rectangle	505	267	46	17
+66	hsa:959	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:959	CD40LG, CD154, CD40L, HIGM1, IGM, IMD3, T-BAM, TNFSF5, TRAP, gp39, hCD40L	#000000	#BFFFBF	rectangle	724	341	46	17
+67	hsa:958	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:958	CD40, Bp50, CDW40, TNFRSF5, p50	#000000	#BFFFBF	rectangle	808	341	46	17
+68	ko:K10784 ko:K10785	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K10784+K10785	K10784...	#000000	#FFFFFF	rectangle	724	366	46	17
+69	hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3108+hsa:3109+hsa:3111+hsa:3112+hsa:3113+hsa:3115+hsa:3117+hsa:3118+hsa:3119+hsa:3122+hsa:3123+hsa:3125+hsa:3126+hsa:3127	HLA-DMA, D6S222E, DMA, HLADM, RING6...	#000000	#BFFFBF	rectangle	808	366	46	17
+73	hsa:102723407	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:102723407	IGH, IGH@, IGHV4, IGHV4-30, IGHV4-38-2, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	#000000	#BFFFBF	rectangle	849	396	46	17
+88	hsa:7253	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:7253	TSHR, CHNG1, LGR3, hTSHR-I	#000000	#BFFFBF	rectangle	1034	593	46	17
+89	hsa:7253	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:7253	TSHR, CHNG1, LGR3, hTSHR-I	#000000	#BFFFBF	rectangle	1031	691	46	17
+90	hsa:355	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:355	FAS, ALPS1A, APO-1, APT1, CD95, FAS1, FASTM, TNFRSF6	#000000	#BFFFBF	rectangle	1029	205	46	17
+96	hsa:102723407	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:102723407	IGH, IGH@, IGHV4, IGHV4-30, IGHV4-38-2, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	#000000	#BFFFBF	rectangle	962	687	46	17
+111	hsa:356	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:356	FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A	#000000	#BFFFBF	rectangle	952	205	46	17
+112	ko:K10784 ko:K10785	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K10784+K10785	K10784...	#000000	#FFFFFF	rectangle	952	177	46	17
+113	hsa:3105 hsa:3106 hsa:3107 hsa:3133 hsa:3134 hsa:3135	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3105+hsa:3106+hsa:3107+hsa:3133+hsa:3134+hsa:3135	HLA-A, HLAA...	#000000	#BFFFBF	rectangle	1029	177	46	17
+116	hsa:3002	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3002	GZMB, C11, CCPI, CGL-1, CGL1, CSP-B, CSPB, CTLA1, CTSGL1, HLP, SECT	#000000	#BFFFBF	rectangle	992	268	46	17
+117	hsa:5551	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5551	PRF1, HPLH2, P1, PFP	#000000	#BFFFBF	rectangle	992	243	46	17
+119	path:hsa04210	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04210	Apoptosis	#000000	#FFFFFF	roundrectangle	1214	272	106	25
+120	path:hsa04610	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04610	Complement and coagulation cascades	#000000	#FFFFFF	roundrectangle	978	420	112	34
+125	hsa:1081 hsa:7252	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1081+hsa:7252	CGA, CG-ALPHA, FSHA, GPA1, GPHA1, GPHa, HCG, LHA, TSHA...	#000000	#BFFFBF	rectangle	962	721	46	17
+128	cpd:C02465	compound	http://www.kegg.jp/dbget-bin/www_bget?C02465	C02465	#000000	#FFFFFF	circle	1201	572	8	8
+129	cpd:C01829	compound	http://www.kegg.jp/dbget-bin/www_bget?C01829	C01829	#000000	#FFFFFF	circle	1201	606	8	8
+133	hsa:102723407	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:102723407	IGH, IGH@, IGHV4, IGHV4-30, IGHV4-38-2, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	#000000	#BFFFBF	rectangle	978	337	46	17
+134	hsa:102723407	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:102723407	IGH, IGH@, IGHV4, IGHV4-30, IGHV4-38-2, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	#000000	#BFFFBF	rectangle	962	593	46	17
+135	hsa:1493	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1493	CTLA4, ALPS5, CD, CD152, CELIAC3, CTLA-4, GRD4, GSE, IDDM12	#000000	#BFFFBF	rectangle	276	188	46	17
+136	hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3108+hsa:3109+hsa:3111+hsa:3112+hsa:3113+hsa:3115+hsa:3117+hsa:3118+hsa:3119+hsa:3122+hsa:3123+hsa:3125+hsa:3126+hsa:3127	HLA-DMA, D6S222E, DMA, HLADM, RING6...	#000000	#BFFFBF	rectangle	215	188	46	17
+139	hsa:3565	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3565	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	#000000	#BFFFBF	rectangle	770	263	46	17
+140	hsa:3567	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3567	IL5, EDF, IL-5, TRF	#000000	#BFFFBF	rectangle	770	285	46	17
+141	hsa:3565	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3565	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	#000000	#BFFFBF	rectangle	770	702	46	17
+142	hsa:3567	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3567	IL5, EDF, IL-5, TRF	#000000	#BFFFBF	rectangle	770	729	46	17
+143	hsa:3558	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3558	IL2, IL-2, TCGF, lymphokine	#000000	#BFFFBF	rectangle	790	196	46	17
+147	hsa:3439 hsa:3440 hsa:3441 hsa:3442 hsa:3443 hsa:3444 hsa:3445 hsa:3446 hsa:3447 hsa:3448 hsa:3449 hsa:3451 hsa:3452	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3439+hsa:3440+hsa:3441+hsa:3442+hsa:3443+hsa:3444+hsa:3445+hsa:3446+hsa:3447+hsa:3448+hsa:3449+hsa:3451+hsa:3452	IFNA1, IFL, IFN, IFN-ALPHA, IFN-alphaD, IFNA13, IFNA@, leIF_D...	#000000	#BFFFBF	rectangle	329	135	46	17
+149	hsa:941 hsa:942	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:941+hsa:942	CD80, B7, B7-1, B7.1, BB1, CD28LG, CD28LG1, LAB7...	#000000	#BFFFBF	rectangle	425	289	46	17
+150	hsa:940	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:940	CD28, Tp44	#000000	#BFFFBF	rectangle	505	290	46	17
+152	hsa:942	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:942	CD86, B7-2, B7.2, B70, CD28LG2, LAB72	#000000	#BFFFBF	rectangle	425	657	46	17
+153	hsa:940	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:940	CD28, Tp44	#000000	#BFFFBF	rectangle	506	657	46	17
+155	hsa:3586	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3586	IL10, CSIF, GVHDS, IL-10, IL10A, TGIF	#000000	#BFFFBF	rectangle	770	753	46	17
+156	hsa:3586	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3586	IL10, CSIF, GVHDS, IL-10, IL10A, TGIF	#000000	#BFFFBF	rectangle	770	308	46	17
+162	path:hsa04918	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04918	Thyroid hormone synthesis	#000000	#FFFFFF	roundrectangle	1081	528	112	34

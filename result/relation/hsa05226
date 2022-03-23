@@ -1,0 +1,94 @@
+entry1	entry2	type	name	value
+15	16	PPrel	activation	-->
+16	17	PPrel	activation	-->
+17	8	PPrel	activation	-->
+8	9	PPrel	activation	-->
+9	10	PPrel	activation	-->
+9	10	PPrel	phosphorylation	+p
+10	11	PPrel	activation	-->
+10	11	PPrel	phosphorylation	+p
+36	40	PCrel	activation	-->
+40	37	PCrel	activation	-->
+37	21	PPrel	activation	-->
+37	21	PPrel	indirect effect	..>
+21	22	PPrel	activation	-->
+239	118	PCrel	activation	-->
+79	85	PPrel	missing interaction	-/-
+79	86	PPrel	missing interaction	-/-
+79	87	PPrel	missing interaction	-/-
+79	88	PPrel	missing interaction	-/-
+79	89	PPrel	missing interaction	-/-
+79	90	PPrel	missing interaction	-/-
+95	240	PPrel	activation	-->
+240	96	PPrel	missing interaction	-/-
+96	98	PPrel	binding/association	---
+61	241	PPrel	activation	-->
+60	58	PPrel	activation	-->
+58	57	PPrel	binding/association	---
+58	56	PPrel	inhibition	--|
+242	243	PPrel	inhibition	--|
+242	243	PPrel	phosphorylation	+p
+55	51	PPrel	activation	-->
+51	50	GErel	expression	-->
+51	49	GErel	expression	-->
+108	109	PPrel	activation	-->
+109	31	PPrel	activation	-->
+31	32	PPrel	activation	-->
+32	26	PPrel	activation	-->
+26	27	PPrel	activation	-->
+27	28	PPrel	activation	-->
+27	28	PPrel	phosphorylation	+p
+28	29	PPrel	activation	-->
+28	29	PPrel	phosphorylation	+p
+109	129	PPrel	activation	-->
+129	42	PPrel	activation	-->
+42	47	PCrel	activation	-->
+47	43	PCrel	activation	-->
+43	35	PPrel	activation	-->
+43	35	PPrel	indirect effect	..>
+238	244	PPrel	activation	-->
+244	15	PPrel	activation	-->
+244	36	PPrel	activation	-->
+37	185	PPrel	inhibition	--|
+37	185	PPrel	phosphorylation	+p
+185	186	PPrel	inhibition	--|
+189	187	PPrel	activation	-->
+187	31	PPrel	activation	-->
+187	129	PPrel	activation	-->
+43	232	PPrel	inhibition	--|
+153	154	PPrel	binding/association	---
+153	156	PPrel	binding/association	---
+153	155	PPrel	binding/association	---
+153	155	PPrel	missing interaction	-/-
+155	223	PPrel	activation	-->
+223	157	GErel	expression	-->
+223	158	GErel	expression	-->
+203	209	GErel	expression	-->
+203	209	GErel	missing interaction	-/-
+203	210	GErel	expression	-->
+203	210	GErel	missing interaction	-/-
+203	211	GErel	expression	-->
+203	211	GErel	missing interaction	-/-
+203	212	GErel	expression	-->
+203	212	GErel	missing interaction	-/-
+203	213	GErel	expression	-->
+203	213	GErel	missing interaction	-/-
+203	214	GErel	expression	-->
+203	214	GErel	missing interaction	-/-
+149	226	GErel	expression	-->
+149	229	GErel	expression	-->
+149	227	GErel	expression	-->
+149	228	GErel	expression	-->
+149	184	GErel	repression	--|
+194	245	PCrel	activation	-->
+194	245	PCrel	missing interaction	-/-
+169	246	PPrel	inhibition	--|
+169	246	PPrel	missing interaction	-/-
+246	171	PPrel	activation	-->
+246	171	PPrel	phosphorylation	+p
+171	170	PPrel	dissociation	-+-
+96	191	GErel	expression	-->
+96	191	GErel	missing interaction	-/-
+96	192	GErel	expression	-->
+96	192	GErel	missing interaction	-/-
+247	144	PCrel	activation	-->

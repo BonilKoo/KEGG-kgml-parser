@@ -1,0 +1,72 @@
+id	name_entry	type_entry	reaction	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
+26	ko:K10527	ortholog	rn:R07897 rn:R07898	https://www.kegg.jp/dbget-bin/www_bget?K10527	K10527	#000000	#FFFFFF	rectangle	191	701	46	17
+27	ko:K10527	ortholog	rn:R07893 rn:R07894	https://www.kegg.jp/dbget-bin/www_bget?K10527	K10527	#000000	#FFFFFF	rectangle	299	628	46	17
+28	ko:K10527	ortholog	rn:R07889 rn:R07890	https://www.kegg.jp/dbget-bin/www_bget?K10527	K10527	#000000	#FFFFFF	rectangle	600	628	46	17
+29	ko:K10528	ortholog	rn:R07870	https://www.kegg.jp/dbget-bin/www_bget?K10528	K10528	#000000	#FFFFFF	rectangle	403	484	46	17
+30	hsa:51 hsa:8310	gene	rn:R07896	https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310	ACOX1, ACOX, MITCH, PALMCOX, SCOX...	#000000	#BFFFBF	rectangle	139	661	46	17
+31	hsa:51 hsa:8310	gene	rn:R07892	https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310	ACOX1, ACOX, MITCH, PALMCOX, SCOX...	#000000	#BFFFBF	rectangle	403	628	46	17
+32	hsa:30	gene	rn:R07899	https://www.kegg.jp/dbget-bin/www_bget?hsa:30	ACAA1, ACAA, PTHIO, THIO	#000000	#BFFFBF	rectangle	299	701	46	17
+33	hsa:30	gene	rn:R07895	https://www.kegg.jp/dbget-bin/www_bget?hsa:30	ACAA1, ACAA, PTHIO, THIO	#000000	#BFFFBF	rectangle	191	628	46	17
+34	ko:K01723	ortholog	rn:R07863	https://www.kegg.jp/dbget-bin/www_bget?K01723	K01723	#000000	#FFFFFF	rectangle	353	524	46	17
+35	ko:K00454	ortholog	rn:R07869	https://www.kegg.jp/dbget-bin/www_bget?K00454	K00454	#000000	#FFFFFF	rectangle	299	484	46	17
+36	cpd:C11512	compound		https://www.kegg.jp/dbget-bin/www_bget?C11512	C11512	#000000	#FFFFFF	circle	556	755	8	8
+37	cpd:C16318	compound		https://www.kegg.jp/dbget-bin/www_bget?C16318	C16318	#000000	#FFFFFF	circle	460	755	8	8
+38	cpd:C08491	compound		https://www.kegg.jp/dbget-bin/www_bget?C08491	C08491	#000000	#FFFFFF	circle	556	700	8	8
+39	cpd:C16317	compound		https://www.kegg.jp/dbget-bin/www_bget?C16317	C16317	#000000	#FFFFFF	circle	460	700	8	8
+40	cpd:C16339	compound		https://www.kegg.jp/dbget-bin/www_bget?C16339	C16339	#000000	#FFFFFF	circle	353	700	8	8
+41	cpd:C16338	compound		https://www.kegg.jp/dbget-bin/www_bget?C16338	C16338	#000000	#FFFFFF	circle	245	700	8	8
+42	cpd:C16336	compound		https://www.kegg.jp/dbget-bin/www_bget?C16336	C16336	#000000	#FFFFFF	circle	137	700	8	8
+43	cpd:C16335	compound		https://www.kegg.jp/dbget-bin/www_bget?C16335	C16335	#000000	#FFFFFF	circle	137	628	8	8
+44	cpd:C16334	compound		https://www.kegg.jp/dbget-bin/www_bget?C16334	C16334	#000000	#FFFFFF	circle	245	628	8	8
+45	cpd:C16332	compound		https://www.kegg.jp/dbget-bin/www_bget?C16332	C16332	#000000	#FFFFFF	circle	353	628	8	8
+46	cpd:C16331	compound		https://www.kegg.jp/dbget-bin/www_bget?C16331	C16331	#000000	#FFFFFF	circle	460	628	8	8
+47	cpd:C16330	compound		https://www.kegg.jp/dbget-bin/www_bget?C16330	C16330	#000000	#FFFFFF	circle	556	628	8	8
+48	ko:K05894	ortholog	rn:R03401	https://www.kegg.jp/dbget-bin/www_bget?K05894	K05894	#000000	#FFFFFF	rectangle	505	556	46	17
+49	ko:K08241	ortholog	rn:R05759	https://www.kegg.jp/dbget-bin/www_bget?K08241	K08241	#000000	#FFFFFF	rectangle	558	725	46	17
+51	cpd:C16325	compound		https://www.kegg.jp/dbget-bin/www_bget?C16325	C16325	#000000	#FFFFFF	circle	461	376	8	8
+52	cpd:C16327	compound		https://www.kegg.jp/dbget-bin/www_bget?C16327	C16327	#000000	#FFFFFF	circle	644	556	8	8
+53	cpd:C16328	compound		https://www.kegg.jp/dbget-bin/www_bget?C16328	C16328	#000000	#FFFFFF	circle	644	628	8	8
+54	cpd:C16300	compound		https://www.kegg.jp/dbget-bin/www_bget?C16300	C16300	#000000	#FFFFFF	circle	353	190	8	8
+55	cpd:C16309	compound		https://www.kegg.jp/dbget-bin/www_bget?C16309	C16309	#000000	#FFFFFF	circle	556	484	8	8
+56	cpd:C16326	compound		https://www.kegg.jp/dbget-bin/www_bget?C16326	C16326	#000000	#FFFFFF	circle	353	252	8	8
+57	cpd:C04672	compound		https://www.kegg.jp/dbget-bin/www_bget?C04672	C04672	#000000	#FFFFFF	circle	353	556	8	8
+58	cpd:C01226	compound		https://www.kegg.jp/dbget-bin/www_bget?C01226	C01226	#000000	#FFFFFF	circle	460	556	8	8
+59	cpd:C16319	compound		https://www.kegg.jp/dbget-bin/www_bget?C16319	C16319	#000000	#FFFFFF	circle	461	509	8	8
+60	cpd:C04780	compound		https://www.kegg.jp/dbget-bin/www_bget?C04780	C04780	#000000	#FFFFFF	circle	556	556	8	8
+61	cpd:C16311	compound		https://www.kegg.jp/dbget-bin/www_bget?C16311	C16311	#000000	#FFFFFF	circle	461	484	8	8
+62	cpd:C16316	compound		https://www.kegg.jp/dbget-bin/www_bget?C16316	C16316	#000000	#FFFFFF	circle	353	431	8	8
+63	hsa:30	gene	rn:R07891	https://www.kegg.jp/dbget-bin/www_bget?hsa:30	ACAA1, ACAA, PTHIO, THIO	#000000	#BFFFBF	rectangle	505	628	46	17
+64	hsa:51 hsa:8310	gene	rn:R07888	https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310	ACOX1, ACOX, MITCH, PALMCOX, SCOX...	#000000	#BFFFBF	rectangle	644	590	46	17
+65	cpd:C16322	compound		https://www.kegg.jp/dbget-bin/www_bget?C16322	C16322	#000000	#FFFFFF	circle	461	304	8	8
+67	path:hsa00592	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00592	TITLE:alpha-Linolenic acid metabolism	#000000	#FFFFFF	roundrectangle	166	58	252	25
+68	ko:K10525	ortholog	rn:R03402	https://www.kegg.jp/dbget-bin/www_bget?K10525	K10525	#000000	#FFFFFF	rectangle	403	556	46	17
+69	ko:K01723	ortholog	rn:R07865	https://www.kegg.jp/dbget-bin/www_bget?K01723	K01723	#000000	#FFFFFF	rectangle	353	345	46	17
+70	hsa:100137049 hsa:11145 hsa:123745 hsa:151056 hsa:255189 hsa:26279 hsa:283748 hsa:30814 hsa:391013 hsa:50487 hsa:5319 hsa:5320 hsa:5321 hsa:5322 hsa:64600 hsa:81579 hsa:8398 hsa:8399 hsa:84647 hsa:8605 hsa:8681	gene	rn:R07859	https://www.kegg.jp/dbget-bin/www_bget?hsa:100137049+hsa:11145+hsa:123745+hsa:151056+hsa:255189+hsa:26279+hsa:283748+hsa:30814+hsa:391013+hsa:50487+hsa:5319+hsa:5320+hsa:5321+hsa:5322+hsa:64600+hsa:81579+hsa:8398+hsa:8399+hsa:84647+hsa:8605+hsa:8681	PLA2G4B, HsT16992, cPLA2-beta...	#000000	#BFFFBF	rectangle	221	148	46	17
+71	ko:K10526	ortholog	rn:R07887	https://www.kegg.jp/dbget-bin/www_bget?K10526	K10526	#000000	#FFFFFF	rectangle	600	556	46	17
+72	ko:K10528	ortholog	rn:R07868	https://www.kegg.jp/dbget-bin/www_bget?K10528	K10528	#000000	#FFFFFF	rectangle	403	304	46	17
+73	hsa:9415	gene	rn:R07861	https://www.kegg.jp/dbget-bin/www_bget?hsa:9415	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	#000000	#BFFFBF	rectangle	299	190	46	17
+74	ko:K10529	ortholog	rn:R12775	https://www.kegg.jp/dbget-bin/www_bget?K10529	K10529	#000000	#FFFFFF	rectangle	191	304	46	17
+75	hsa:11145	gene	rn:R07860	https://www.kegg.jp/dbget-bin/www_bget?hsa:11145	PLAAT3, AdPLA, H-REV107, H-REV107-1, HRASLS3, HREV107, HREV107-1, HREV107-3, HRSL3, PLA2G16, PLAAT-3	#000000	#BFFFBF	rectangle	271	148	46	17
+76	ko:K00454	ortholog	rn:R07864	https://www.kegg.jp/dbget-bin/www_bget?K00454	K00454	#000000	#FFFFFF	rectangle	299	304	46	17
+77	cpd:C16345	compound		https://www.kegg.jp/dbget-bin/www_bget?C16345	C16345	#000000	#FFFFFF	circle	68	230	8	8
+78	cpd:C00157	compound		https://www.kegg.jp/dbget-bin/www_bget?C00157	C00157	#000000	#FFFFFF	circle	246	118	8	8
+79	cpd:C16344	compound		https://www.kegg.jp/dbget-bin/www_bget?C16344	C16344	#000000	#FFFFFF	circle	137	431	8	8
+80	cpd:C16323	compound		https://www.kegg.jp/dbget-bin/www_bget?C16323	C16323	#000000	#FFFFFF	circle	439	252	8	8
+81	cpd:C16324	compound		https://www.kegg.jp/dbget-bin/www_bget?C16324	C16324	#000000	#FFFFFF	circle	353	376	8	8
+82	cpd:C16321	compound		https://www.kegg.jp/dbget-bin/www_bget?C16321	C16321	#000000	#FFFFFF	circle	353	304	8	8
+83	cpd:C16342	compound		https://www.kegg.jp/dbget-bin/www_bget?C16342	C16342	#000000	#FFFFFF	circle	68	304	8	8
+84	cpd:C16341	compound		https://www.kegg.jp/dbget-bin/www_bget?C16341	C16341	#000000	#FFFFFF	circle	137	304	8	8
+85	cpd:C16308	compound		https://www.kegg.jp/dbget-bin/www_bget?C16308	C16308	#000000	#FFFFFF	circle	644	484	8	8
+86	cpd:C16320	compound		https://www.kegg.jp/dbget-bin/www_bget?C16320	C16320	#000000	#FFFFFF	circle	461	329	8	8
+87	cpd:C06427	compound		https://www.kegg.jp/dbget-bin/www_bget?C06427	C06427	#000000	#FFFFFF	circle	246	190	8	8
+88	cpd:C16343	compound		https://www.kegg.jp/dbget-bin/www_bget?C16343	C16343	#000000	#FFFFFF	circle	137	376	8	8
+89	cpd:C16346	compound		https://www.kegg.jp/dbget-bin/www_bget?C16346	C16346	#000000	#FFFFFF	circle	137	230	8	8
+90	cpd:C16310	compound		https://www.kegg.jp/dbget-bin/www_bget?C16310	C16310	#000000	#FFFFFF	circle	435	421	8	8
+91	cpd:C04785	compound		https://www.kegg.jp/dbget-bin/www_bget?C04785	C04785	#000000	#FFFFFF	circle	353	484	8	8
+111	ko:K18857	ortholog	rn:R10783	https://www.kegg.jp/dbget-bin/www_bget?K18857	K18857	#000000	#FFFFFF	rectangle	487	422	46	17
+112	cpd:C08492	compound		https://www.kegg.jp/dbget-bin/www_bget?C08492	C08492	#000000	#FFFFFF	circle	545	421	8	8
+114	ko:K18858	ortholog	rn:R09631	https://www.kegg.jp/dbget-bin/www_bget?K18858	K18858	#000000	#FFFFFF	rectangle	598	422	46	17
+115	cpd:C19757	compound		https://www.kegg.jp/dbget-bin/www_bget?C19757	C19757	#000000	#FFFFFF	circle	655	421	8	8
+117	cpd:C21923	compound		https://www.kegg.jp/dbget-bin/www_bget?C21923	C21923	#000000	#FFFFFF	circle	253	556	8	8
+119	ko:K00224	ortholog	rn:R12141	https://www.kegg.jp/dbget-bin/www_bget?K00224	K00224	#000000	#FFFFFF	rectangle	214	556	46	17
+120	cpd:C21924	compound		https://www.kegg.jp/dbget-bin/www_bget?C21924	C21924	#000000	#FFFFFF	circle	162	556	8	8

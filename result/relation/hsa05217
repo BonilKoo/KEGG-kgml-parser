@@ -1,0 +1,21 @@
+entry1	entry2	type	name	value
+9	16	PPrel	activation	-->
+16	15	PPrel	activation	-->
+10	12	PPrel	inhibition	--|
+15	22	PPrel	inhibition	--|
+22	21	PPrel	inhibition	--|
+21	23	PPrel	activation	-->
+18	8	GErel	expression	-->
+18	20	GErel	expression	-->
+18	6	GErel	expression	-->
+18	7	GErel	expression	-->
+18	9	GErel	expression	-->
+13	18	PPrel	missing interaction	-/-
+4	13	PPrel	binding/association	---
+19	13	PPrel	activation	-->
+59	65	PPrel	missing interaction	-/-
+59	66	PPrel	missing interaction	-/-
+59	67	PPrel	missing interaction	-/-
+59	68	PPrel	missing interaction	-/-
+59	69	PPrel	missing interaction	-/-
+59	70	PPrel	missing interaction	-/-

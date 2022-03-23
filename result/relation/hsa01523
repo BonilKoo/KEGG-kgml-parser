@@ -1,0 +1,10 @@
+entry1	entry2	type	name	value
+31	65	PCrel	inhibition	--|
+103	65	PCrel	inhibition	--|
+96	68	PCrel	inhibition	--|
+32	68	PCrel	inhibition	--|
+127	128	PPrel	activation	-->
+127	128	PPrel	indirect effect	..>
+128	131	GErel	expression	-->
+128	130	GErel	expression	-->
+128	129	GErel	expression	-->

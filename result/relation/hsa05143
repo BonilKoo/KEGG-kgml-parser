@@ -1,0 +1,20 @@
+entry1	entry2	type	name	value
+126	124	PPrel	binding/association	---
+38	39	PPrel	activation	-->
+140	138	PPrel	activation	-->
+140	138	PPrel	binding/association	---
+46	61	GErel	expression	-->
+46	60	GErel	expression	-->
+46	102	GErel	expression	-->
+45	102	GErel	expression	-->
+45	131	GErel	expression	-->
+150	153	PPrel	activation	-->
+153	154	PPrel	activation	-->
+153	154	PPrel	indirect effect	..>
+154	164	PPrel	compound	159
+154	164	PPrel	activation	-->
+154	164	PPrel	indirect effect	..>
+154	164	PPrel	compound	160
+154	164	PPrel	activation	-->
+154	164	PPrel	indirect effect	..>
+105	175	PPrel	inhibition	--|

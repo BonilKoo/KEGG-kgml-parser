@@ -1,0 +1,230 @@
+entry1	entry2	type	name	value
+290	291	PPrel	activation	-->
+278	274	PCrel	activation	-->
+278	275	PCrel	activation	-->
+288	290	PPrel	activation	-->
+288	291	PPrel	activation	-->
+291	289	PPrel	activation	-->
+274	289	PPrel	activation	-->
+294	292	PCrel	activation	-->
+292	293	PCrel	activation	-->
+293	298	PPrel	activation	-->
+293	299	PPrel	activation	-->
+1123	284	PCrel	activation	-->
+318	909	PPrel	activation	-->
+318	910	PPrel	activation	-->
+318	286	PPrel	activation	-->
+286	287	PPrel	activation	-->
+286	917	PPrel	activation	-->
+909	902	PPrel	activation	-->
+909	916	PPrel	activation	-->
+910	902	PPrel	activation	-->
+910	916	PPrel	activation	-->
+863	861	PPrel	activation	-->
+861	1124	PPrel	activation	-->
+354	353	PPrel	activation	-->
+353	1124	PPrel	activation	-->
+340	1125	PPrel	activation	-->
+347	1126	PPrel	activation	-->
+353	848	PPrel	activation	-->
+848	849	PPrel	activation	-->
+849	1127	PPrel	activation	-->
+1127	854	PPrel	activation	-->
+854	1128	PPrel	activation	-->
+975	976	PPrel	activation	-->
+975	977	PPrel	activation	-->
+977	440	PPrel	activation	-->
+447	440	PPrel	activation	-->
+440	1129	PPrel	activation	-->
+437	1114	PCrel	activation	-->
+378	1130	PPrel	activation	-->
+951	1131	PPrel	activation	-->
+956	1132	PPrel	activation	-->
+1011	1010	PCrel	activation	-->
+382	385	PPrel	activation	-->
+385	386	PPrel	activation	-->
+383	401	PPrel	activation	-->
+401	458	PPrel	activation	-->
+401	381	PPrel	activation	-->
+401	467	PPrel	activation	-->
+496	19	PPrel	activation	-->
+19	5	PCrel	activation	-->
+5	17	PCrel	activation	-->
+5	18	PCrel	activation	-->
+18	17	PPrel	activation	-->
+5	279	PCrel	activation	-->
+279	281	PCrel	activation	-->
+536	537	PPrel	activation	-->
+506	503	PPrel	activation	-->
+505	502	PPrel	activation	-->
+507	504	PPrel	activation	-->
+515	517	PPrel	activation	-->
+515	514	PPrel	activation	-->
+515	513	PPrel	activation	-->
+515	512	PPrel	activation	-->
+526	514	PPrel	activation	-->
+526	513	PPrel	activation	-->
+526	512	PPrel	activation	-->
+274	288	PPrel	binding/association	---
+352	354	PPrel	binding/association	---
+351	353	PPrel	binding/association	---
+376	975	PPrel	binding/association	---
+377	1129	PPrel	activation	-->
+377	1129	PPrel	indirect effect	..>
+1114	966	PCrel	activation	-->
+1114	966	PCrel	indirect effect	..>
+378	434	PPrel	activation	-->
+378	434	PPrel	indirect effect	..>
+434	447	PPrel	activation	-->
+434	447	PPrel	indirect effect	..>
+1010	452	PCrel	activation	-->
+1010	452	PCrel	indirect effect	..>
+1009	1008	PPrel	activation	-->
+1009	1008	PPrel	indirect effect	..>
+503	515	PPrel	activation	-->
+503	515	PPrel	indirect effect	..>
+502	515	PPrel	activation	-->
+502	515	PPrel	indirect effect	..>
+504	515	PPrel	activation	-->
+504	515	PPrel	indirect effect	..>
+293	308	PPrel	activation	-->
+293	308	PPrel	phosphorylation	+p
+322	323	PPrel	activation	-->
+322	323	PPrel	phosphorylation	+p
+902	319	PPrel	activation	-->
+902	319	PPrel	phosphorylation	+p
+319	320	PPrel	activation	-->
+319	320	PPrel	phosphorylation	+p
+916	914	PPrel	activation	-->
+916	914	PPrel	phosphorylation	+p
+342	341	PPrel	activation	-->
+342	341	PPrel	phosphorylation	+p
+341	350	PPrel	activation	-->
+341	350	PPrel	phosphorylation	+p
+342	370	PPrel	activation	-->
+342	370	PPrel	phosphorylation	+p
+370	343	PPrel	activation	-->
+370	343	PPrel	phosphorylation	+p
+342	368	PPrel	activation	-->
+342	368	PPrel	phosphorylation	+p
+368	346	PPrel	activation	-->
+368	346	PPrel	phosphorylation	+p
+1128	844	PPrel	activation	-->
+1128	844	PPrel	phosphorylation	+p
+1128	847	PPrel	activation	-->
+1128	847	PPrel	phosphorylation	+p
+1132	952	PPrel	activation	-->
+1132	952	PPrel	phosphorylation	+p
+952	959	PPrel	activation	-->
+952	959	PPrel	phosphorylation	+p
+959	966	PPrel	dissociation	-+-
+289	308	PPrel	inhibition	--|
+289	308	PPrel	phosphorylation	+p
+293	302	PPrel	inhibition	--|
+293	302	PPrel	phosphorylation	+p
+293	297	PPrel	inhibition	--|
+293	297	PPrel	phosphorylation	+p
+274	896	PPrel	activation	-->
+274	896	PPrel	indirect effect	..>
+274	882	PPrel	activation	-->
+274	882	PPrel	indirect effect	..>
+882	823	PPrel	activation	-->
+882	823	PPrel	indirect effect	..>
+274	1123	PPrel	activation	-->
+274	1123	PPrel	indirect effect	..>
+906	284	PCrel	activation	-->
+906	284	PCrel	indirect effect	..>
+275	284	PCrel	activation	-->
+275	284	PCrel	indirect effect	..>
+284	318	PCrel	activation	-->
+284	318	PCrel	indirect effect	..>
+275	1123	PPrel	activation	-->
+275	1123	PPrel	indirect effect	..>
+318	322	PPrel	activation	-->
+318	322	PPrel	indirect effect	..>
+287	321	PPrel	activation	-->
+287	321	PPrel	indirect effect	..>
+914	321	PPrel	activation	-->
+914	321	PPrel	indirect effect	..>
+917	321	PPrel	activation	-->
+917	321	PPrel	indirect effect	..>
+408	409	PPrel	binding/association	---
+409	410	PPrel	binding/association	---
+17	45	PPrel	inhibition	--|
+17	45	PPrel	phosphorylation	+p
+45	499	PPrel	inhibition	--|
+45	499	PPrel	phosphorylation	+p
+537	499	PPrel	activation	-->
+537	499	PPrel	dephosphorylation	-p
+998	997	PPrel	inhibition	--|
+999	998	PPrel	inhibition	--|
+999	998	PPrel	indirect effect	..>
+282	536	PCrel	binding/association	---
+281	282	PCrel	inhibition	--|
+281	282	PCrel	indirect effect	..>
+999	997	GErel	expression	-->
+999	997	GErel	indirect effect	..>
+823	831	GErel	expression	-->
+823	832	GErel	expression	-->
+823	833	GErel	expression	-->
+320	324	GErel	expression	-->
+320	325	GErel	expression	-->
+320	326	GErel	expression	-->
+369	837	GErel	expression	-->
+369	838	GErel	expression	-->
+369	330	GErel	expression	-->
+369	329	GErel	expression	-->
+369	331	GErel	expression	-->
+369	836	GErel	expression	-->
+369	924	GErel	expression	-->
+369	925	GErel	expression	-->
+369	327	GErel	expression	-->
+369	328	GErel	expression	-->
+369	835	GErel	expression	-->
+844	860	GErel	expression	-->
+847	860	GErel	expression	-->
+1133	994	GErel	expression	-->
+1133	995	GErel	expression	-->
+966	454	GErel	expression	-->
+966	455	GErel	expression	-->
+966	456	GErel	expression	-->
+966	969	GErel	expression	-->
+966	970	GErel	expression	-->
+966	972	GErel	expression	-->
+966	971	GErel	expression	-->
+966	947	GErel	expression	-->
+966	949	GErel	expression	-->
+966	950	GErel	expression	-->
+966	1117	GErel	expression	-->
+389	1009	GErel	expression	-->
+386	389	GErel	expression	-->
+410	412	PPrel	activation	-->
+412	415	PPrel	activation	-->
+412	945	PPrel	activation	-->
+522	526	PPrel	activation	-->
+522	521	PPrel	binding/association	---
+823	834	GErel	repression	--|
+321	931	GErel	repression	--|
+321	932	GErel	repression	--|
+321	837	PPrel	activation	-->
+321	838	PPrel	activation	-->
+321	330	PPrel	activation	-->
+321	329	PPrel	activation	-->
+321	331	PPrel	activation	-->
+321	836	PPrel	activation	-->
+321	924	PPrel	activation	-->
+321	925	PPrel	activation	-->
+321	327	PPrel	activation	-->
+321	328	PPrel	activation	-->
+321	835	PPrel	activation	-->
+896	898	PPrel	inhibition	--|
+896	898	PPrel	indirect effect	..>
+393	384	PPrel	inhibition	--|
+393	382	PPrel	inhibition	--|
+393	383	PPrel	inhibition	--|
+381	404	PPrel	activation	-->
+381	404	PPrel	phosphorylation	+p
+404	462	PPrel	activation	-->
+404	462	PPrel	phosphorylation	+p
+458	459	PPrel	activation	-->
+458	459	PPrel	indirect effect	..>

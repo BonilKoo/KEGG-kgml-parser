@@ -1,0 +1,15 @@
+entry1	entry2	type	name	value
+101	200	GErel	expression	-->
+101	102	GErel	expression	-->
+101	88	GErel	expression	-->
+101	94	GErel	expression	-->
+101	95	GErel	expression	-->
+100	101	PCrel	binding/association	---
+144	140	PCrel	binding/association	---
+140	143	PCrel	binding/association	---
+159	158	PCrel	binding/association	---
+85	87	PCrel	binding/association	---
+215	213	PCrel	binding/association	---
+86	84	PCrel	dissociation	-+-
+129	130	PCrel	binding/association	---
+111	126	PCrel	binding/association	---

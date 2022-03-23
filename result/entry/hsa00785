@@ -1,0 +1,35 @@
+id	name_entry	type_entry	reaction	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
+9	ko:K03801	ortholog	rn:R12428	https://www.kegg.jp/dbget-bin/www_bget?K03801	K03801	#000000	#FFFFFF	rectangle	332	226	46	17
+10	path:hsa00785	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00785	TITLE:Lipoic acid metabolism	#000000	#FFFFFF	roundrectangle	140	58	200	25
+11	path:hsa00061	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00061	Fatty acid biosynthesis	#000000	#FFFFFF	roundrectangle	173	123	86	34
+12	hsa:11019	gene	rn:R12423	https://www.kegg.jp/dbget-bin/www_bget?hsa:11019	LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD	#000000	#BFFFBF	rectangle	245	321	46	17
+13	ko:K03801 ko:K23763	ortholog	rn:R12427	https://www.kegg.jp/dbget-bin/www_bget?K03801+K23763	K03801...	#000000	#FFFFFF	rectangle	219	226	46	17
+14	cpd:C16241	compound		https://www.kegg.jp/dbget-bin/www_bget?C16241	C16241	#000000	#FFFFFF	circle	614	179	8	8
+15	cpd:C16238	compound		https://www.kegg.jp/dbget-bin/www_bget?C16238	C16238	#000000	#FFFFFF	circle	614	274	8	8
+16	cpd:C22160	compound		https://www.kegg.jp/dbget-bin/www_bget?C22160	C22160	#000000	#FFFFFF	circle	244	274	8	8
+17	cpd:C15972	compound		https://www.kegg.jp/dbget-bin/www_bget?C15972	C15972	#000000	#FFFFFF	circle	614	369	8	8
+22	hsa:51601	gene	rn:R12450	https://www.kegg.jp/dbget-bin/www_bget?hsa:51601	LIPT1, LIPT1D	#000000	#BFFFBF	rectangle	615	321	46	17
+23	hsa:116285	gene	rn:R07770	https://www.kegg.jp/dbget-bin/www_bget?hsa:116285	ACSM1, BUCS1, MACS1	#000000	#BFFFBF	rectangle	615	226	46	17
+24	ko:K03800	ortholog	rn:R12449	https://www.kegg.jp/dbget-bin/www_bget?K03800	K03800	#000000	#FFFFFF	rectangle	715	275	46	17
+25	cpd:C22159	compound		https://www.kegg.jp/dbget-bin/www_bget?C22159	C22159	#000000	#FFFFFF	circle	357	274	8	8
+26	cpd:C06423	compound		https://www.kegg.jp/dbget-bin/www_bget?C06423	C06423	#000000	#FFFFFF	circle	74	274	8	8
+27	ko:K03800	ortholog	rn:R12429	https://www.kegg.jp/dbget-bin/www_bget?K03800	K03800	#000000	#FFFFFF	rectangle	115	275	46	17
+28	cpd:C15973	compound		https://www.kegg.jp/dbget-bin/www_bget?C15973	C15973	#000000	#FFFFFF	circle	244	369	8	8
+30	cpd:C01944	compound		https://www.kegg.jp/dbget-bin/www_bget?C01944	C01944	#000000	#FFFFFF	circle	144	179	8	8
+31	ko:K23750	ortholog	rn:R12431	https://www.kegg.jp/dbget-bin/www_bget?K23750	K23750	#000000	#FFFFFF	rectangle	144	226	46	17
+33	ko:K03800	ortholog	rn:R12433	https://www.kegg.jp/dbget-bin/www_bget?K03800	K03800	#000000	#FFFFFF	rectangle	815	275	46	17
+34	cpd:C02051	compound		https://www.kegg.jp/dbget-bin/www_bget?C02051	C02051	#000000	#FFFFFF	circle	814	369	8	8
+36	ko:K18821	ortholog	rn:R12426	https://www.kegg.jp/dbget-bin/www_bget?K18821	K18821	#000000	#FFFFFF	rectangle	754	370	46	17
+37	cpd:C05752	compound		https://www.kegg.jp/dbget-bin/www_bget?C05752	C05752	#000000	#FFFFFF	circle	244	179	8	8
+38	cpd:C02972	compound		https://www.kegg.jp/dbget-bin/www_bget?C02972	C02972	#000000	#FFFFFF	circle	357	369	8	8
+40	hsa:11019	gene	rn:R12424	https://www.kegg.jp/dbget-bin/www_bget?hsa:11019	LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD	#000000	#BFFFBF	rectangle	332	321	46	17
+42	hsa:51601	gene	rn:R12432	https://www.kegg.jp/dbget-bin/www_bget?hsa:51601	LIPT1, LIPT1D	#000000	#BFFFBF	rectangle	303	380	46	17
+44	ko:K16869	ortholog	rn:R12425	https://www.kegg.jp/dbget-bin/www_bget?K16869	K16869	#000000	#FFFFFF	rectangle	303	275	46	17
+45	hsa:51601	gene	rn:R12427	https://www.kegg.jp/dbget-bin/www_bget?hsa:51601	LIPT1, LIPT1D	#000000	#BFFFBF	rectangle	269	226	46	17
+47	hsa:387787	gene	rn:R12428	https://www.kegg.jp/dbget-bin/www_bget?hsa:387787	LIPT2	#000000	#BFFFBF	rectangle	382	226	46	17
+48	cpd:C02147	compound		https://www.kegg.jp/dbget-bin/www_bget?C02147	C02147	#000000	#FFFFFF	circle	515	179	8	8
+50	ko:K03800	ortholog	rn:R12434	https://www.kegg.jp/dbget-bin/www_bget?K03800	K03800	#000000	#FFFFFF	rectangle	516	226	46	17
+51	cpd:C22161	compound		https://www.kegg.jp/dbget-bin/www_bget?C22161	C22161	#000000	#FFFFFF	circle	515	274	8	8
+53	ko:K23763	ortholog	rn:R12435	https://www.kegg.jp/dbget-bin/www_bget?K23763	K23763	#000000	#FFFFFF	rectangle	516	321	46	17
+54	ko:K16869	ortholog	rn:R12432	https://www.kegg.jp/dbget-bin/www_bget?K16869	K16869	#000000	#FFFFFF	rectangle	303	359	46	17
+56	ko:K09711 ko:K24689	ortholog	rn:R12691	https://www.kegg.jp/dbget-bin/www_bget?K09711+K24689	K09711...	#000000	#FFFFFF	rectangle	382	321	46	17

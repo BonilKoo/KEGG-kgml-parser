@@ -1,0 +1,24 @@
+entry1	entry2	type	name	value
+165	163	PPrel	compound	277
+165	163	PPrel	activation	-->
+164	175	ECrel	compound	170
+164	175	ECrel	activation	-->
+164	175	ECrel	indirect effect	..>
+23	43	PPrel	activation	-->
+43	35	PPrel	activation	-->
+43	35	PPrel	indirect effect	..>
+267	40	PCrel	activation	-->
+267	40	PCrel	indirect effect	..>
+293	115	PPrel	activation	-->
+293	115	PPrel	indirect effect	..>
+123	113	PPrel	activation	-->
+113	124	PCrel	activation	-->
+113	124	PCrel	indirect effect	..>
+130	124	PCrel	inhibition	--|
+274	273	PPrel	inhibition	--|
+162	165	PPrel	activation	-->
+162	165	PPrel	indirect effect	..>
+161	164	PPrel	activation	-->
+161	164	PPrel	indirect effect	..>
+101	35	PPrel	inhibition	--|
+101	35	PPrel	indirect effect	..>

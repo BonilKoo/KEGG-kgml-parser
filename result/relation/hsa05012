@@ -1,0 +1,85 @@
+entry1	entry2	type	name	value
+219	168	PCrel	activation	-->
+168	171	PPrel	activation	-->
+171	174	PPrel	activation	-->
+174	202	PCrel	activation	-->
+202	176	PCrel	activation	-->
+276	278	PCrel	activation	-->
+278	279	PPrel	activation	-->
+233	241	PPrel	activation	-->
+232	236	PPrel	activation	-->
+236	237	PPrel	activation	-->
+25	152	PPrel	activation	-->
+155	152	PPrel	activation	-->
+152	153	PPrel	activation	-->
+279	280	PPrel	activation	-->
+279	280	PPrel	phosphorylation	+p
+21	743	PPrel	inhibition	--|
+255	248	PPrel	inhibition	--|
+248	234	PPrel	inhibition	--|
+248	233	PPrel	inhibition	--|
+248	232	PPrel	inhibition	--|
+365	364	PPrel	inhibition	--|
+323	26	PPrel	inhibition	--|
+104	26	PCrel	inhibition	--|
+24	26	PCrel	inhibition	--|
+304	26	PPrel	inhibition	--|
+303	28	PCrel	inhibition	--|
+300	292	PPrel	inhibition	--|
+31	25	PPrel	inhibition	--|
+332	25	PPrel	inhibition	--|
+744	345	PPrel	activation	-->
+189	169	PCrel	missing interaction	-/-
+169	172	PPrel	missing interaction	-/-
+172	174	PPrel	missing interaction	-/-
+189	170	PCrel	missing interaction	-/-
+170	173	PPrel	missing interaction	-/-
+173	175	PPrel	missing interaction	-/-
+175	203	PCrel	missing interaction	-/-
+203	177	PCrel	missing interaction	-/-
+15	13	PPrel	missing interaction	-/-
+15	743	PPrel	missing interaction	-/-
+229	149	PPrel	missing interaction	-/-
+375	374	PPrel	missing interaction	-/-
+335	31	PPrel	missing interaction	-/-
+315	316	PPrel	missing interaction	-/-
+314	315	PPrel	missing interaction	-/-
+326	327	PPrel	missing interaction	-/-
+327	316	PPrel	missing interaction	-/-
+20	307	PPrel	missing interaction	-/-
+307	398	PPrel	missing interaction	-/-
+19	744	PPrel	missing interaction	-/-
+343	19	PPrel	missing interaction	-/-
+343	338	PPrel	missing interaction	-/-
+19	347	PPrel	missing interaction	-/-
+234	243	GErel	expression	-->
+237	244	GErel	expression	-->
+338	361	GErel	expression	-->
+347	362	GErel	expression	-->
+15	402	PPrel	missing interaction	-/-
+15	18	PPrel	missing interaction	-/-
+15	16	PPrel	missing interaction	-/-
+15	17	PPrel	missing interaction	-/-
+11	12	PPrel	binding/association	---
+13	14	PPrel	binding/association	---
+59	60	PPrel	binding/association	---
+60	61	PPrel	binding/association	---
+45	46	PPrel	binding/association	---
+46	47	PPrel	binding/association	---
+273	271	PPrel	activation	-->
+271	264	PCrel	activation	-->
+264	267	PCrel	activation	-->
+271	266	PCrel	activation	-->
+267	265	PCrel	activation	-->
+383	32	PCrel	activation	-->
+32	25	PPrel	activation	-->
+316	25	PPrel	activation	-->
+295	296	PPrel	binding/association	---
+742	27	PCrel	inhibition	--|
+732	714	PCrel	inhibition	--|
+714	347	PPrel	inhibition	--|
+732	715	PCrel	inhibition	--|
+715	744	PPrel	inhibition	--|
+19	338	PPrel	missing interaction	-/-
+706	732	PCrel	activation	-->
+706	732	PCrel	indirect effect	..>

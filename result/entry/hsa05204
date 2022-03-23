@@ -1,0 +1,153 @@
+id	name_entry	type_entry	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
+54	path:hsa05204	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05204	TITLE:Chemical carcinogenesis - DNA adducts	#000000	#FFFFFF	roundrectangle	220	58	360	25
+57	cpd:C19586	compound	https://www.kegg.jp/dbget-bin/www_bget?C19586	C19586	#000000	#FFFFFF	circle	833	971	8	8
+58	hsa:1544 hsa:1576	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1544+hsa:1576	CYP1A2, CP12, CYPIA2, P3-450, P450(PA)...	#000000	#BFFFBF	rectangle	759	972	46	17
+59	hsa:1543 hsa:1545	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1543+hsa:1545	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...	#000000	#BFFFBF	rectangle	406	481	46	17
+60	hsa:1543 hsa:1545	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1543+hsa:1545	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...	#000000	#BFFFBF	rectangle	348	432	46	17
+61	hsa:1543 hsa:1545 hsa:1557 hsa:1558 hsa:1559 hsa:1562 hsa:1576	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1543+hsa:1545+hsa:1557+hsa:1558+hsa:1559+hsa:1562+hsa:1576	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...	#000000	#BFFFBF	rectangle	131	482	46	17
+62	cpd:C14853	compound	https://www.kegg.jp/dbget-bin/www_bget?C14853	C14853	#000000	#FFFFFF	circle	466	481	8	8
+63	cpd:C14854	compound	https://www.kegg.jp/dbget-bin/www_bget?C14854	C14854	#000000	#FFFFFF	circle	402	431	8	8
+64	cpd:C14856	compound	https://www.kegg.jp/dbget-bin/www_bget?C14856	C14856	#000000	#FFFFFF	circle	356	546	8	8
+65	cpd:C14855	compound	https://www.kegg.jp/dbget-bin/www_bget?C14855	C14855	#000000	#FFFFFF	circle	304	547	8	8
+66	cpd:C14852	compound	https://www.kegg.jp/dbget-bin/www_bget?C14852	C14852	#000000	#FFFFFF	circle	356	481	8	8
+67	cpd:C07535	compound	https://www.kegg.jp/dbget-bin/www_bget?C07535	C07535	#000000	#FFFFFF	circle	73	481	8	8
+68	cpd:C14851	compound	https://www.kegg.jp/dbget-bin/www_bget?C14851	C14851	#000000	#FFFFFF	circle	204	495	8	8
+69	cpd:C14850	compound	https://www.kegg.jp/dbget-bin/www_bget?C14850	C14850	#000000	#FFFFFF	circle	204	481	8	8
+70	cpd:C14849	compound	https://www.kegg.jp/dbget-bin/www_bget?C14849	C14849	#000000	#FFFFFF	circle	204	467	8	8
+71	cpd:C14556	compound	https://www.kegg.jp/dbget-bin/www_bget?C14556	C14556	#000000	#FFFFFF	circle	305	431	8	8
+72	hsa:119391 hsa:221357 hsa:27306 hsa:2938 hsa:2939 hsa:2940 hsa:2941 hsa:2944 hsa:2946 hsa:2947 hsa:2948 hsa:2949 hsa:2950 hsa:2952 hsa:2953 hsa:373156 hsa:4257 hsa:4258 hsa:4259 hsa:653689 hsa:9446	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:119391+hsa:221357+hsa:27306+hsa:2938+hsa:2939+hsa:2940+hsa:2941+hsa:2944+hsa:2946+hsa:2947+hsa:2948+hsa:2949+hsa:2950+hsa:2952+hsa:2953+hsa:373156+hsa:4257+hsa:4258+hsa:4259+hsa:653689+hsa:9446	GSTO2, GSTO_2-2, bA127L20.1...	#000000	#BFFFBF	rectangle	357	509	46	17
+73	hsa:119391 hsa:221357 hsa:27306 hsa:2938 hsa:2939 hsa:2940 hsa:2941 hsa:2944 hsa:2946 hsa:2947 hsa:2948 hsa:2949 hsa:2950 hsa:2952 hsa:2953 hsa:373156 hsa:4257 hsa:4258 hsa:4259 hsa:653689 hsa:9446	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:119391+hsa:221357+hsa:27306+hsa:2938+hsa:2939+hsa:2940+hsa:2941+hsa:2944+hsa:2946+hsa:2947+hsa:2948+hsa:2949+hsa:2950+hsa:2952+hsa:2953+hsa:373156+hsa:4257+hsa:4258+hsa:4259+hsa:653689+hsa:9446	GSTO2, GSTO_2-2, bA127L20.1...	#000000	#BFFFBF	rectangle	251	547	46	17
+74	hsa:2052	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2052	EPHX1, EPHX, EPOX, HYL1, MEH	#000000	#BFFFBF	rectangle	300	482	46	17
+77	hsa:1543 hsa:1545	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1543+hsa:1545	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...	#000000	#BFFFBF	rectangle	689	527	46	17
+78	hsa:2052	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2052	EPHX1, EPHX, EPOX, HYL1, MEH	#000000	#BFFFBF	rectangle	795	527	46	17
+79	hsa:6822	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:6822	SULT2A1, DHEA-ST, DHEA-ST8, DHEAS, HST, ST2, ST2A1, ST2A3, STD, SULT2A3, hSTa	#000000	#BFFFBF	rectangle	845	580	46	17
+80	cpd:C19561	compound	https://www.kegg.jp/dbget-bin/www_bget?C19561	C19561	#000000	#FFFFFF	circle	781	579	8	8
+81	cpd:C19489	compound	https://www.kegg.jp/dbget-bin/www_bget?C19489	C19489	#000000	#FFFFFF	circle	747	526	8	8
+82	cpd:C19490	compound	https://www.kegg.jp/dbget-bin/www_bget?C19490	C19490	#000000	#FFFFFF	circle	861	526	8	8
+83	cpd:C19559	compound	https://www.kegg.jp/dbget-bin/www_bget?C19559	C19559	#000000	#FFFFFF	circle	975	526	8	8
+84	cpd:C19562	compound	https://www.kegg.jp/dbget-bin/www_bget?C19562	C19562	#000000	#FFFFFF	circle	920	579	8	8
+85	cpd:C19488	compound	https://www.kegg.jp/dbget-bin/www_bget?C19488	C19488	#000000	#FFFFFF	circle	643	579	8	8
+88	hsa:1543 hsa:1545	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1543+hsa:1545	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...	#000000	#BFFFBF	rectangle	689	580	46	17
+89	hsa:1543 hsa:1545	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1543+hsa:1545	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...	#000000	#BFFFBF	rectangle	914	526	46	17
+90	cpd:C16453	compound	https://www.kegg.jp/dbget-bin/www_bget?C16453	C16453	#000000	#FFFFFF	circle	170	1343	8	8
+91	cpd:C19566	compound	https://www.kegg.jp/dbget-bin/www_bget?C19566	C19566	#000000	#FFFFFF	circle	308	1343	8	8
+92	cpd:C19567	compound	https://www.kegg.jp/dbget-bin/www_bget?C19567	C19567	#000000	#FFFFFF	circle	427	1343	8	8
+93	cpd:C19568	compound	https://www.kegg.jp/dbget-bin/www_bget?C19568	C19568	#000000	#FFFFFF	circle	384	1386	8	8
+94	cpd:C19563	compound	https://www.kegg.jp/dbget-bin/www_bget?C19563	C19563	#000000	#FFFFFF	circle	312	1220	8	8
+95	cpd:C19564	compound	https://www.kegg.jp/dbget-bin/www_bget?C19564	C19564	#000000	#FFFFFF	circle	428	1220	8	8
+96	cpd:C19565	compound	https://www.kegg.jp/dbget-bin/www_bget?C19565	C19565	#000000	#FFFFFF	circle	541	1220	8	8
+97	cpd:C19569	compound	https://www.kegg.jp/dbget-bin/www_bget?C19569	C19569	#000000	#FFFFFF	circle	541	1344	8	8
+99	hsa:3290 hsa:374875	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:3290+hsa:374875	HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1...	#000000	#BFFFBF	rectangle	195	1375	46	17
+100	cpd:C19574	compound	https://www.kegg.jp/dbget-bin/www_bget?C19574	C19574	#000000	#FFFFFF	circle	170	1430	8	8
+101	cpd:C19577	compound	https://www.kegg.jp/dbget-bin/www_bget?C19577	C19577	#000000	#FFFFFF	circle	307	1430	8	8
+102	cpd:C19578	compound	https://www.kegg.jp/dbget-bin/www_bget?C19578	C19578	#000000	#FFFFFF	circle	427	1430	8	8
+103	cpd:C19580	compound	https://www.kegg.jp/dbget-bin/www_bget?C19580	C19580	#000000	#FFFFFF	circle	307	1517	8	8
+104	cpd:C19581	compound	https://www.kegg.jp/dbget-bin/www_bget?C19581	C19581	#000000	#FFFFFF	circle	427	1517	8	8
+105	cpd:C19582	compound	https://www.kegg.jp/dbget-bin/www_bget?C19582	C19582	#000000	#FFFFFF	circle	540	1517	8	8
+106	cpd:C19579	compound	https://www.kegg.jp/dbget-bin/www_bget?C19579	C19579	#000000	#FFFFFF	circle	540	1430	8	8
+107	hsa:1646	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1646	AKR1C2, AKR1C-pseudo, BABP, DD, DD-2, DD/BABP, DD2, DDH2, HAKRD, HBAB, MCDR2, SRXY8, TDD	#000000	#BFFFBF	rectangle	145	1375	46	17
+108	hsa:873	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:873	CBR1, CBR, PG-9-KR, SDR21C1, hCBR1	#000000	#BFFFBF	rectangle	170	1394	46	17
+110	cpd:C19602	compound	https://www.kegg.jp/dbget-bin/www_bget?C19602	C19602	#000000	#FFFFFF	circle	312	1272	8	8
+111	cpd:C19603	compound	https://www.kegg.jp/dbget-bin/www_bget?C19603	C19603	#000000	#FFFFFF	circle	276	1479	8	8
+112	cpd:C19605	compound	https://www.kegg.jp/dbget-bin/www_bget?C19605	C19605	#000000	#FFFFFF	circle	268	1571	8	8
+113	hsa:10720 hsa:10941 hsa:54490 hsa:54575 hsa:54576 hsa:54577 hsa:54578 hsa:54579 hsa:54600 hsa:54657 hsa:54658 hsa:54659 hsa:574537 hsa:7363 hsa:7364 hsa:7365 hsa:7366 hsa:7367 hsa:79799	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10720+hsa:10941+hsa:54490+hsa:54575+hsa:54576+hsa:54577+hsa:54578+hsa:54579+hsa:54600+hsa:54657+hsa:54658+hsa:54659+hsa:574537+hsa:7363+hsa:7364+hsa:7365+hsa:7366+hsa:7367+hsa:79799	UGT2B11...	#000000	#BFFFBF	rectangle	213	1579	46	17
+114	cpd:C19606	compound	https://www.kegg.jp/dbget-bin/www_bget?C19606	C19606	#000000	#FFFFFF	circle	268	1584	8	8
+117	hsa:1548 hsa:1549 hsa:1553	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1548+hsa:1549+hsa:1553	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...	#000000	#BFFFBF	rectangle	234	1221	46	17
+118	hsa:1548 hsa:1549 hsa:1553	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1548+hsa:1549+hsa:1553	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...	#000000	#BFFFBF	rectangle	233	1343	46	17
+119	hsa:1548 hsa:1549 hsa:1553	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1548+hsa:1549+hsa:1553	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...	#000000	#BFFFBF	rectangle	233	1431	46	17
+120	hsa:1548 hsa:1549 hsa:1553	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1548+hsa:1549+hsa:1553	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...	#000000	#BFFFBF	rectangle	233	1519	46	17
+121	cpd:C06800	compound	https://www.kegg.jp/dbget-bin/www_bget?C06800	C06800	#000000	#FFFFFF	circle	696	971	8	8
+125	cpd:C07122	compound	https://www.kegg.jp/dbget-bin/www_bget?C07122	C07122	#000000	#FFFFFF	circle	866	724	8	8
+126	cpd:C07641	compound	https://www.kegg.jp/dbget-bin/www_bget?C07641	C07641	#000000	#FFFFFF	circle	865	803	8	8
+131	hsa:10 hsa:9	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10+hsa:9	NAT2, AAC2, NAT-2, PNAT...	#000000	#BFFFBF	rectangle	184	162	46	17
+132	hsa:1544	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1544	CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	#000000	#BFFFBF	rectangle	184	215	46	17
+133	hsa:10 hsa:9	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10+hsa:9	NAT2, AAC2, NAT-2, PNAT...	#000000	#BFFFBF	rectangle	316	215	46	17
+134	cpd:C10998	compound	https://www.kegg.jp/dbget-bin/www_bget?C10998	C10998	#000000	#FFFFFF	circle	100	213	8	8
+135	cpd:C20285	compound	https://www.kegg.jp/dbget-bin/www_bget?C20285	C20285	#000000	#FFFFFF	circle	248	161	8	8
+136	cpd:C03622	compound	https://www.kegg.jp/dbget-bin/www_bget?C03622	C03622	#000000	#FFFFFF	circle	248	214	8	8
+137	cpd:C03621	compound	https://www.kegg.jp/dbget-bin/www_bget?C03621	C03621	#000000	#FFFFFF	circle	378	214	8	8
+138	cpd:C16038	compound	https://www.kegg.jp/dbget-bin/www_bget?C16038	C16038	#000000	#FFFFFF	circle	688	143	8	8
+139	cpd:C20286	compound	https://www.kegg.jp/dbget-bin/www_bget?C20286	C20286	#000000	#FFFFFF	circle	812	144	8	8
+140	cpd:C20287	compound	https://www.kegg.jp/dbget-bin/www_bget?C20287	C20287	#000000	#FFFFFF	circle	936	145	8	8
+141	cpd:C20288	compound	https://www.kegg.jp/dbget-bin/www_bget?C20288	C20288	#000000	#FFFFFF	circle	937	187	8	8
+142	hsa:1544	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1544	CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	#000000	#BFFFBF	rectangle	758	145	46	17
+143	hsa:10 hsa:9	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10+hsa:9	NAT2, AAC2, NAT-2, PNAT...	#000000	#BFFFBF	rectangle	871	146	46	17
+144	hsa:445329 hsa:6799 hsa:6817 hsa:6818	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:445329+hsa:6799+hsa:6817+hsa:6818	SULT1A4, HAST3, M-PST, ST1A3, ST1A3/ST1A4, ST1A4, STM, TL-PST...	#000000	#BFFFBF	rectangle	871	188	46	17
+148	cpd:C19180	compound	https://www.kegg.jp/dbget-bin/www_bget?C19180	C19180	#000000	#FFFFFF	circle	687	250	8	8
+149	cpd:C20290	compound	https://www.kegg.jp/dbget-bin/www_bget?C20290	C20290	#000000	#FFFFFF	circle	937	250	8	8
+150	cpd:C20289	compound	https://www.kegg.jp/dbget-bin/www_bget?C20289	C20289	#000000	#FFFFFF	circle	812	250	8	8
+151	cpd:C19255	compound	https://www.kegg.jp/dbget-bin/www_bget?C19255	C19255	#000000	#FFFFFF	circle	690	326	8	8
+152	cpd:C20293	compound	https://www.kegg.jp/dbget-bin/www_bget?C20293	C20293	#000000	#FFFFFF	circle	938	327	8	8
+153	hsa:1544	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1544	CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	#000000	#BFFFBF	rectangle	758	250	46	17
+154	hsa:1544	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1544	CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	#000000	#BFFFBF	rectangle	758	326	46	17
+155	hsa:10 hsa:9	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10+hsa:9	NAT2, AAC2, NAT-2, PNAT...	#000000	#BFFFBF	rectangle	871	326	46	17
+157	cpd:C20291	compound	https://www.kegg.jp/dbget-bin/www_bget?C20291	C20291	#000000	#FFFFFF	circle	812	327	8	8
+162	hsa:100861540 hsa:1543 hsa:1551 hsa:1576 hsa:1577 hsa:64816	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:100861540+hsa:1543+hsa:1551+hsa:1576+hsa:1577+hsa:64816	CYP3A7-CYP3A51P, CYP3A7, CYP3A7-3AP1, CYP3A7-CYP3AP1, CYP3A7.1L, CYPIIIA7...	#000000	#BFFFBF	rectangle	237	711	46	17
+163	hsa:100861540 hsa:1543 hsa:1551 hsa:1576 hsa:1577 hsa:64816	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:100861540+hsa:1543+hsa:1551+hsa:1576+hsa:1577+hsa:64816	CYP3A7-CYP3A51P, CYP3A7, CYP3A7-3AP1, CYP3A7-CYP3AP1, CYP3A7.1L, CYPIIIA7...	#000000	#BFFFBF	rectangle	237	760	46	17
+164	hsa:100861540 hsa:1543 hsa:1551 hsa:1576 hsa:1577 hsa:64816	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:100861540+hsa:1543+hsa:1551+hsa:1576+hsa:1577+hsa:64816	CYP3A7-CYP3A51P, CYP3A7, CYP3A7-3AP1, CYP3A7-CYP3AP1, CYP3A7.1L, CYPIIIA7...	#000000	#BFFFBF	rectangle	237	814	46	17
+165	cpd:C19525	compound	https://www.kegg.jp/dbget-bin/www_bget?C19525	C19525	#000000	#FFFFFF	circle	165	757	8	8
+166	cpd:C20284	compound	https://www.kegg.jp/dbget-bin/www_bget?C20284	C20284	#000000	#FFFFFF	circle	306	682	8	8
+167	cpd:C03012	compound	https://www.kegg.jp/dbget-bin/www_bget?C03012	C03012	#000000	#FFFFFF	circle	330	709	8	8
+168	cpd:C14783	compound	https://www.kegg.jp/dbget-bin/www_bget?C14783	C14783	#000000	#FFFFFF	circle	455	710	8	8
+169	cpd:C20281	compound	https://www.kegg.jp/dbget-bin/www_bget?C20281	C20281	#000000	#FFFFFF	circle	330	758	8	8
+170	cpd:C20283	compound	https://www.kegg.jp/dbget-bin/www_bget?C20283	C20283	#000000	#FFFFFF	circle	455	759	8	8
+171	cpd:C20280	compound	https://www.kegg.jp/dbget-bin/www_bget?C20280	C20280	#000000	#FFFFFF	circle	330	814	8	8
+172	cpd:C20282	compound	https://www.kegg.jp/dbget-bin/www_bget?C20282	C20282	#000000	#FFFFFF	circle	457	814	8	8
+179	cpd:C06268	compound	https://www.kegg.jp/dbget-bin/www_bget?C06268	C06268	#000000	#FFFFFF	circle	125	971	8	8
+180	cpd:C06268	compound	https://www.kegg.jp/dbget-bin/www_bget?C06268	C06268	#000000	#FFFFFF	circle	184	971	8	8
+181	cpd:C06268	compound	https://www.kegg.jp/dbget-bin/www_bget?C06268	C06268	#000000	#FFFFFF	circle	245	971	8	8
+182	cpd:C06268	compound	https://www.kegg.jp/dbget-bin/www_bget?C06268	C06268	#000000	#FFFFFF	circle	307	971	8	8
+190	cpd:C16844	compound	https://www.kegg.jp/dbget-bin/www_bget?C16844	C16844	#000000	#FFFFFF	circle	137	1043	8	8
+191	cpd:C16844	compound	https://www.kegg.jp/dbget-bin/www_bget?C16844	C16844	#000000	#FFFFFF	circle	196	1044	8	8
+192	cpd:C16844	compound	https://www.kegg.jp/dbget-bin/www_bget?C16844	C16844	#000000	#FFFFFF	circle	258	1044	8	8
+216	cpd:C14704	compound	https://www.kegg.jp/dbget-bin/www_bget?C14704	C14704	#000000	#FFFFFF	circle	765	1482	8	8
+217	cpd:C20301	compound	https://www.kegg.jp/dbget-bin/www_bget?C20301	C20301	#000000	#FFFFFF	circle	877	1482	8	8
+218	cpd:C19568	compound	https://www.kegg.jp/dbget-bin/www_bget?C19568	C19568	#000000	#FFFFFF	circle	942	1482	8	8
+219	cpd:C20306	compound	https://www.kegg.jp/dbget-bin/www_bget?C20306	C20306	#000000	#FFFFFF	circle	1007	1482	8	8
+220	cpd:C20302	compound	https://www.kegg.jp/dbget-bin/www_bget?C20302	C20302	#000000	#FFFFFF	circle	1071	1482	8	8
+221	hsa:1571	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1571	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	#000000	#BFFFBF	rectangle	823	1485	46	17
+228	cpd:C06548	compound	https://www.kegg.jp/dbget-bin/www_bget?C06548	C06548	#000000	#FFFFFF	circle	128	1677	8	8
+231	cpd:C06793	compound	https://www.kegg.jp/dbget-bin/www_bget?C06793	C06793	#000000	#FFFFFF	circle	744	1676	8	8
+232	cpd:C20303	compound	https://www.kegg.jp/dbget-bin/www_bget?C20303	C20303	#000000	#FFFFFF	circle	858	1678	8	8
+233	hsa:1571	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1571	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	#000000	#BFFFBF	rectangle	807	1678	46	17
+237	hsa:119391 hsa:221357 hsa:27306 hsa:2938 hsa:2939 hsa:2940 hsa:2941 hsa:2944 hsa:2946 hsa:2947 hsa:2948 hsa:2949 hsa:2950 hsa:2952 hsa:2953 hsa:373156 hsa:4257 hsa:4258 hsa:4259 hsa:653689 hsa:9446	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:119391+hsa:221357+hsa:27306+hsa:2938+hsa:2939+hsa:2940+hsa:2941+hsa:2944+hsa:2946+hsa:2947+hsa:2948+hsa:2949+hsa:2950+hsa:2952+hsa:2953+hsa:373156+hsa:4257+hsa:4258+hsa:4259+hsa:653689+hsa:9446	GSTO2, GSTO_2-2, bA127L20.1...	#000000	#BFFFBF	rectangle	202	1859	46	17
+238	hsa:1571	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1571	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	#000000	#BFFFBF	rectangle	212	1906	46	17
+239	cpd:C06752	compound	https://www.kegg.jp/dbget-bin/www_bget?C06752	C06752	#000000	#FFFFFF	circle	150	1906	8	8
+240	cpd:C20304	compound	https://www.kegg.jp/dbget-bin/www_bget?C20304	C20304	#000000	#FFFFFF	circle	265	1858	8	8
+241	cpd:C06547	compound	https://www.kegg.jp/dbget-bin/www_bget?C06547	C06547	#000000	#FFFFFF	circle	265	1816	8	8
+242	cpd:C14874	compound	https://www.kegg.jp/dbget-bin/www_bget?C14874	C14874	#000000	#FFFFFF	circle	351	1858	8	8
+243	cpd:C20305	compound	https://www.kegg.jp/dbget-bin/www_bget?C20305	C20305	#000000	#FFFFFF	circle	274	1906	8	8
+244	cpd:C06754	compound	https://www.kegg.jp/dbget-bin/www_bget?C06754	C06754	#000000	#FFFFFF	circle	377	1906	8	8
+249	cpd:C19164	compound	https://www.kegg.jp/dbget-bin/www_bget?C19164	C19164	#000000	#FFFFFF	circle	934	1859	8	8
+256	hsa:5743	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:5743	PTGS2, COX-2, COX2, GRIPGHS, PGG/HS, PGHS-2, PHS-2, hCox-2	#000000	#BFFFBF	rectangle	372	866	46	17
+257	path:hsa05221	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05221	Acute myeloid leukemia	#000000	#FFFFFF	roundrectangle	1204	762	104	34
+258	path:hsa05219	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05219	Bladder cancer	#000000	#FFFFFF	roundrectangle	711	844	104	25
+259	path:hsa05219	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05219	Bladder cancer	#000000	#FFFFFF	roundrectangle	547	249	104	25
+260	path:hsa05215	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05215	Prostate cancer	#000000	#FFFFFF	roundrectangle	1205	133	104	25
+261	path:hsa05210	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05210	Colorectal cancer	#000000	#FFFFFF	roundrectangle	1204	203	104	25
+266	path:hsa05223	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05223	Non-small cell lung cancer	#000000	#FFFFFF	roundrectangle	805	428	113	34
+267	path:hsa05222	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05222	Small cell lung cancer	#000000	#FFFFFF	roundrectangle	937	428	113	34
+268	path:hsa05223	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05223	Non-small cell lung cancer	#000000	#FFFFFF	roundrectangle	541	1007	113	34
+270	path:hsa05223	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05223	Non-small cell lung cancer	#000000	#FFFFFF	roundrectangle	1045	1050	113	34
+271	path:hsa05222	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05222	Small cell lung cancer	#000000	#FFFFFF	roundrectangle	1170	1050	113	34
+272	path:hsa05223	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05223	Non-small cell lung cancer	#000000	#FFFFFF	roundrectangle	843	1344	113	34
+273	path:hsa05222	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05222	Small cell lung cancer	#000000	#FFFFFF	roundrectangle	965	1344	113	34
+274	path:hsa05223	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05223	Non-small cell lung cancer	#000000	#FFFFFF	roundrectangle	724	1907	113	34
+275	path:hsa05222	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05222	Small cell lung cancer	#000000	#FFFFFF	roundrectangle	846	1907	113	34
+286	path:hsa05221	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05221	Acute myeloid leukemia	#000000	#FFFFFF	roundrectangle	551	1677	104	34
+295	path:hsa00980	map	https://www.kegg.jp/dbget-bin/www_bget?hsa00980	Metabolism of xenobiotics by cytochrome P450	#000000	#FFFFFF	roundrectangle	908	1179	158	34
+321	hsa:10 hsa:9	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10+hsa:9	NAT2, AAC2, NAT-2, PNAT...	#000000	#BFFFBF	rectangle	871	249	46	17
+327	cpd:C00027	compound	https://www.kegg.jp/dbget-bin/www_bget?C00027	C00027	#000000	#FFFFFF	circle	163	1070	8	8
+328	cpd:C00027	compound	https://www.kegg.jp/dbget-bin/www_bget?C00027	C00027	#000000	#FFFFFF	circle	222	1070	8	8
+329	cpd:C00027	compound	https://www.kegg.jp/dbget-bin/www_bget?C00027	C00027	#000000	#FFFFFF	circle	285	1070	8	8
+343	path:hsa05222	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05222	Small cell lung cancer	#000000	#FFFFFF	roundrectangle	541	1050	113	34
+344	path:hsa05225	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05225	Hepatocellular carcinoma	#000000	#FFFFFF	roundrectangle	1108	1092	113	34
+345	path:hsa05225	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05225	Hepatocellular carcinoma	#000000	#FFFFFF	roundrectangle	724	1948	113	34
+346	path:hsa05224	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05224	Breast cancer	#000000	#FFFFFF	roundrectangle	846	1950	113	25
+347	path:hsa05226	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05226	Gastric cancer	#000000	#FFFFFF	roundrectangle	872	467	124	25
+348	path:hsa05224	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05224	Breast cancer	#000000	#FFFFFF	roundrectangle	1204	285	104	25
+349	path:hsa05224	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05224	Breast cancer	#000000	#FFFFFF	roundrectangle	1204	525	104	25
+350	path:hsa05225	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05225	Hepatocellular carcinoma	#000000	#FFFFFF	roundrectangle	711	805	113	34
+351	path:hsa05225	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05225	Hepatocellular carcinoma	#000000	#FFFFFF	roundrectangle	1132	1344	113	34
+352	path:hsa05211	map	https://www.kegg.jp/dbget-bin/www_bget?hsa05211	Renal cell carcinoma	#000000	#FFFFFF	roundrectangle	1132	1570	113	34
+358	cpd:C20302	compound	https://www.kegg.jp/dbget-bin/www_bget?C20302	C20302	#000000	#FFFFFF	circle	501	1384	8	8

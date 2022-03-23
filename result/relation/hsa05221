@@ -1,0 +1,59 @@
+entry1	entry2	type	name	value
+42	41	PPrel	compound	36
+37	42	PPrel	activation	-->
+8	42	PPrel	activation	-->
+38	33	PPrel	activation	-->
+37	35	PPrel	activation	-->
+8	35	PPrel	activation	-->
+35	34	PPrel	activation	-->
+34	26	PPrel	activation	-->
+7	42	PPrel	activation	-->
+26	42	PPrel	activation	-->
+6	42	PPrel	activation	-->
+7	47	PPrel	activation	-->
+26	47	PPrel	activation	-->
+6	47	PPrel	activation	-->
+37	18	PPrel	activation	-->
+8	18	PPrel	activation	-->
+41	29	PPrel	activation	-->
+41	29	PPrel	phosphorylation	+p
+41	38	PPrel	activation	-->
+41	38	PPrel	phosphorylation	+p
+47	46	PPrel	activation	-->
+47	46	PPrel	phosphorylation	+p
+46	45	PPrel	activation	-->
+46	45	PPrel	phosphorylation	+p
+29	17	PPrel	indirect effect	..>
+41	30	PPrel	inhibition	--|
+41	30	PPrel	phosphorylation	+p
+38	39	PPrel	inhibition	--|
+18	25	GErel	expression	-->
+18	31	GErel	expression	-->
+8	10	PPrel	inhibition	--|
+8	9	PPrel	inhibition	--|
+11	10	PPrel	inhibition	--|
+11	9	PPrel	inhibition	--|
+23	20	GErel	expression	-->
+5	20	GErel	expression	-->
+23	19	GErel	expression	-->
+5	19	GErel	expression	-->
+11	19	GErel	expression	-->
+19	21	GErel	expression	-->
+19	16	GErel	expression	-->
+19	15	GErel	expression	-->
+19	22	PPrel	binding/association	---
+23	9	PPrel	inhibition	--|
+27	142	PPrel	missing interaction	-/-
+27	143	PPrel	missing interaction	-/-
+27	144	PPrel	missing interaction	-/-
+27	145	PPrel	missing interaction	-/-
+10	134	PPrel	missing interaction	-/-
+24	146	PPrel	missing interaction	-/-
+9	135	PPrel	missing interaction	-/-
+9	136	PPrel	missing interaction	-/-
+9	137	PPrel	missing interaction	-/-
+23	132	GErel	repression	--|
+23	133	GErel	repression	--|
+5	140	GErel	repression	--|
+23	5	GErel	expression	-->
+23	130	GErel	expression	-->

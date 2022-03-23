@@ -1,0 +1,52 @@
+entry1	entry2	type	name	value
+51	52	PPrel	state change	...
+63	56	PPrel	state change	...
+273	274	PPrel	state change	...
+34	150	PPrel	binding/association	---
+86	88	PPrel	binding/association	---
+86	89	PPrel	binding/association	---
+86	91	PPrel	activation	-->
+86	107	PPrel	activation	-->
+118	119	GErel	expression	-->
+72	136	PPrel	activation	-->
+72	136	PPrel	indirect effect	..>
+86	97	PPrel	activation	-->
+86	97	PPrel	indirect effect	..>
+86	99	PPrel	inhibition	--|
+86	99	PPrel	indirect effect	..>
+91	93	PCrel	activation	-->
+93	92	PCrel	activation	-->
+275	276	PPrel	state change	...
+244	242	PPrel	inhibition	--|
+199	233	PPrel	inhibition	--|
+2	277	PPrel	inhibition	--|
+233	187	PPrel	inhibition	--|
+187	190	PPrel	activation	-->
+190	191	PPrel	activation	-->
+141	167	PPrel	activation	-->
+199	178	PPrel	activation	-->
+199	178	PPrel	indirect effect	..>
+199	179	PPrel	activation	-->
+199	179	PPrel	indirect effect	..>
+181	220	PCrel	activation	-->
+169	166	PPrel	activation	-->
+168	166	PPrel	activation	-->
+166	167	PPrel	activation	-->
+220	188	PPrel	activation	-->
+220	188	PPrel	dephosphorylation	-p
+247	216	PPrel	activation	-->
+247	248	PPrel	activation	-->
+216	210	PPrel	inhibition	--|
+216	210	PPrel	phosphorylation	+p
+248	210	PPrel	inhibition	--|
+248	210	PPrel	phosphorylation	+p
+71	251	PPrel	activation	-->
+251	255	PPrel	activation	-->
+255	252	PPrel	activation	-->
+252	253	PPrel	activation	-->
+253	278	PPrel	activation	-->
+278	116	PPrel	activation	-->
+116	254	PPrel	activation	-->
+254	118	GErel	expression	-->
+278	143	PCrel	activation	-->
+191	196	GErel	expression	-->

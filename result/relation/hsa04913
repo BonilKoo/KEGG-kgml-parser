@@ -1,0 +1,34 @@
+entry1	entry2	type	name	value
+38	37	PPrel	activation	-->
+37	43	PPrel	activation	-->
+43	44	PPrel	activation	-->
+44	75	PCrel	activation	-->
+75	80	PCrel	activation	-->
+43	128	PPrel	activation	-->
+75	128	PCrel	activation	-->
+75	84	PCrel	activation	-->
+99	100	PPrel	activation	-->
+101	102	PPrel	activation	-->
+80	39	GErel	expression	-->
+80	39	GErel	indirect effect	..>
+80	41	GErel	expression	-->
+80	41	GErel	indirect effect	..>
+80	32	GErel	expression	-->
+80	32	GErel	indirect effect	..>
+80	42	GErel	expression	-->
+80	42	GErel	indirect effect	..>
+103	104	PPrel	activation	-->
+105	106	PPrel	activation	-->
+48	49	PPrel	activation	-->
+49	50	PPrel	activation	-->
+50	51	PPrel	activation	-->
+51	76	PCrel	activation	-->
+76	157	PCrel	activation	-->
+157	64	GErel	expression	-->
+157	64	GErel	indirect effect	..>
+157	62	GErel	expression	-->
+157	62	GErel	indirect effect	..>
+157	66	GErel	expression	-->
+157	66	GErel	indirect effect	..>
+157	72	GErel	expression	-->
+157	72	GErel	indirect effect	..>

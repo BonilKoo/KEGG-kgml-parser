@@ -1,0 +1,9 @@
+entry1	entry2	type	name	value
+90	91	PCrel	activation	-->
+90	125	PCrel	activation	-->
+33	34	PCrel	activation	-->
+101	97	PCrel	activation	-->
+118	117	PCrel	binding/association	---
+111	112	PCrel	activation	-->
+111	112	PCrel	indirect effect	..>
+87	88	PCrel	binding/association	---

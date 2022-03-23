@@ -1,0 +1,72 @@
+id	name_entry	type_entry	reaction	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
+33	hsa:1738	gene	rn:R07618	https://www.kegg.jp/dbget-bin/www_bget?hsa:1738	DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3	#000000	#BFFFBF	rectangle	467	623	46	17
+34	hsa:4967 hsa:55753	gene	rn:R00621	https://www.kegg.jp/dbget-bin/www_bget?hsa:4967+hsa:55753	OGDH, AKGDH, E1k, KGD1, OGDC, OGDH2...	#000000	#BFFFBF	rectangle	661	579	46	17
+35	hsa:4967 hsa:55753	gene	rn:R03316	https://www.kegg.jp/dbget-bin/www_bget?hsa:4967+hsa:55753	OGDH, AKGDH, E1k, KGD1, OGDC, OGDH2...	#000000	#BFFFBF	rectangle	530	580	46	17
+36	hsa:1743	gene	rn:R02570	https://www.kegg.jp/dbget-bin/www_bget?hsa:1743	DLST, DLTS, KGD2, PGL7	#000000	#BFFFBF	rectangle	403	579	46	17
+37	hsa:8801 hsa:8802 hsa:8803	gene	rn:R00405	https://www.kegg.jp/dbget-bin/www_bget?hsa:8801+hsa:8802+hsa:8803	SUCLG2, G-SCS, GBETA, GTPSCS...	#000000	#BFFFBF	rectangle	260	579	46	17
+38	hsa:8801 hsa:8802 hsa:8803	gene	rn:R00432 rn:R00727	https://www.kegg.jp/dbget-bin/www_bget?hsa:8801+hsa:8802+hsa:8803	SUCLG2, G-SCS, GBETA, GTPSCS...	#000000	#BFFFBF	rectangle	260	560	46	17
+39	hsa:3417 hsa:3418	gene	rn:R00268	https://www.kegg.jp/dbget-bin/www_bget?hsa:3417+hsa:3418	IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD...	#000000	#BFFFBF	rectangle	718	510	46	17
+40	hsa:3419 hsa:3420 hsa:3421	gene	rn:R00709	https://www.kegg.jp/dbget-bin/www_bget?hsa:3419+hsa:3420+hsa:3421	IDH3A, RP90...	#000000	#BFFFBF	rectangle	766	463	46	17
+41	hsa:3417 hsa:3418	gene	rn:R01899	https://www.kegg.jp/dbget-bin/www_bget?hsa:3417+hsa:3418	IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD...	#000000	#BFFFBF	rectangle	718	405	46	17
+42	hsa:47	gene	rn:R00352	https://www.kegg.jp/dbget-bin/www_bget?hsa:47	ACLY, ACL, ATPCL, CLATP	#000000	#BFFFBF	rectangle	436	350	46	17
+43	hsa:2271	gene	rn:R01082	https://www.kegg.jp/dbget-bin/www_bget?hsa:2271	FH, FMRD, HLRCC, HsFH, LRCC, MCL, MCUL1	#000000	#BFFFBF	rectangle	191	441	46	17
+44	hsa:48 hsa:50	gene	rn:R01900	https://www.kegg.jp/dbget-bin/www_bget?hsa:48+hsa:50	ACO1, ACONS, HEL60, IREB1, IREBP, IREBP1, IRP1...	#000000	#BFFFBF	rectangle	670	350	46	17
+45	hsa:48 hsa:50	gene	rn:R01325	https://www.kegg.jp/dbget-bin/www_bget?hsa:48+hsa:50	ACO1, ACONS, HEL60, IREB1, IREBP, IREBP1, IRP1...	#000000	#BFFFBF	rectangle	571	350	46	17
+46	hsa:1431	gene	rn:R00351	https://www.kegg.jp/dbget-bin/www_bget?hsa:1431	CS	#000000	#BFFFBF	rectangle	436	331	46	17
+47	hsa:4190 hsa:4191	gene	rn:R00342	https://www.kegg.jp/dbget-bin/www_bget?hsa:4190+hsa:4191	MDH1, DEE88, EIEE88, HEL-S-32, KAR, MDH-s, MDHA, MGC:1375, MOR2...	#000000	#BFFFBF	rectangle	253	349	46	17
+48	hsa:5091	gene	rn:R00344	https://www.kegg.jp/dbget-bin/www_bget?hsa:5091	PC, PCB	#000000	#BFFFBF	rectangle	736	278	46	17
+49	path:hsa00630	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00630	Glyoxylate and dicarboxylate metabolism	#000000	#FFFFFF	roundrectangle	149	312	158	34
+50	path:hsa00010	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00010	Glycolysis / Gluconeogenesis	#000000	#FFFFFF	roundrectangle	692	116	216	46
+51	path:hsa00061	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00061	Fatty acid biosynthesis	#000000	#FFFFFF	roundrectangle	163	153	126	25
+52	path:hsa00062	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00062	Fatty acid elongation	#000000	#FFFFFF	roundrectangle	129	181	194	25
+53	path:hsa00071	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00071	Fatty acid degradation	#000000	#FFFFFF	roundrectangle	166	239	121	25
+54	path:hsa00053	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00053	Ascorbate and aldarate metabolism	#000000	#FFFFFF	roundrectangle	864	615	126	34
+55	path:hsa00250	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00250	Alanine, aspartate and glutamate metabolism	#000000	#FFFFFF	roundrectangle	862	652	121	34
+56	path:hsa00020	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00020	TITLE:Citrate cycle (TCA cycle)	#000000	#FFFFFF	roundrectangle	154	58	227	25
+58	path:hsa00280	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00280	Valine, leucine and isoleucine degradation	#000000	#FFFFFF	roundrectangle	266	641	85	34
+59	path:hsa00250	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00250	Alanine, aspartate and glutamate metabolism	#000000	#FFFFFF	roundrectangle	167	275	121	34
+60	path:hsa00470	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00470	D-Amino acid metabolism	#000000	#FFFFFF	roundrectangle	872	685	141	25
+61	cpd:C00022	compound		https://www.kegg.jp/dbget-bin/www_bget?C00022	C00022	#000000	#FFFFFF	circle	737	241	8	8
+62	cpd:C00122	compound		https://www.kegg.jp/dbget-bin/www_bget?C00122	C00122	#000000	#FFFFFF	circle	190	486	8	8
+63	cpd:C00036	compound		https://www.kegg.jp/dbget-bin/www_bget?C00036	C00036	#000000	#FFFFFF	circle	320	349	8	8
+64	cpd:C05379	compound		https://www.kegg.jp/dbget-bin/www_bget?C05379	C05379	#000000	#FFFFFF	circle	718	458	8	8
+65	cpd:C00024	compound		https://www.kegg.jp/dbget-bin/www_bget?C00024	C00024	#000000	#FFFFFF	circle	400	241	8	8
+66	cpd:C00149	compound		https://www.kegg.jp/dbget-bin/www_bget?C00149	C00149	#000000	#FFFFFF	circle	190	398	8	8
+67	cpd:C00311	compound		https://www.kegg.jp/dbget-bin/www_bget?C00311	C00311	#000000	#FFFFFF	circle	718	349	8	8
+68	cpd:C00417	compound		https://www.kegg.jp/dbget-bin/www_bget?C00417	C00417	#000000	#FFFFFF	circle	621	349	8	8
+69	cpd:C00042	compound		https://www.kegg.jp/dbget-bin/www_bget?C00042	C00042	#000000	#FFFFFF	circle	190	579	8	8
+70	cpd:C00158	compound		https://www.kegg.jp/dbget-bin/www_bget?C00158	C00158	#000000	#FFFFFF	circle	522	349	8	8
+71	cpd:C15972	compound		https://www.kegg.jp/dbget-bin/www_bget?C15972	C15972	#000000	#FFFFFF	circle	522	622	8	8
+72	cpd:C00068	compound		https://www.kegg.jp/dbget-bin/www_bget?C00068	C00068	#000000	#FFFFFF	circle	589	535	8	8
+73	cpd:C16254	compound		https://www.kegg.jp/dbget-bin/www_bget?C16254	C16254	#000000	#FFFFFF	circle	462	578	8	8
+74	cpd:C15973	compound		https://www.kegg.jp/dbget-bin/www_bget?C15973	C15973	#000000	#FFFFFF	circle	408	622	8	8
+75	cpd:C00091	compound		https://www.kegg.jp/dbget-bin/www_bget?C00091	C00091	#000000	#FFFFFF	circle	334	579	8	8
+76	cpd:C00026	compound		https://www.kegg.jp/dbget-bin/www_bget?C00026	C00026	#000000	#FFFFFF	circle	718	578	8	8
+77	cpd:C05381	compound		https://www.kegg.jp/dbget-bin/www_bget?C05381	C05381	#000000	#FFFFFF	circle	593	578	8	8
+83	cpd:C05125	compound		https://www.kegg.jp/dbget-bin/www_bget?C05125	C05125	#000000	#FFFFFF	circle	631	241	8	8
+84	hsa:5160 hsa:5161 hsa:5162	gene	rn:R00014	https://www.kegg.jp/dbget-bin/www_bget?hsa:5160+hsa:5161+hsa:5162	PDHA1, PDHA, PDHAD, PDHCE1A, PHE1A...	#000000	#BFFFBF	rectangle	686	241	46	17
+85	cpd:C00068	compound		https://www.kegg.jp/dbget-bin/www_bget?C00068	C00068	#000000	#FFFFFF	circle	631	198	8	8
+86	hsa:5160 hsa:5161 hsa:5162	gene	rn:R03270	https://www.kegg.jp/dbget-bin/www_bget?hsa:5160+hsa:5161+hsa:5162	PDHA1, PDHA, PDHAD, PDHCE1A, PHE1A...	#000000	#BFFFBF	rectangle	582	241	46	17
+87	cpd:C15972	compound		https://www.kegg.jp/dbget-bin/www_bget?C15972	C15972	#000000	#FFFFFF	circle	580	284	8	8
+89	hsa:1738	gene	rn:R07618	https://www.kegg.jp/dbget-bin/www_bget?hsa:1738	DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3	#000000	#BFFFBF	rectangle	529	285	46	17
+90	cpd:C16255	compound		https://www.kegg.jp/dbget-bin/www_bget?C16255	C16255	#000000	#FFFFFF	circle	517	241	8	8
+91	hsa:1737	gene	rn:R02569	https://www.kegg.jp/dbget-bin/www_bget?hsa:1737	DLAT, DLTA, E2, PBC, PDC-E2, PDCE2	#000000	#BFFFBF	rectangle	464	242	46	17
+94	path:hsa00280	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00280	Valine, leucine and isoleucine degradation	#000000	#FFFFFF	roundrectangle	154	211	144	25
+96	ko:K01610	ortholog	rn:R00341	https://www.kegg.jp/dbget-bin/www_bget?K01610	K01610	#000000	#FFFFFF	rectangle	371	126	46	17
+97	hsa:5105 hsa:5106	gene	rn:R00431 rn:R00726	https://www.kegg.jp/dbget-bin/www_bget?hsa:5105+hsa:5106	PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC...	#000000	#BFFFBF	rectangle	371	105	46	17
+101	cpd:C15973	compound		https://www.kegg.jp/dbget-bin/www_bget?C15973	C15973	#000000	#FFFFFF	circle	478	284	8	8
+102	cpd:C00074	compound		https://www.kegg.jp/dbget-bin/www_bget?C00074	C00074	#000000	#FFFFFF	circle	471	116	8	8
+105	ko:K17753	ortholog	rn:R00709	https://www.kegg.jp/dbget-bin/www_bget?K17753	K17753	#000000	#FFFFFF	rectangle	816	463	46	17
+106	ko:K18118	ortholog	rn:R10343	https://www.kegg.jp/dbget-bin/www_bget?K18118	K18118	#000000	#FFFFFF	rectangle	260	598	46	17
+107	hsa:6389 hsa:6390 hsa:6391 hsa:6392	gene	rn:R02164	https://www.kegg.jp/dbget-bin/www_bget?hsa:6389+hsa:6390+hsa:6391+hsa:6392	SDHA, CMD1GG, FP, MC2DN1, NDAXOA, PGL5, SDH1, SDH2, SDHF...	#000000	#BFFFBF	rectangle	215	535	46	17
+109	ko:K00116	ortholog	rn:R00361	https://www.kegg.jp/dbget-bin/www_bget?K00116	K00116	#000000	#FFFFFF	rectangle	253	398	46	17
+110	ko:K00244 ko:K00245 ko:K00246 ko:K00247 ko:K00239 ko:K00240 ko:K00241 ko:K00242 ko:K18859 ko:K18860	ortholog	rn:R02164	https://www.kegg.jp/dbget-bin/www_bget?K00244+K00245+K00246+K00247+K00239+K00240+K00241+K00242+K18859+K18860	K00244...	#000000	#FFFFFF	rectangle	165	535	46	17
+111	path:hsa00220	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00220	Arginine biosynthesis	#000000	#FFFFFF	roundrectangle	80	486	120	25
+113	path:hsa00220	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00220	Arginine biosynthesis	#000000	#FFFFFF	roundrectangle	861	583	119	25
+115	ko:K00174 ko:K00175	ortholog	rn:R01197	https://www.kegg.jp/dbget-bin/www_bget?K00174+K00175	K00174...	#000000	#FFFFFF	rectangle	530	656	46	17
+117	ko:K00169 ko:K00170 ko:K00172 ko:K00189 ko:K00171 ko:K03737	ortholog	rn:R01196	https://www.kegg.jp/dbget-bin/www_bget?K00169+K00170+K00172+K00189+K00171+K03737	K00169...	#000000	#FFFFFF	rectangle	535	157	46	17
+118	ko:K00174 ko:K00175	ortholog	rn:R01196	https://www.kegg.jp/dbget-bin/www_bget?K00174+K00175	K00174...	#000000	#FFFFFF	rectangle	535	179	46	17
+119	ko:K00174 ko:K00175 ko:K00177 ko:K00176	ortholog	rn:R01197	https://www.kegg.jp/dbget-bin/www_bget?K00174+K00175+K00177+K00176	K00174...	#000000	#FFFFFF	rectangle	530	678	46	17
+120	ko:K05942	ortholog	rn:R00351	https://www.kegg.jp/dbget-bin/www_bget?K05942	K05942	#000000	#FFFFFF	rectangle	436	369	46	17
+122	path:hsa00190	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00190	Oxidative phosphorylation	#000000	#FFFFFF	roundrectangle	73	579	99	34
+57	path:hsa00350	map		https://www.kegg.jp/dbget-bin/www_bget?hsa00350	Tyrosine metabolism	#000000	#FFFFFF	roundrectangle	102	448	76	34

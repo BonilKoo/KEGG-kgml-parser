@@ -1,0 +1,39 @@
+id	name_entry	type_entry	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
+7	hsa:6928	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:6928	HNF1B, FJHN, HNF-1-beta, HNF-1B, HNF1beta, HNF2, HPC11, LF-B3, LFB3, MODY5, TCF-2, TCF2, VHNF1	#000000	#BFFFBF	rectangle	359	399	46	17
+8	hsa:3280	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3280	HES1, HES-1, HHL, HRY, bHLHb39	#000000	#BFFFBF	rectangle	484	353	46	17
+9	hsa:168620	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:168620	BHLHA15, BHLHB8, MIST1	#000000	#BFFFBF	rectangle	102	400	46	17
+10	hsa:3175	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3175	ONECUT1, HNF-6, HNF6, HNF6A	#000000	#BFFFBF	rectangle	400	353	46	17
+11	hsa:2645	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2645	GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	#000000	#BFFFBF	rectangle	580	853	46	17
+12	hsa:3651	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3651	PDX1, GSF, IDX-1, IPF1, IUF1, MODY4, PAGEN1, PDX-1, STF-1	#000000	#BFFFBF	rectangle	442	715	46	17
+13	hsa:3171	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3171	FOXA3, FKHH3, HNF3G, TCF3G	#000000	#BFFFBF	rectangle	383	807	46	17
+14	hsa:4760	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4760	NEUROD1, BETA2, BHF-1, MODY6, NEUROD, bHLHa3	#000000	#BFFFBF	rectangle	596	463	46	17
+15	hsa:3280	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3280	HES1, HES-1, HHL, HRY, bHLHb39	#000000	#BFFFBF	rectangle	102	381	46	17
+16	hsa:389692	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:389692	MAFA, INSDM, RIPE3b1, hMafA	#000000	#BFFFBF	rectangle	457	669	46	17
+17	hsa:3174	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3174	HNF4G, NR2A2, NR2A3	#000000	#BFFFBF	rectangle	335	807	46	17
+18	hsa:4821	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4821	NKX2-2, NKX2.2, NKX2B	#000000	#BFFFBF	rectangle	580	761	46	17
+19	hsa:3630	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3630	INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	#000000	#BFFFBF	rectangle	524	853	46	17
+20	hsa:6927	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:6927	HNF1A, HNF-1A, HNF1, HNF4A, IDDM20, LFB1, MODY3, TCF-1, TCF1	#000000	#BFFFBF	rectangle	359	761	46	17
+21	hsa:3375	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3375	IAPP, DAP, IAP	#000000	#BFFFBF	rectangle	629	853	46	17
+22	hsa:5078	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5078	PAX4, KPD, MODY9	#000000	#BFFFBF	rectangle	548	463	46	17
+23	hsa:5080	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5080	PAX6, AN, AN1, AN2, ASGD5, D11S812E, FVH1, MGDA, WAGR	#000000	#BFFFBF	rectangle	156	478	46	17
+24	hsa:6514	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:6514	SLC2A2, GLUT2	#000000	#BFFFBF	rectangle	465	853	46	17
+25	hsa:4760	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4760	NEUROD1, BETA2, BHF-1, MODY6, NEUROD, bHLHa3	#000000	#BFFFBF	rectangle	629	761	46	17
+26	hsa:4825	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4825	NKX6-1, NKX6.1, NKX6A	#000000	#BFFFBF	rectangle	276	761	46	17
+27	hsa:5313	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5313	PKLR, PK1, PKL, PKRL, RPK	#000000	#BFFFBF	rectangle	417	853	46	17
+28	hsa:2494	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2494	NR5A2, B1F, B1F2, CPF, FTF, FTZ-F1, FTZ-F1beta, LRH-1, LRH1, hB1F-2	#000000	#BFFFBF	rectangle	442	248	46	17
+29	hsa:50674	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:50674	NEUROG3, Atoh5, Math4B, NGN-3, bHLHa7, ngn3	#000000	#BFFFBF	rectangle	442	399	46	17
+30	hsa:5080	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5080	PAX6, AN, AN1, AN2, ASGD5, D11S812E, FVH1, MGDA, WAGR	#000000	#BFFFBF	rectangle	506	669	46	17
+31	hsa:3172	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3172	HNF4A, FRTS4, HNF4, HNF4a7, HNF4a8, HNF4a9, HNF4alpha, MODY, MODY1, NR2A1, NR2A21, TCF, TCF14	#000000	#BFFFBF	rectangle	442	761	46	17
+32	hsa:3651	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3651	PDX1, GSF, IDX-1, IPF1, IUF1, MODY4, PAGEN1, PDX-1, STF-1	#000000	#BFFFBF	rectangle	442	202	46	17
+33	hsa:4821	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4821	NKX2-2, NKX2.2, NKX2B	#000000	#BFFFBF	rectangle	442	463	46	17
+34	hsa:3087	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3087	HHEX, HEX, HMPH, HOX11L-PEN, PRH, PRHX	#000000	#BFFFBF	rectangle	459	110	46	17
+35	hsa:3110	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3110	MNX1, HB9, HLXB9, HOXHB9, SCRA1	#000000	#BFFFBF	rectangle	508	110	46	17
+36	hsa:5080	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5080	PAX6, AN, AN1, AN2, ASGD5, D11S812E, FVH1, MGDA, WAGR	#000000	#BFFFBF	rectangle	500	463	46	17
+37	hsa:4825	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4825	NKX6-1, NKX6.1, NKX6A	#000000	#BFFFBF	rectangle	442	555	46	17
+38	hsa:3170	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3170	FOXA2, HNF3B, TCF3B	#000000	#BFFFBF	rectangle	400	669	46	17
+39	hsa:3651	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3651	PDX1, GSF, IDX-1, IPF1, IUF1, MODY4, PAGEN1, PDX-1, STF-1	#000000	#BFFFBF	rectangle	212	478	46	17
+40	hsa:3175	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3175	ONECUT1, HNF-6, HNF6, HNF6A	#000000	#BFFFBF	rectangle	400	156	46	17
+41	path:hsa04950	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04950	TITLE:Maturity onset diabetes of the young	#000000	#FFFFFF	roundrectangle	214	58	347	25
+42	path:hsa04930	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04930	Type II diabetes mellitus	#000000	#FFFFFF	roundrectangle	441	917	106	34
+43	path:hsa04910	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04910	Insulin signaling pathway	#000000	#FFFFFF	roundrectangle	553	917	104	34
+125	hsa:222546	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:222546	RFX6, MTCHRS, MTFS, RFXDC1, dJ955L16.1	#000000	#BFFFBF	rectangle	644	463	46	17

@@ -1,0 +1,46 @@
+id	name_entry	type_entry	link	reaction	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height	coords
+3	cpd:C00054	compound	https://www.kegg.jp/dbget-bin/www_bget?C00054		C00054	#000000	#FFFFFF	circle	1165	610	8	8	
+4	cpd:C00053	compound	https://www.kegg.jp/dbget-bin/www_bget?C00053		C00053	#000000	#FFFFFF	circle	1164	586	8	8	
+9	path:hsa00534	map	https://www.kegg.jp/dbget-bin/www_bget?hsa00534		Glycosaminoglycan biosynthesis - heparan sulfate / heparin	#000000	#FFFFFF	roundrectangle	1379	313	99	34	
+10	gl:G00160	compound	https://www.kegg.jp/dbget-bin/www_bget?G00160		G00160	#000000	#FFFFFF	circle	1134	463	8	8	
+11	gl:G00159	compound	https://www.kegg.jp/dbget-bin/www_bget?G00159		G00159	#000000	#FFFFFF	circle	1134	413	8	8	
+12	gl:G00158	compound	https://www.kegg.jp/dbget-bin/www_bget?G00158		G00158	#000000	#FFFFFF	circle	1134	363	8	8	
+13	gl:G00157	compound	https://www.kegg.jp/dbget-bin/www_bget?G00157		G00157	#000000	#FFFFFF	circle	1134	313	8	8	
+14	gl:G00156	compound	https://www.kegg.jp/dbget-bin/www_bget?G00156		G00156	#000000	#FFFFFF	circle	1134	263	8	8	
+15	gl:G00155	compound	https://www.kegg.jp/dbget-bin/www_bget?G00155		G00155	#000000	#FFFFFF	circle	1134	213	8	8	
+16	gl:G00154	compound	https://www.kegg.jp/dbget-bin/www_bget?G00154		G00154	#000000	#FFFFFF	circle	1134	163	8	8	
+17	hsa:26229	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:26229	rn:R05928	B3GAT3, GLCATI, JDSCD, glcUAT-I	#000000	#BFFFBF	rectangle	1135	283	46	17	
+18	hsa:64131 hsa:64132	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:64131+hsa:64132	rn:R05925	XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I...	#000000	#BFFFBF	rectangle	1135	133	46	17	
+19	hsa:11285	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:11285	rn:R05926	B4GALT7, EDSP1, EDSSLA, EDSSPD1, XGALT1, XGPT, XGPT1	#000000	#BFFFBF	rectangle	1135	184	46	17	
+20	path:hsa00532	map	https://www.kegg.jp/dbget-bin/www_bget?hsa00532		TITLE:Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	#000000	#FFFFFF	roundrectangle	355	58	629	25	
+21	cpd:C02189	compound	https://www.kegg.jp/dbget-bin/www_bget?C02189		C02189	#000000	#FFFFFF	circle	1134	113	8	8	
+22	cpd:C00401	compound	https://www.kegg.jp/dbget-bin/www_bget?C00401		C00401	#000000	#FFFFFF	circle	1134	561	8	8	
+23	hsa:22856 hsa:337876 hsa:55454 hsa:55790 hsa:79586	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:55454+hsa:55790+hsa:79586	rn:R05932	CHSY1, CHSY, CSS1, ChSy-1, TPBS...	#66CC66	#FFFFFF	line					324,151,367,151
+24	hsa:22856 hsa:337876 hsa:54480 hsa:79586	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:54480+hsa:79586	rn:R05931	CHSY1, CHSY, CSS1, ChSy-1, TPBS...	#66CC66	#FFFFFF	line					415,151,458,151
+25	hsa:55454 hsa:55790	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:55454+hsa:55790	rn:R05929	CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT...	#66CC66	#FFFFFF	line					519,151,562,151
+26	hsa:26229	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:26229	rn:R05928	B3GAT3, GLCATI, JDSCD, glcUAT-I	#66CC66	#FFFFFF	line					611,151,654,151
+27	hsa:126792	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:126792	rn:R05927	B3GALT6, ALGAZ, EDSP2, EDSSPD2, SEMDJL1, beta3GalT6	#66CC66	#FFFFFF	line					698,151,741,151
+28	hsa:11285	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:11285	rn:R05926	B4GALT7, EDSP1, EDSSLA, EDSSPD1, XGALT1, XGPT, XGPT1	#66CC66	#FFFFFF	line					784,151,827,151
+29	hsa:64131 hsa:64132	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:64131+hsa:64132	rn:R05925	XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I...	#66CC66	#FFFFFF	line					871,151,914,151
+30	hsa:22856 hsa:337876 hsa:54480 hsa:55454 hsa:55790 hsa:79586	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:54480+hsa:55454+hsa:55790+hsa:79586		CHSY1, CHSY, CSS1, ChSy-1, TPBS...	#66CC66	#FFFFFF	line					210,151,260,151
+31	hsa:22856 hsa:337876 hsa:54480 hsa:79586	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:54480+hsa:79586		CHSY1, CHSY, CSS1, ChSy-1, TPBS...	#66CC66	#FFFFFF	line					108,151,151,151
+37	hsa:166012 hsa:50515 hsa:55501	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:166012+hsa:50515+hsa:55501		CHST13, C4ST3...	#000000	#BFFFBF	rectangle	199	397	46	17	
+47	hsa:56548 hsa:9469	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:56548+hsa:9469		CHST7, C6ST-2, GST-5...	#000000	#BFFFBF	rectangle	370	397	46	17	
+49	hsa:51363	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:51363		CHST15, BRAG, GALNAC4S-6ST	#000000	#BFFFBF	rectangle	196	605	46	17	
+56	hsa:10090	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10090		UST, 2OST	#000000	#BFFFBF	rectangle	368	605	46	17	
+63	hsa:29940	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:29940		DSE, DS-epi1, DSEP, DSEPI, EDSMC2, SART-2, SART2	#000000	#BFFFBF	rectangle	544	304	46	17	
+76	hsa:10090	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10090		UST, 2OST	#000000	#BFFFBF	rectangle	890	605	46	17	
+85	hsa:126792	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:126792	rn:R05927	B3GALT6, ALGAZ, EDSP2, EDSSPD2, SEMDJL1, beta3GalT6	#000000	#BFFFBF	rectangle	1135	234	46	17	
+89	hsa:55454 hsa:55790	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:55454+hsa:55790	rn:R05929	CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT...	#000000	#BFFFBF	rectangle	1135	332	46	17	
+90	hsa:22856 hsa:337876 hsa:54480 hsa:79586	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:54480+hsa:79586	rn:R05931	CHSY1, CHSY, CSS1, ChSy-1, TPBS...	#000000	#BFFFBF	rectangle	1135	383	46	17	
+91	hsa:22856 hsa:337876 hsa:55454 hsa:55790 hsa:79586	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:55454+hsa:55790+hsa:79586	rn:R05932	CHSY1, CHSY, CSS1, ChSy-1, TPBS...	#000000	#BFFFBF	rectangle	1135	434	46	17	
+97	cpd:C01490	compound	https://www.kegg.jp/dbget-bin/www_bget?C01490		C01490	#000000	#FFFFFF	circle	1061	632	8	8	
+98	hsa:29940	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:29940	rn:R04104	DSE, DS-epi1, DSEP, DSEPI, EDSMC2, SART-2, SART2	#000000	#BFFFBF	rectangle	1062	593	46	17	
+100	path:hsa00531	map	https://www.kegg.jp/dbget-bin/www_bget?hsa00531		Glycosaminoglycan degradation	#000000	#FFFFFF	roundrectangle	1100	772	116	34	
+103	hsa:10090	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10090		UST, 2OST	#000000	#BFFFBF	rectangle	544	605	46	17	
+115	hsa:51363	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:51363		CHST15, BRAG, GALNAC4S-6ST	#000000	#BFFFBF	rectangle	719	605	46	17	
+118	hsa:113189	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:113189		CHST14, ATCS, D4ST1, EDSMC1, HNK1ST	#000000	#BFFFBF	rectangle	694	397	46	17	
+119	hsa:56548 hsa:9469	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:56548+hsa:9469		CHST7, C6ST-2, GST-5...	#000000	#BFFFBF	rectangle	889	397	46	17	
+122	cpd:C00054	compound	https://www.kegg.jp/dbget-bin/www_bget?C00054		C00054	#000000	#FFFFFF	circle	1092	678	8	8	
+123	cpd:C00053	compound	https://www.kegg.jp/dbget-bin/www_bget?C00053		C00053	#000000	#FFFFFF	circle	1091	653	8	8	
+128	hsa:55501	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:55501		CHST12, C4S-2, C4ST-2, C4ST2	#000000	#BFFFBF	rectangle	744	397	46	17	

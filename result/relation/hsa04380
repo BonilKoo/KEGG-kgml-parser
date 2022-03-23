@@ -1,0 +1,121 @@
+entry1	entry2	type	name	value
+9	5	PPrel	activation	-->
+5	143	PPrel	activation	-->
+5	143	PPrel	indirect effect	..>
+143	144	PPrel	activation	-->
+143	144	PPrel	indirect effect	..>
+5	57	PPrel	activation	-->
+5	57	PPrel	indirect effect	..>
+57	58	PPrel	activation	-->
+57	58	PPrel	indirect effect	..>
+66	67	PPrel	activation	-->
+67	69	PPrel	activation	-->
+67	69	PPrel	indirect effect	..>
+64	65	PPrel	activation	-->
+65	6	PPrel	activation	-->
+65	6	PPrel	indirect effect	..>
+120	121	PPrel	activation	-->
+121	6	PPrel	activation	-->
+135	136	PPrel	activation	-->
+8	7	PPrel	activation	-->
+7	6	PPrel	activation	-->
+6	173	PPrel	activation	-->
+18	19	PPrel	dissociation	-+-
+6	56	PPrel	binding/association	---
+56	57	PPrel	activation	-->
+56	57	PPrel	indirect effect	..>
+11	6	PPrel	inhibition	--|
+11	141	PPrel	binding/association	---
+141	6	PPrel	binding/association	---
+130	6	PPrel	inhibition	--|
+6	12	PPrel	binding/association	---
+34	37	PPrel	activation	-->
+34	37	PPrel	phosphorylation	+p
+149	36	PPrel	activation	-->
+149	36	PPrel	phosphorylation	+p
+6	151	PPrel	activation	-->
+6	151	PPrel	indirect effect	..>
+151	152	PPrel	activation	-->
+153	37	PCrel	activation	-->
+153	37	PCrel	indirect effect	..>
+153	36	PCrel	activation	-->
+153	36	PCrel	indirect effect	..>
+7	78	PPrel	activation	-->
+7	78	PPrel	indirect effect	..>
+78	81	PPrel	activation	-->
+78	81	PPrel	phosphorylation	+p
+81	93	PPrel	compound	89
+81	93	PPrel	activation	-->
+81	98	PPrel	compound	89
+81	98	PPrel	activation	-->
+93	95	PPrel	activation	-->
+93	95	PPrel	dephosphorylation	-p
+12	81	PPrel	binding/association	---
+80	81	PPrel	binding/association	---
+79	80	PPrel	activation	-->
+79	80	PPrel	phosphorylation	+p
+174	79	PPrel	binding/association	---
+175	79	PPrel	binding/association	---
+7	76	PPrel	activation	-->
+7	76	PPrel	phosphorylation	+p
+7	76	PPrel	indirect effect	..>
+7	77	PPrel	activation	-->
+7	77	PPrel	phosphorylation	+p
+7	77	PPrel	indirect effect	..>
+45	46	PPrel	activation	-->
+46	47	PPrel	binding/association	---
+48	49	PPrel	binding/association	---
+128	47	PPrel	binding/association	---
+10	8	PPrel	inhibition	--|
+78	80	PPrel	binding/association	---
+49	100	PPrel	inhibition	--|
+49	100	PPrel	indirect effect	..>
+69	6	PPrel	inhibition	--|
+69	6	PPrel	indirect effect	..>
+32	35	PPrel	activation	-->
+32	35	PPrel	phosphorylation	+p
+32	35	PPrel	indirect effect	..>
+32	34	PPrel	activation	-->
+32	34	PPrel	phosphorylation	+p
+32	34	PPrel	indirect effect	..>
+32	149	PPrel	activation	-->
+32	149	PPrel	phosphorylation	+p
+32	149	PPrel	indirect effect	..>
+98	99	PPrel	activation	-->
+98	99	PPrel	phosphorylation	+p
+17	18	PPrel	activation	-->
+17	18	PPrel	phosphorylation	+p
+37	75	PPrel	activation	-->
+37	75	PPrel	phosphorylation	+p
+36	75	PPrel	activation	-->
+36	75	PPrel	phosphorylation	+p
+47	48	PPrel	activation	-->
+47	48	PPrel	phosphorylation	+p
+6	13	PPrel	activation	-->
+6	13	PPrel	indirect effect	..>
+13	14	PPrel	activation	-->
+13	14	PPrel	phosphorylation	+p
+14	138	PPrel	activation	-->
+14	138	PPrel	phosphorylation	+p
+32	17	PPrel	activation	-->
+32	17	PPrel	phosphorylation	+p
+138	41	GErel	expression	-->
+138	42	GErel	expression	-->
+19	41	GErel	expression	-->
+19	42	GErel	expression	-->
+75	41	GErel	expression	-->
+75	42	GErel	expression	-->
+75	106	GErel	expression	-->
+75	107	GErel	expression	-->
+75	108	GErel	expression	-->
+75	109	GErel	expression	-->
+95	106	GErel	expression	-->
+95	107	GErel	expression	-->
+95	108	GErel	expression	-->
+95	109	GErel	expression	-->
+99	106	GErel	expression	-->
+99	107	GErel	expression	-->
+99	108	GErel	expression	-->
+99	109	GErel	expression	-->
+99	100	GErel	expression	-->
+133	100	GErel	expression	-->

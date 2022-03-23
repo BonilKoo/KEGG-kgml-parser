@@ -1,0 +1,12 @@
+entry1	entry2	type	name	value
+48	33	ECrel	compound	29
+48	45	ECrel	compound	49
+48	44	ECrel	compound	49
+119	120	maplink	compound	118
+96	33	ECrel	compound	31
+161	160	ECrel	compound	165
+75	208	maplink	compound	72
+75	211	ECrel	compound	39
+211	213	ECrel	compound	209
+213	96	ECrel	compound	31
+213	33	ECrel	compound	31

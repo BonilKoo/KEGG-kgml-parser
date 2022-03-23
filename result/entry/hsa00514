@@ -1,0 +1,47 @@
+id	name_entry	type_entry	link	reaction	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height	coords
+2	path:hsa00514	map	https://www.kegg.jp/dbget-bin/www_bget?hsa00514		TITLE:Other types of O-glycan biosynthesis	#000000	#FFFFFF	roundrectangle	207	58	333	25	
+3	hsa:23127 hsa:79709 hsa:8985	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:23127+hsa:79709+hsa:8985	rn:R03380	COLGALT2, C1orf17, ColGalT_2, GLT25D2...	#66CC66	#FFFFFF	line					163,591,193,591
+4	hsa:145173	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:145173	rn:R09316	B3GLCT, B3GALTL, B3GTL, B3Glc-T, Gal-T, beta3Glc-T	#66CC66	#FFFFFF	line					283,287,298,272
+5	hsa:8985	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8985	rn:R04491	PLOD3, LH3	#66CC66	#FFFFFF	line					92,591,122,591
+6	hsa:6480 hsa:6487 hsa:84620	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:6480+hsa:6487+hsa:84620	rn:R09297 rn:R09298	ST6GAL1, SIAT1, ST6GalI, ST6N...	#66CC66	#FFFFFF	line					114,243,144,243
+7	hsa:3955 hsa:4242 hsa:5986	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:3955+hsa:4242+hsa:5986	rn:R09296	LFNG, SCDO3...	#66CC66	#FFFFFF	line					285,243,300,258
+8	hsa:2683 hsa:8703 hsa:8704	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2683+hsa:8703+hsa:8704	rn:R09299	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1...	#66CC66	#FFFFFF	line					195,243,225,243
+9	hsa:23275 hsa:23509	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:23275+hsa:23509	rn:R09295	POFUT2, C21orf80, FUT13...	#66CC66	#FFFFFF	line					349,266,379,266
+10	hsa:152002	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:152002	rn:R12637	XXYLT1, C3orf21	#66CC66	#FFFFFF	line					88,494,118,494
+11	hsa:56983	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:56983	rn:R09315	POGLUT1, C3orf9, CLP46, KDELCL1, KTELC1, LGMD2Z, LGMDR21, MDS010, MDSRP, Rumi, hCLP46	#66CC66	#FFFFFF	line					221,494,251,494
+12	hsa:283464 hsa:727936	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:283464+hsa:727936	rn:R09290	GXYLT1, GLT8D3...	#66CC66	#FFFFFF	line					153,494,183,494
+13	hsa:285203 hsa:8473	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:285203+hsa:8473	rn:R09304	EOGT, AER61, AOS4, C3orf64, EOGT1...	#66CC66	#FFFFFF	line					113,147,143,147
+14	ko:K05538 ko:K10968 ko:K10969	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K05538+K10968+K10969	rn:R09303	K05538...	#000000	#FFFFFF	line					550,151,580,151
+15	ko:K05538 ko:K10968 ko:K10969	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K05538+K10968+K10969	rn:R09302	K05538...	#000000	#FFFFFF	line					623,151,653,151
+16	ko:K10967	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K10967	rn:R09301	K10967	#000000	#FFFFFF	line					695,151,725,151
+17	ko:K10967	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K10967	rn:R09300	K10967	#000000	#FFFFFF	line					769,151,799,151
+18	hsa:10585 hsa:29954	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10585+hsa:29954	rn:R07620	POMT1, LGMD2K, LGMDR11, MDDGA1, MDDGB1, MDDGC1, RT...	#66CC66	#FFFFFF	line					841,151,871,151
+19	ko:K10970	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K10970		K10970	#000000	#FFFFFF	line					550,175,580,175
+20	ko:K10970	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K10970		K10970	#000000	#FFFFFF	line					623,175,653,175
+21	ko:K10967	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K10967	rn:R09301	K10967	#000000	#FFFFFF	line					695,175,725,175
+22	ko:K10967	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K10967	rn:R09300	K10967	#000000	#FFFFFF	line					769,175,799,175
+23	hsa:10585 hsa:29954	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10585+hsa:29954	rn:R07620	POMT1, LGMD2K, LGMDR11, MDDGA1, MDDGB1, MDDGC1, RT...	#66CC66	#FFFFFF	line					841,175,871,175
+26	ko:K10967	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K10967	rn:R09301	K10967	#000000	#FFFFFF	line					695,200,725,200
+27	ko:K10967	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K10967	rn:R09300	K10967	#000000	#FFFFFF	line					769,200,799,200
+28	hsa:10585 hsa:29954	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10585+hsa:29954	rn:R07620	POMT1, LGMD2K, LGMDR11, MDDGA1, MDDGB1, MDDGC1, RT...	#66CC66	#FFFFFF	line					841,200,871,200
+30	ko:K10971	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K10971		K10971	#000000	#FFFFFF	line					548,274,564,258
+31	ko:K10967	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K10967	rn:R09301	K10967	#000000	#FFFFFF	line					611,251,641,251
+32	ko:K10967	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K10967	rn:R09300	K10967	#000000	#FFFFFF	line					685,251,715,251
+33	hsa:10585 hsa:29954	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10585+hsa:29954	rn:R07620	POMT1, LGMD2K, LGMDR11, MDDGA1, MDDGB1, MDDGC1, RT...	#66CC66	#FFFFFF	line					757,251,787,251
+34	ko:K20781	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K20781		K20781	#000000	#FFFFFF	line					754,356,784,356
+36	ko:K20782	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K20782		K20782	#000000	#FFFFFF	line					754,499,784,499
+39	ko:K20782	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K20782		K20782	#000000	#FFFFFF	line					754,462,784,462
+40	ko:K20783	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K20783		K20783	#000000	#FFFFFF	line					683,499,713,499
+41	ko:K20783	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K20783		K20783	#000000	#FFFFFF	line					683,462,713,462
+42	ko:K20784	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K20784		K20784	#000000	#FFFFFF	line					614,499,644,499
+43	ko:K20784	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K20784		K20784	#000000	#FFFFFF	line					614,462,644,462
+45	ko:K20782	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K20782		K20782	#000000	#FFFFFF	line					754,428,784,428
+46	ko:K20783	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K20783		K20783	#000000	#FFFFFF	line					683,428,713,428
+48	ko:K20782	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K20782		K20782	#000000	#FFFFFF	line					754,391,784,391
+54	hsa:3955 hsa:4242 hsa:5986	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:3955+hsa:4242+hsa:5986	rn:R09296	LFNG, SCDO3...	#66CC66	#FFFFFF	line					118,352,133,367
+55	hsa:23275 hsa:23509	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:23275+hsa:23509	rn:R09295	POFUT2, C21orf80, FUT13...	#66CC66	#FFFFFF	line					182,375,212,375
+56	hsa:29071 hsa:56913 hsa:728819	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:29071+hsa:56913+hsa:728819	rn:R05908	C1GALT1C1, C1GALT2, C38H2-L1, COSMC, HSPC067, MST143, TNPS...	#66CC66	#FFFFFF	line					608,654,618,644
+57	hsa:100528030 hsa:11226 hsa:11227 hsa:114805 hsa:117248 hsa:168391 hsa:2589 hsa:2590 hsa:2591 hsa:26290 hsa:374378 hsa:442117 hsa:50614 hsa:51809 hsa:55568 hsa:57452 hsa:63917 hsa:64409 hsa:79623 hsa:79695 hsa:8693	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:100528030+hsa:11226+hsa:11227+hsa:114805+hsa:117248+hsa:168391+hsa:2589+hsa:2590+hsa:2591+hsa:26290+hsa:374378+hsa:442117+hsa:50614+hsa:51809+hsa:55568+hsa:57452+hsa:63917+hsa:64409+hsa:79623+hsa:79695+hsa:8693	rn:R05907	POC1B-GALNT4, GALNT4, GalNAc-T4...	#66CC66	#FFFFFF	line					681,639,701,639
+58	ko:K23840	ortholog	https://www.kegg.jp/dbget-bin/www_bget?K23840	rn:R12482	K23840	#000000	#FFFFFF	line					550,655,570,655
+59	hsa:29071 hsa:56913 hsa:728819	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:29071+hsa:56913+hsa:728819	rn:R05908	C1GALT1C1, C1GALT2, C38H2-L1, COSMC, HSPC067, MST143, TNPS...	#66CC66	#FFFFFF	line					550,751,560,741
+60	hsa:100528030 hsa:11226 hsa:11227 hsa:114805 hsa:117248 hsa:168391 hsa:2589 hsa:2590 hsa:2591 hsa:26290 hsa:374378 hsa:442117 hsa:50614 hsa:51809 hsa:55568 hsa:57452 hsa:63917 hsa:64409 hsa:79623 hsa:79695 hsa:8693	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:100528030+hsa:11226+hsa:11227+hsa:114805+hsa:117248+hsa:168391+hsa:2589+hsa:2590+hsa:2591+hsa:26290+hsa:374378+hsa:442117+hsa:50614+hsa:51809+hsa:55568+hsa:57452+hsa:63917+hsa:64409+hsa:79623+hsa:79695+hsa:8693	rn:R05907	POC1B-GALNT4, GALNT4, GalNAc-T4...	#66CC66	#FFFFFF	line					623,736,643,736

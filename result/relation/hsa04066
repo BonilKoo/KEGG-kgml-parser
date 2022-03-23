@@ -1,0 +1,76 @@
+entry1	entry2	type	name	value
+134	135	PPrel	activation	-->
+123	120	PCrel	activation	-->
+126	127	PPrel	activation	-->
+17	32	PPrel	activation	-->
+167	166	PPrel	activation	-->
+166	168	PPrel	activation	-->
+33	34	PPrel	activation	-->
+35	154	PPrel	activation	-->
+154	155	PPrel	activation	-->
+168	153	PPrel	activation	-->
+44	40	PCrel	activation	-->
+42	41	PCrel	activation	-->
+41	35	PPrel	activation	-->
+147	11	PCrel	activation	-->
+148	11	PCrel	activation	-->
+149	11	PCrel	activation	-->
+150	11	PCrel	activation	-->
+77	78	PCrel	activation	-->
+78	14	PPrel	activation	-->
+11	15	PPrel	activation	-->
+179	15	PPrel	inhibition	--|
+179	15	PPrel	ubiquitination	+u
+135	136	PPrel	activation	-->
+135	136	PPrel	indirect effect	..>
+120	121	PPrel	activation	-->
+120	121	PPrel	indirect effect	..>
+127	121	PPrel	activation	-->
+127	121	PPrel	indirect effect	..>
+41	11	PPrel	inhibition	--|
+142	11	PCrel	inhibition	--|
+166	152	PPrel	inhibition	--|
+35	152	PPrel	inhibition	--|
+67	66	PPrel	inhibition	--|
+67	66	PPrel	phosphorylation	+p
+136	15	GErel	expression	-->
+121	15	GErel	expression	-->
+180	114	GErel	expression	-->
+180	115	GErel	expression	-->
+180	93	GErel	expression	-->
+180	94	GErel	expression	-->
+180	95	GErel	expression	-->
+180	10	GErel	expression	-->
+180	96	GErel	expression	-->
+180	97	GErel	expression	-->
+180	98	GErel	expression	-->
+180	99	GErel	expression	-->
+180	100	GErel	expression	-->
+180	101	GErel	expression	-->
+180	106	GErel	expression	-->
+180	107	GErel	expression	-->
+180	108	GErel	expression	-->
+180	109	GErel	expression	-->
+180	110	GErel	expression	-->
+180	16	GErel	expression	-->
+180	55	GErel	expression	-->
+180	84	GErel	expression	-->
+180	85	GErel	expression	-->
+180	86	GErel	expression	-->
+180	87	GErel	expression	-->
+180	89	GErel	expression	-->
+180	90	GErel	expression	-->
+180	54	GErel	expression	-->
+180	177	GErel	expression	-->
+180	178	GErel	expression	-->
+180	88	GErel	expression	-->
+32	167	PPrel	activation	-->
+32	167	PPrel	indirect effect	..>
+32	33	PPrel	activation	-->
+32	33	PPrel	indirect effect	..>
+34	35	PPrel	activation	-->
+34	35	PPrel	indirect effect	..>
+39	44	PCrel	activation	-->
+40	42	PCrel	activation	-->
+40	43	PCrel	activation	-->
+152	153	PPrel	inhibition	--|

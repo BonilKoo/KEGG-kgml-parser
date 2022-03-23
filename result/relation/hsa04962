@@ -1,0 +1,12 @@
+entry1	entry2	type	name	value
+26	27	PPrel	activation	-->
+27	28	PPrel	activation	-->
+28	29	PPrel	activation	-->
+29	25	PCrel	activation	-->
+25	30	PCrel	activation	-->
+30	64	PPrel	activation	-->
+30	31	PPrel	activation	-->
+31	35	GErel	expression	-->
+30	35	PPrel	activation	-->
+30	35	PPrel	phosphorylation	+p
+75	74	PPrel	binding/association	---

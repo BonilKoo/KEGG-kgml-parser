@@ -1,0 +1,56 @@
+id	name_entry	type_entry	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
+120	hsa:2968	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2968	GTF2H4, P52, TFB2, TFIIH	#000000	#BFFFBF	rectangle	668	888	46	17
+121	hsa:2967	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2967	GTF2H3, BTF2, P34, TFB4, TFIIH	#000000	#BFFFBF	rectangle	668	871	46	17
+122	hsa:2966 hsa:728340 hsa:730394	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2966+hsa:728340+hsa:730394	GTF2H2, BTF2, BTF2P44, T-BTF2P44, TFIIH, p44...	#000000	#BFFFBF	rectangle	668	854	46	17
+123	hsa:2965	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2965	GTF2H1, BTF2, P62, TFB1, TFIIH	#000000	#BFFFBF	rectangle	668	837	46	17
+124	hsa:2068	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2068	ERCC2, COFS2, EM9, TFIIH, TTD, TTD1, XPD	#000000	#BFFFBF	rectangle	622	854	46	17
+125	hsa:404672	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:404672	GTF2H5, C6orf175, TFB5, TFIIH, TGF2H5, TTD, TTD-A, TTD3, TTDA, bA120J8.2	#000000	#BFFFBF	rectangle	622	871	46	17
+126	hsa:2071	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2071	ERCC3, BTF2, GTF2H, RAD25, TFIIH, TTD2, XPB	#000000	#BFFFBF	rectangle	622	837	46	17
+127	hsa:902	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:902	CCNH, CAK, CycH, p34, p37	#000000	#BFFFBF	rectangle	576	871	46	17
+128	hsa:4331	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4331	MNAT1, CAP35, MAT1, RNF66, TFB3	#000000	#BFFFBF	rectangle	576	854	46	17
+129	hsa:1022	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1022	CDK7, CAK, CAK1, CDKN7, HCAK, MO15, STK1, p39MO15	#000000	#BFFFBF	rectangle	576	837	46	17
+130	hsa:1642	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1642	DDB1, DDBA, UV-DDB1, XAP1, XPCE, XPE, XPE-BF	#000000	#BFFFBF	rectangle	984	308	46	17
+131	hsa:8450 hsa:8451	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:8450+hsa:8451	CUL4B, CUL-4B, MRXHF2, MRXS15, MRXSC, SFM2...	#000000	#BFFFBF	rectangle	984	291	46	17
+132	hsa:9978	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:9978	RBX1, BA554C12.1, RNF75, ROC1	#000000	#BFFFBF	rectangle	984	274	46	17
+133	path:hsa03020	map	http://www.kegg.jp/dbget-bin/www_bget?hsa03020	RNA polymerase	#000000	#FFFFFF	roundrectangle	1125	238	102	25
+134	path:hsa03020	map	http://www.kegg.jp/dbget-bin/www_bget?hsa03020	RNA polymerase	#000000	#FFFFFF	roundrectangle	519	228	102	25
+135	ko:K03702	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03702	K03702	#000000	#FFFFFF	rectangle	140	256	46	17
+136	ko:K03701	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03701	K03701	#000000	#FFFFFF	rectangle	140	239	46	17
+137	ko:K01972	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K01972	K01972	#000000	#FFFFFF	rectangle	272	899	46	17
+138	ko:K02335	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K02335	K02335	#000000	#FFFFFF	rectangle	272	779	46	17
+139	hsa:4331	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4331	MNAT1, CAP35, MAT1, RNF66, TFB3	#000000	#BFFFBF	rectangle	766	480	46	17
+140	ko:K03701	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03701	K03701	#000000	#FFFFFF	rectangle	393	338	46	17
+141	hsa:3978	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:3978	LIG1	#000000	#BFFFBF	rectangle	885	899	46	17
+142	hsa:5981 hsa:5982 hsa:5983 hsa:5984 hsa:5985	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5981+hsa:5982+hsa:5983+hsa:5984+hsa:5985	RFC1, A1, CANVAS, MHCBFB, PO-GA, RECC1, RFC, RFC140...	#000000	#BFFFBF	rectangle	853	779	46	17
+143	hsa:5111	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5111	PCNA, ATLD2	#000000	#BFFFBF	rectangle	853	756	46	17
+144	ko:K03657	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03657	K03657	#000000	#FFFFFF	rectangle	272	756	46	17
+145	hsa:54107 hsa:5426 hsa:5427 hsa:56655	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:54107+hsa:5426+hsa:5427+hsa:56655	POLE3, CHARAC17, CHRAC17, CHRAC2, YBL1, p17...	#000000	#BFFFBF	rectangle	798	779	46	17
+146	hsa:2072	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2072	ERCC4, ERCC11, FANCQ, RAD1, XFEPS, XPF	#000000	#BFFFBF	rectangle	852	611	46	17
+147	hsa:100533467 hsa:2073	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:100533467+hsa:2073	BIVM-ERCC5, ERCC5-202...	#000000	#BFFFBF	rectangle	983	463	46	17
+148	hsa:10714 hsa:5424 hsa:5425 hsa:57804	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:10714+hsa:5424+hsa:5425+hsa:57804	POLD3, P66, P68, PPP1R128...	#000000	#BFFFBF	rectangle	798	756	46	17
+149	hsa:29935 hsa:6117 hsa:6118 hsa:6119	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:29935+hsa:6117+hsa:6118+hsa:6119	RPA4, HSU24186...	#000000	#BFFFBF	rectangle	1040	480	46	17
+150	hsa:2968	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2968	GTF2H4, P52, TFB2, TFIIH	#000000	#BFFFBF	rectangle	858	514	46	17
+151	hsa:2067	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2067	ERCC1, COFS4, RAD10, UV20	#000000	#BFFFBF	rectangle	852	628	46	17
+152	hsa:7507	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:7507	XPA, XP1, XPAC	#000000	#BFFFBF	rectangle	1040	463	46	17
+153	hsa:2967	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2967	GTF2H3, BTF2, P34, TFB4, TFIIH	#000000	#BFFFBF	rectangle	858	497	46	17
+154	hsa:2966 hsa:728340 hsa:730394	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2966+hsa:728340+hsa:730394	GTF2H2, BTF2, BTF2P44, T-BTF2P44, TFIIH, p44...	#000000	#BFFFBF	rectangle	858	480	46	17
+155	hsa:404672	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:404672	GTF2H5, C6orf175, TFB5, TFIIH, TGF2H5, TTD, TTD-A, TTD3, TTDA, bA120J8.2	#000000	#BFFFBF	rectangle	812	497	46	17
+156	ko:K03702	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03702	K03702	#000000	#FFFFFF	rectangle	393	355	46	17
+157	hsa:1643	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1643	DDB2, DDBB, UV-DDB2, XPE	#000000	#BFFFBF	rectangle	744	322	46	17
+158	hsa:1642	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1642	DDB1, DDBA, UV-DDB1, XAP1, XPCE, XPE, XPE-BF	#000000	#BFFFBF	rectangle	744	305	46	17
+159	hsa:8450 hsa:8451	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:8450+hsa:8451	CUL4B, CUL-4B, MRXHF2, MRXS15, MRXSC, SFM2...	#000000	#BFFFBF	rectangle	744	288	46	17
+160	hsa:9978	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:9978	RBX1, BA554C12.1, RNF75, ROC1	#000000	#BFFFBF	rectangle	744	271	46	17
+161	ko:K03723	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03723	K03723	#000000	#FFFFFF	rectangle	393	239	46	17
+162	path:hsa04120	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04120	Ubiquitin mediated proteolysis	#000000	#FFFFFF	roundrectangle	895	352	130	34
+163	hsa:2071	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2071	ERCC3, BTF2, GTF2H, RAD25, TFIIH, TTD2, XPB	#000000	#BFFFBF	rectangle	812	463	46	17
+164	hsa:1069	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1069	CETN2, CALT, CEN2	#000000	#BFFFBF	rectangle	836	304	46	17
+165	hsa:2965	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2965	GTF2H1, BTF2, P62, TFB1, TFIIH	#000000	#BFFFBF	rectangle	858	463	46	17
+166	hsa:5886 hsa:5887	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5886+hsa:5887	RAD23A, HHR23A, HR23A...	#000000	#BFFFBF	rectangle	836	287	46	17
+167	hsa:1161	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1161	ERCC8, CKN1, CSA, UVSS2	#000000	#BFFFBF	rectangle	984	325	46	17
+168	hsa:2068	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2068	ERCC2, COFS2, EM9, TFIIH, TTD, TTD1, XPD	#000000	#BFFFBF	rectangle	812	480	46	17
+169	hsa:2074	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2074	ERCC6, ARMD5, CKN2, COFS, COFS1, CSB, CSB-PGBD3, POF11, RAD26, UVSS1	#000000	#BFFFBF	rectangle	1036	274	46	17
+170	hsa:7508	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:7508	XPC, RAD4, XP3, XPCC, p125	#000000	#BFFFBF	rectangle	836	270	46	17
+171	hsa:902	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:902	CCNH, CAK, CycH, p34, p37	#000000	#BFFFBF	rectangle	766	497	46	17
+172	ko:K03703	ortholog	http://www.kegg.jp/dbget-bin/www_bget?K03703	K03703	#000000	#FFFFFF	rectangle	272	628	46	17
+173	hsa:1022	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:1022	CDK7, CAK, CAK1, CDKN7, HCAK, MO15, STK1, p39MO15	#000000	#BFFFBF	rectangle	766	463	46	17
+174	path:hsa03420	map	http://www.kegg.jp/dbget-bin/www_bget?hsa03420	TITLE:Nucleotide excision repair	#000000	#FFFFFF	roundrectangle	161	58	242	25

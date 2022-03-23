@@ -1,0 +1,25 @@
+entry1	entry2	type	name	value
+15	11	GErel	repression	--|
+23	176	PCrel	inhibition	--|
+116	176	PCrel	inhibition	--|
+135	176	PCrel	inhibition	--|
+117	176	PCrel	inhibition	--|
+134	17	PCrel	inhibition	--|
+31	11	PPrel	binding/association	---
+38	39	PCrel	binding/association	---
+39	37	PPrel	binding/association	---
+58	59	PPrel	binding/association	---
+60	59	PCrel	binding/association	---
+53	52	PCrel	binding/association	---
+52	51	PPrel	binding/association	---
+71	70	PCrel	binding/association	---
+74	73	PCrel	binding/association	---
+81	80	PCrel	binding/association	---
+90	80	PPrel	binding/association	---
+146	145	PCrel	binding/association	---
+35	118	PCrel	inhibition	--|
+149	118	PCrel	activation	-->
+22	118	PCrel	activation	-->
+22	118	PCrel	indirect effect	..>
+105	118	PCrel	activation	-->
+105	118	PCrel	indirect effect	..>

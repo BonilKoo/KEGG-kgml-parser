@@ -1,0 +1,6 @@
+entry1	entry2	type	name	value
+61	181	ECrel	compound	178
+181	63	ECrel	compound	174
+62	63	ECrel	compound	174
+228	229	PCrel	binding/association	---
+233	231	PCrel	binding/association	---

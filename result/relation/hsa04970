@@ -1,0 +1,30 @@
+entry1	entry2	type	name	value
+69	36	PCrel	activation	-->
+36	41	PPrel	activation	-->
+41	42	PPrel	activation	-->
+42	43	PCrel	activation	-->
+43	47	PCrel	activation	-->
+69	37	PCrel	activation	-->
+37	51	PPrel	activation	-->
+51	52	PPrel	activation	-->
+52	64	PCrel	activation	-->
+64	65	PCrel	activation	-->
+70	38	PCrel	activation	-->
+38	51	PPrel	activation	-->
+52	54	PCrel	activation	-->
+54	53	PCrel	activation	-->
+55	73	PCrel	activation	-->
+73	74	PPrel	activation	-->
+74	144	PCrel	activation	-->
+144	75	PCrel	activation	-->
+75	84	PCrel	activation	-->
+84	76	PCrel	activation	-->
+76	77	PPrel	activation	-->
+77	142	PCrel	activation	-->
+142	72	PCrel	activation	-->
+55	90	PCrel	indirect effect	..>
+55	130	PCrel	indirect effect	..>
+55	39	PCrel	indirect effect	..>
+55	164	PCrel	indirect effect	..>
+164	67	PPrel	state change	...
+47	48	PPrel	indirect effect	..>

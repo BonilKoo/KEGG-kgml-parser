@@ -1,0 +1,64 @@
+entry1	entry2	type	name	value
+133	126	ECrel	activation	-->
+135	233	ECrel	activation	-->
+137	49	ECrel	activation	-->
+233	17	ECrel	activation	-->
+233	54	ECrel	activation	-->
+52	234	PPrel	binding/association	---
+38	235	PPrel	binding/association	---
+21	35	PPrel	binding/association	---
+31	236	PPrel	binding/association	---
+22	42	PPrel	binding/association	---
+20	24	PPrel	binding/association	---
+20	64	PPrel	binding/association	---
+56	64	PPrel	binding/association	---
+43	56	PPrel	binding/association	---
+135	237	PPrel	binding/association	---
+136	238	PPrel	binding/association	---
+134	239	PPrel	binding/association	---
+132	133	PPrel	binding/association	---
+131	132	PPrel	binding/association	---
+20	33	PPrel	dissociation	-+-
+22	30	PPrel	dissociation	-+-
+135	146	PPrel	binding/association	---
+122	136	PPrel	binding/association	---
+240	237	PPrel	activation	-->
+240	238	PPrel	activation	-->
+240	239	PPrel	activation	-->
+126	240	PPrel	activation	-->
+128	151	PPrel	activation	-->
+149	128	PPrel	activation	-->
+133	149	PPrel	activation	-->
+238	117	PPrel	activation	-->
+117	141	PPrel	activation	-->
+141	140	PPrel	activation	-->
+140	139	PPrel	activation	-->
+151	121	PPrel	activation	-->
+151	142	PPrel	activation	-->
+151	120	PPrel	activation	-->
+136	137	PPrel	activation	-->
+62	233	PPrel	activation	-->
+130	151	PPrel	indirect effect	..>
+238	130	PPrel	indirect effect	..>
+132	130	PPrel	indirect effect	..>
+136	51	PPrel	indirect effect	..>
+51	50	PPrel	indirect effect	..>
+51	60	PPrel	indirect effect	..>
+51	25	PPrel	indirect effect	..>
+49	50	PPrel	indirect effect	..>
+49	60	PPrel	indirect effect	..>
+49	25	PPrel	indirect effect	..>
+51	48	PPrel	activation	-->
+47	43	PPrel	activation	-->
+48	47	PPrel	activation	-->
+48	47	PPrel	phosphorylation	+p
+146	152	PPrel	indirect effect	..>
+122	152	PPrel	indirect effect	..>
+134	55	PPrel	inhibition	--|
+55	51	PPrel	inhibition	--|
+135	41	PPrel	indirect effect	..>
+41	62	PPrel	indirect effect	..>
+18	16	PPrel	binding/association	---
+232	51	PPrel	inhibition	--|
+232	28	PPrel	binding/association	---
+232	29	PPrel	inhibition	--|

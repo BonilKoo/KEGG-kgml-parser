@@ -1,0 +1,46 @@
+id	name_entry	type_entry	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
+6	hsa:59272	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:59272	ACE2, ACEH	#000000	#BFFFBF	rectangle	430	309	46	17
+7	hsa:59272	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:59272	ACE2, ACEH	#000000	#BFFFBF	rectangle	292	238	46	17
+8	hsa:1636	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1636	ACE, ACE1, CD143, DCP, DCP1	#000000	#BFFFBF	rectangle	430	124	46	17
+9	hsa:1636	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1636	ACE, ACE1, CD143, DCP, DCP1	#000000	#BFFFBF	rectangle	392	157	46	17
+10	hsa:1636	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1636	ACE, ACE1, CD143, DCP, DCP1	#000000	#BFFFBF	rectangle	302	437	46	17
+11	cpd:C02135	compound	https://www.kegg.jp/dbget-bin/www_bget?C02135	C02135	#000000	#FFFFFF	circle	458	378	8	8
+12	cpd:C15849	compound	https://www.kegg.jp/dbget-bin/www_bget?C15849	C15849	#000000	#FFFFFF	circle	458	544	8	8
+13	cpd:C15848	compound	https://www.kegg.jp/dbget-bin/www_bget?C15848	C15848	#000000	#FFFFFF	circle	458	461	8	8
+14	cpd:C15850	compound	https://www.kegg.jp/dbget-bin/www_bget?C15850	C15850	#000000	#FFFFFF	circle	458	188	8	8
+15	cpd:C15852	compound	https://www.kegg.jp/dbget-bin/www_bget?C15852	C15852	#000000	#FFFFFF	circle	458	85	8	8
+16	cpd:C15851	compound	https://www.kegg.jp/dbget-bin/www_bget?C15851	C15851	#000000	#FFFFFF	circle	335	188	8	8
+17	cpd:C00873	compound	https://www.kegg.jp/dbget-bin/www_bget?C00873	C00873	#000000	#FFFFFF	circle	233	378	8	8
+18	hsa:185	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:185	AGTR1, AG2S, AGTR1B, AT1, AT1AR, AT1B, AT1BR, AT1R, AT2R1, HAT1R	#000000	#BFFFBF	rectangle	603	402	46	17
+19	hsa:186	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:186	AGTR2, AT2, ATGR2, MRX88	#000000	#BFFFBF	rectangle	603	317	46	17
+20	hsa:57486	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:57486	NLN, AGTBP, EP24.16, MEP, MOP	#000000	#BFFFBF	rectangle	368	267	46	17
+21	hsa:7064	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:7064	THOP1, EP24.15, MEPD_HUMAN, MP78, TOP	#000000	#BFFFBF	rectangle	368	247	46	17
+22	hsa:4311	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:4311	MME, CALLA, CD10, CMT2T, NEP, SCA43, SFE	#000000	#BFFFBF	rectangle	368	287	46	17
+23	hsa:290	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:290	ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	#000000	#BFFFBF	rectangle	430	499	46	17
+24	hsa:2028	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2028	ENPEP, APA, CD249, gp160	#000000	#BFFFBF	rectangle	430	423	46	17
+25	hsa:5476	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:5476	CTSA, GLB2, GSL, NGBE, PPCA, PPGB	#000000	#BFFFBF	rectangle	292	258	46	17
+26	hsa:1359	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1359	CPA3, MC-CPA	#000000	#BFFFBF	rectangle	292	278	46	17
+27	hsa:4142	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:4142	MAS1, MAS, MGRA	#000000	#BFFFBF	rectangle	603	189	46	17
+28	hsa:4311	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:4311	MME, CALLA, CD10, CMT2T, NEP, SCA43, SFE	#000000	#BFFFBF	rectangle	392	177	46	17
+29	hsa:4012	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:4012	LNPEP, CAP, IRAP, P-LAP, PLAP	#000000	#BFFFBF	rectangle	603	544	46	17
+30	hsa:1215	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1215	CMA1, CYH, MCT1, chymase	#000000	#BFFFBF	rectangle	303	391	46	17
+31	hsa:1511	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1511	CTSG, CATG, CG	#000000	#BFFFBF	rectangle	303	411	46	17
+32	hsa:183	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:183	AGT, ANHU, SERPINA8, hFLT1	#000000	#BFFFBF	rectangle	96	378	46	17
+33	hsa:5972	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:5972	REN, ADTKD4, HNFJ2, RTD	#000000	#BFFFBF	rectangle	171	390	46	17
+34	path:hsa04614	map	https://www.kegg.jp/dbget-bin/www_bget?hsa04614	TITLE:Renin-angiotensin system	#000000	#FFFFFF	roundrectangle	159	58	237	25
+35	path:hsa04610	map	https://www.kegg.jp/dbget-bin/www_bget?hsa04610	Complement and coagulation cascades	#000000	#FFFFFF	roundrectangle	293	605	126	35
+50	hsa:10159	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10159	ATP6AP2, APT6M8-9, ATP6IP2, ATP6M8-9, CDG2R, ELDF10, HT028, M8-9, MRXE, MRXSH, MSTP009, PRR, RENR, XMRE, XPDS	#000000	#BFFFBF	rectangle	603	680	46	17
+54	hsa:3816 hsa:3817	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:3816+hsa:3817	KLK1, KLKR, Klk6, hK1...	#000000	#BFFFBF	rectangle	225	487	46	17
+55	hsa:1511	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:1511	CTSG, CATG, CG	#000000	#BFFFBF	rectangle	225	509	46	17
+56	path:hsa04270	map	https://www.kegg.jp/dbget-bin/www_bget?hsa04270	Vascular smooth muscle contraction	#000000	#FFFFFF	roundrectangle	741	435	126	35
+59	path:hsa04924	map	https://www.kegg.jp/dbget-bin/www_bget?hsa04924	Renin secretion	#000000	#FFFFFF	roundrectangle	136	295	112	25
+60	cpd:C20972	compound	https://www.kegg.jp/dbget-bin/www_bget?C20972	C20972	#000000	#FFFFFF	circle	458	593	8	8
+61	cpd:C20973	compound	https://www.kegg.jp/dbget-bin/www_bget?C20973	C20973	#000000	#FFFFFF	circle	458	642	8	8
+64	hsa:116512	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:116512	MRGPRD, MRGD, TGR7	#000000	#BFFFBF	rectangle	603	244	46	17
+65	cpd:C20971	compound	https://www.kegg.jp/dbget-bin/www_bget?C20971	C20971	#000000	#FFFFFF	circle	525	244	8	8
+68	cpd:C20970	compound	https://www.kegg.jp/dbget-bin/www_bget?C20970	C20970	#000000	#FFFFFF	circle	493	315	8	8
+71	hsa:59272	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:59272	ACE2, ACEH	#000000	#BFFFBF	rectangle	540	285	46	17
+76	path:hsa04925	map	https://www.kegg.jp/dbget-bin/www_bget?hsa04925	Aldosterone synthesis and secretion	#000000	#FFFFFF	roundrectangle	741	475	126	35
+77	hsa:290	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:290	ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	#000000	#BFFFBF	rectangle	430	565	46	17
+78	hsa:5550	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:5550	PREP, PE, PEP	#000000	#BFFFBF	rectangle	430	614	46	17
+79	hsa:5547	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:5547	PRCP, HUMPCP, PCP	#000000	#BFFFBF	rectangle	430	332	46	17

@@ -1,0 +1,67 @@
+entry1	entry2	type	name	value
+111	112	PPrel	activation	-->
+53	54	PPrel	activation	-->
+54	55	PPrel	activation	-->
+55	56	PPrel	activation	-->
+56	63	PCrel	activation	-->
+63	57	PCrel	activation	-->
+57	78	PPrel	activation	-->
+57	78	PPrel	phosphorylation	+p
+57	185	PPrel	activation	-->
+57	185	PPrel	phosphorylation	+p
+57	149	PPrel	activation	-->
+57	149	PPrel	phosphorylation	+p
+57	200	PPrel	activation	-->
+57	200	PPrel	phosphorylation	+p
+200	69	PPrel	activation	-->
+200	69	PPrel	phosphorylation	+p
+57	81	PPrel	inhibition	--|
+57	81	PPrel	phosphorylation	+p
+81	80	PPrel	inhibition	--|
+81	80	PPrel	phosphorylation	+p
+171	168	PPrel	inhibition	--|
+171	168	PPrel	phosphorylation	+p
+112	63	PCrel	inhibition	--|
+163	120	PCrel	inhibition	--|
+79	80	PPrel	inhibition	--|
+79	80	PPrel	dephosphorylation	-p
+57	79	PPrel	activation	-->
+57	79	PPrel	indirect effect	..>
+57	171	PPrel	activation	-->
+57	171	PPrel	indirect effect	..>
+201	90	GErel	expression	-->
+201	107	GErel	expression	-->
+202	92	GErel	expression	-->
+202	91	GErel	expression	-->
+202	119	GErel	expression	-->
+203	92	GErel	expression	-->
+203	91	GErel	expression	-->
+203	119	GErel	expression	-->
+107	80	PPrel	inhibition	--|
+107	80	PPrel	phosphorylation	+p
+94	93	PPrel	activation	-->
+143	47	PCrel	activation	-->
+143	142	PCrel	inhibition	--|
+77	178	PCrel	activation	-->
+178	179	PPrel	activation	-->
+178	179	PPrel	phosphorylation	+p
+178	179	PPrel	indirect effect	..>
+57	68	PPrel	inhibition	--|
+57	68	PPrel	phosphorylation	+p
+57	35	PPrel	inhibition	--|
+57	35	PPrel	phosphorylation	+p
+54	72	PPrel	activation	-->
+72	73	PPrel	activation	-->
+73	74	PCrel	activation	-->
+74	185	PCrel	activation	-->
+201	92	GErel	expression	-->
+201	91	GErel	expression	-->
+201	119	GErel	expression	-->
+78	87	PPrel	state change	...
+80	88	PPrel	state change	...
+90	192	PPrel	state change	...
+90	101	PPrel	state change	...
+179	93	PPrel	state change	...
+77	139	PCrel	activation	-->
+139	80	PPrel	activation	-->
+139	80	PPrel	dephosphorylation	-p

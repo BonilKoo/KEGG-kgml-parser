@@ -1,0 +1,12 @@
+entry1	entry2	type	name	value
+137	135	PCrel	activation	-->
+135	139	PCrel	activation	-->
+139	136	PCrel	activation	-->
+136	50	PPrel	activation	-->
+136	50	PPrel	indirect effect	..>
+189	147	PPrel	activation	-->
+147	148	PPrel	activation	-->
+148	150	PCrel	activation	-->
+150	149	PCrel	activation	-->
+149	115	PPrel	activation	-->
+149	115	PPrel	indirect effect	..>

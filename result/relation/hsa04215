@@ -1,0 +1,22 @@
+entry1	entry2	type	name	value
+103	99	PPrel	activation	-->
+99	100	PPrel	activation	-->
+100	22	PPrel	activation	-->
+19	25	PPrel	activation	-->
+25	21	PPrel	activation	-->
+21	22	PPrel	activation	-->
+21	23	PPrel	activation	-->
+122	56	PPrel	inhibition	--|
+56	54	PPrel	inhibition	--|
+56	55	PPrel	inhibition	--|
+26	24	PPrel	inhibition	--|
+27	24	PPrel	inhibition	--|
+28	24	PPrel	inhibition	--|
+24	21	PPrel	inhibition	--|
+24	22	PPrel	inhibition	--|
+24	23	PPrel	inhibition	--|
+3	5	PPrel	inhibition	--|
+89	88	PPrel	inhibition	--|
+112	109	PPrel	activation	-->
+106	14	PPrel	activation	-->
+106	14	PPrel	indirect effect	..>

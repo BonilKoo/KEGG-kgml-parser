@@ -1,0 +1,16 @@
+entry1	entry2	type	name	value
+38	35	PPrel	binding/association	---
+35	36	PPrel	binding/association	---
+45	44	PPrel	binding/association	---
+45	46	PPrel	binding/association	---
+46	44	PPrel	binding/association	---
+46	47	PPrel	binding/association	---
+44	49	PPrel	binding/association	---
+49	47	PPrel	binding/association	---
+49	204	PPrel	binding/association	---
+204	82	PPrel	binding/association	---
+204	50	PPrel	binding/association	---
+57	204	PPrel	binding/association	---
+36	48	PPrel	binding/association	---
+48	106	PPrel	binding/association	---
+31	107	PPrel	binding/association	---

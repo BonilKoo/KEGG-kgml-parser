@@ -1,0 +1,11 @@
+entry1	entry2	type	name	value
+55	63	ECrel	compound	30
+54	55	ECrel	compound	30
+55	65	ECrel	compound	30
+63	65	ECrel	compound	30
+38	55	ECrel	compound	30
+38	65	ECrel	compound	30
+38	40	ECrel	compound	70
+85	55	ECrel	compound	30
+85	63	ECrel	compound	30
+85	38	ECrel	compound	30

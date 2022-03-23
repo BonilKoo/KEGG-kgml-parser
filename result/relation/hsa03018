@@ -1,0 +1,6 @@
+entry1	entry2	type	name	value
+193	191	PCrel	binding/association	---
+193	195	PCrel	activation	-->
+193	195	PCrel	binding/association	---
+193	141	PCrel	activation	-->
+194	195	PPrel	binding/association	---

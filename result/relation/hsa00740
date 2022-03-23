@@ -1,0 +1,7 @@
+entry1	entry2	type	name	value
+41	39	ECrel	compound	49
+73	41	ECrel	compound	16
+79	73	ECrel	compound	16
+79	39	ECrel	compound	49
+79	78	ECrel	compound	49
+41	78	ECrel	compound	49

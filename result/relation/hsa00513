@@ -1,0 +1,16 @@
+entry1	entry2	type	name	value
+172	173	ECrel	compound	168
+173	174	ECrel	compound	169
+174	177	ECrel	compound	170
+160	161	ECrel	compound	153
+161	162	ECrel	compound	152
+162	163	ECrel	compound	151
+163	129	ECrel	compound	159
+129	130	ECrel	compound	115
+129	135	ECrel	compound	115
+130	135	ECrel	compound	115
+130	132	ECrel	compound	118
+135	138	ECrel	compound	134
+232	233	ECrel	compound	228
+233	234	ECrel	compound	229
+234	237	ECrel	compound	230

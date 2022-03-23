@@ -1,0 +1,210 @@
+entry1	entry2	type	name	value
+2377	2374	PCrel	activation	-->
+2141	2374	PCrel	activation	-->
+2141	180	PCrel	activation	-->
+1867	1849	PCrel	activation	-->
+1867	180	PCrel	activation	-->
+1966	180	PPrel	activation	-->
+1867	1854	PCrel	activation	-->
+1846	180	PPrel	activation	-->
+2374	1847	PPrel	activation	-->
+1968	1847	PPrel	activation	-->
+1849	1847	PPrel	activation	-->
+1847	1850	PPrel	activation	-->
+1977	1850	PPrel	activation	-->
+1850	1957	PCrel	activation	-->
+1957	1956	PCrel	activation	-->
+1850	1868	PCrel	activation	-->
+1868	179	PCrel	activation	-->
+1951	179	PPrel	activation	-->
+1965	179	PPrel	activation	-->
+1800	1807	PPrel	activation	-->
+1800	1827	PPrel	activation	-->
+1827	1798	PPrel	activation	-->
+1798	2204	PPrel	activation	-->
+1827	1831	PPrel	activation	-->
+2198	2199	PPrel	activation	-->
+1799	1802	PPrel	activation	-->
+1802	1803	PPrel	activation	-->
+181	2206	PCrel	activation	-->
+2206	220	PPrel	activation	-->
+141	1901	PPrel	activation	-->
+2390	2379	PPrel	activation	-->
+2379	2380	PPrel	activation	-->
+2380	2381	PPrel	activation	-->
+2381	2382	PPrel	activation	-->
+2382	2388	PPrel	activation	-->
+2382	2387	PPrel	activation	-->
+2391	1901	PPrel	activation	-->
+1881	1900	PPrel	activation	-->
+1903	1900	PPrel	activation	-->
+1900	1901	PPrel	activation	-->
+2146	1883	PPrel	activation	-->
+2147	1883	PPrel	activation	-->
+2149	2147	PCrel	activation	-->
+1996	1998	PPrel	activation	-->
+1998	1999	PPrel	activation	-->
+1999	2000	PPrel	activation	-->
+2392	1705	PCrel	activation	-->
+1705	1717	PCrel	activation	-->
+1705	2372	PCrel	activation	-->
+2123	216	PPrel	activation	-->
+247	216	PPrel	activation	-->
+247	248	PPrel	activation	-->
+2125	2167	PCrel	activation	-->
+2167	2168	PPrel	activation	-->
+2125	2063	PCrel	activation	-->
+2063	2061	PPrel	activation	-->
+2125	2048	PCrel	activation	-->
+2048	2049	PPrel	activation	-->
+2076	2393	PPrel	activation	-->
+2075	2071	PPrel	activation	-->
+2120	2093	PCrel	activation	-->
+2108	2093	PCrel	activation	-->
+2093	2094	PPrel	activation	-->
+2094	2111	PPrel	activation	-->
+2093	2095	PPrel	activation	-->
+2095	2107	PCrel	activation	-->
+2107	2096	PCrel	activation	-->
+2204	2202	PPrel	activation	-->
+2204	2202	PPrel	phosphorylation	+p
+2199	2204	PPrel	activation	-->
+2199	2204	PPrel	phosphorylation	+p
+1718	1719	PPrel	activation	-->
+1718	1719	PPrel	phosphorylation	+p
+2394	2395	PPrel	activation	-->
+2394	2395	PPrel	phosphorylation	+p
+1715	1714	PPrel	activation	-->
+1715	1714	PPrel	phosphorylation	+p
+2168	2052	PPrel	activation	-->
+2168	2052	PPrel	phosphorylation	+p
+2061	2052	PPrel	activation	-->
+2061	2052	PPrel	phosphorylation	+p
+2050	2052	PPrel	activation	-->
+2050	2052	PPrel	phosphorylation	+p
+2051	2052	PPrel	activation	-->
+2051	2052	PPrel	phosphorylation	+p
+2069	2052	PPrel	activation	-->
+2069	2052	PPrel	phosphorylation	+p
+2111	2112	PPrel	activation	-->
+2111	2112	PPrel	phosphorylation	+p
+2112	2113	PPrel	activation	-->
+2112	2113	PPrel	phosphorylation	+p
+2396	1740	PPrel	activation	-->
+2396	1740	PPrel	phosphorylation	+p
+244	242	PPrel	inhibition	--|
+1857	1856	PPrel	inhibition	--|
+1856	242	PPrel	inhibition	--|
+2326	2397	PPrel	inhibition	--|
+2295	2397	PPrel	inhibition	--|
+2289	2397	PPrel	inhibition	--|
+2284	2397	PCrel	inhibition	--|
+2280	2397	PPrel	inhibition	--|
+1992	1814	PPrel	inhibition	--|
+1973	1814	PPrel	inhibition	--|
+1989	1801	PPrel	inhibition	--|
+1814	1801	PPrel	inhibition	--|
+1814	1800	PPrel	inhibition	--|
+1814	1799	PPrel	inhibition	--|
+2188	1814	PPrel	inhibition	--|
+1919	1695	PPrel	inhibition	--|
+1906	1695	PPrel	inhibition	--|
+1896	1695	PCrel	inhibition	--|
+1769	1695	PPrel	inhibition	--|
+1880	1695	PCrel	inhibition	--|
+2161	1696	PPrel	inhibition	--|
+2161	1697	PPrel	inhibition	--|
+1987	1697	PCrel	inhibition	--|
+2137	1698	PCrel	inhibition	--|
+1681	1763	PPrel	inhibition	--|
+1767	1763	PPrel	inhibition	--|
+1681	1680	PPrel	inhibition	--|
+2149	2146	PCrel	inhibition	--|
+1882	1881	PPrel	inhibition	--|
+1928	1881	PPrel	inhibition	--|
+1948	1719	PPrel	inhibition	--|
+1711	1712	PPrel	inhibition	--|
+2010	210	PPrel	inhibition	--|
+2011	210	PPrel	inhibition	--|
+2012	210	PPrel	inhibition	--|
+2052	213	PPrel	inhibition	--|
+2052	214	PPrel	inhibition	--|
+2083	2076	PPrel	inhibition	--|
+2162	1968	PPrel	inhibition	--|
+2162	1968	PPrel	phosphorylation	+p
+1944	210	PPrel	inhibition	--|
+1944	210	PPrel	phosphorylation	+p
+216	210	PPrel	inhibition	--|
+216	210	PPrel	phosphorylation	+p
+248	210	PPrel	inhibition	--|
+248	210	PPrel	phosphorylation	+p
+1943	1944	PPrel	activation	-->
+1807	2370	GErel	expression	-->
+1803	1810	GErel	expression	-->
+2096	2100	GErel	expression	-->
+2096	2101	GErel	expression	-->
+2096	2097	GErel	expression	-->
+2096	2098	GErel	expression	-->
+2096	2099	GErel	expression	-->
+2096	2102	GErel	expression	-->
+2120	2083	PCrel	activation	-->
+2120	2083	PCrel	indirect effect	..>
+56	180	PPrel	activation	-->
+56	180	PPrel	indirect effect	..>
+2141	1849	PCrel	activation	-->
+2141	1849	PCrel	indirect effect	..>
+1877	1881	PPrel	activation	-->
+1877	1881	PPrel	indirect effect	..>
+1912	1881	PPrel	activation	-->
+1912	1881	PPrel	indirect effect	..>
+1845	1846	PPrel	missing interaction	-/-
+1688	1690	PPrel	missing interaction	-/-
+1969	1719	PPrel	missing interaction	-/-
+1736	2394	PPrel	missing interaction	-/-
+1748	1761	PPrel	missing interaction	-/-
+1744	1761	PPrel	missing interaction	-/-
+2396	1744	PPrel	missing interaction	-/-
+1737	1736	PPrel	missing interaction	-/-
+1841	1836	PPrel	inhibition	--|
+2242	2243	PPrel	binding/association	---
+2244	2243	PPrel	binding/association	---
+2319	2321	PCrel	binding/association	---
+2000	2001	PPrel	activation	-->
+2000	2001	PPrel	phosphorylation	+p
+2000	2002	PPrel	activation	-->
+2000	2002	PPrel	phosphorylation	+p
+2001	2003	PPrel	activation	-->
+2001	2003	PPrel	phosphorylation	+p
+2002	2003	PPrel	activation	-->
+2002	2003	PPrel	phosphorylation	+p
+1694	1701	PPrel	missing interaction	-/-
+1701	1936	PPrel	missing interaction	-/-
+2144	242	PCrel	activation	-->
+2144	2191	PCrel	activation	-->
+2144	2379	PCrel	activation	-->
+1801	1809	GErel	expression	-->
+1801	2371	GErel	expression	-->
+1801	2323	GErel	expression	-->
+1873	2391	PPrel	missing interaction	-/-
+1922	1923	PPrel	missing interaction	-/-
+1923	1912	PPrel	missing interaction	-/-
+1910	1911	PPrel	missing interaction	-/-
+1911	1912	PPrel	missing interaction	-/-
+1956	1962	PPrel	inhibition	--|
+2131	179	PPrel	activation	-->
+2131	178	PPrel	activation	-->
+220	188	PPrel	activation	-->
+220	188	PPrel	dephosphorylation	-p
+188	1881	PPrel	activation	-->
+188	1881	PPrel	indirect effect	..>
+1883	1881	PPrel	activation	-->
+1883	1881	PPrel	indirect effect	..>
+2071	2069	PPrel	inhibition	--|
+2069	2068	PPrel	inhibition	--|
+2069	2068	PPrel	phosphorylation	+p
+1688	1689	PPrel	binding/association	---
+1716	1717	PPrel	binding/association	---
+2281	2240	PPrel	activation	-->
+2281	2240	PPrel	indirect effect	..>
+1681	1895	PCrel	activation	-->
+1681	1895	PCrel	indirect effect	..>

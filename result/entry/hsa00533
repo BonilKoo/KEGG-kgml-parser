@@ -1,0 +1,28 @@
+id	name_entry	type_entry	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height	coords
+2	path:hsa00512	map	https://www.kegg.jp/dbget-bin/www_bget?hsa00512	Mucin type O-glycan biosynthesis	#000000	#FFFFFF	roundrectangle	552	357	127	25	
+3	path:hsa00533	map	https://www.kegg.jp/dbget-bin/www_bget?hsa00533	TITLE:Glycosaminoglycan biosynthesis - keratan sulfate	#000000	#FFFFFF	roundrectangle	259	58	437	25	
+5	hsa:10678	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10678	B3GNT2, 3-Gn-T1, 3-Gn-T2, B3GN-T2, B3GNT, B3GNT-2, B3GNT1, BETA3GNT, BGNT2, BGnT-2, beta-1, beta3Gn-T1, beta3Gn-T2	#66CC66	#FFFFFF	line					398,198,428,198
+7	hsa:2683 hsa:8703 hsa:8704	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2683+hsa:8703+hsa:8704	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1...	#66CC66	#FFFFFF	line					651,264,681,264
+8	hsa:6487	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:6487	ST3GAL3, DEE15, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	#66CC66	#FFFFFF	line					576,265,606,265
+12	hsa:2683 hsa:8703 hsa:8704	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2683+hsa:8703+hsa:8704	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1...	#66CC66	#FFFFFF	line					648,198,678,198
+13	hsa:10678	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10678	B3GNT2, 3-Gn-T1, 3-Gn-T2, B3GN-T2, B3GNT, B3GNT-2, B3GNT1, BETA3GNT, BGNT2, BGnT-2, beta-1, beta3Gn-T1, beta3Gn-T2	#66CC66	#FFFFFF	line					574,198,604,198
+14	hsa:2683 hsa:8703 hsa:8704	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2683+hsa:8703+hsa:8704	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1...	#66CC66	#FFFFFF	line					476,198,506,198
+15	hsa:8702	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8702	B4GALT4, B4Gal-T4, beta4Gal-T4	#66CC66	#FFFFFF	line					276,198,306,198
+16	hsa:93010	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:93010	B3GNT7, beta3GnT7	#66CC66	#FFFFFF	line					197,198,227,198
+17	hsa:8702	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8702	B4GALT4, B4Gal-T4, beta4Gal-T4	#66CC66	#FFFFFF	line					78,198,108,198
+18	hsa:2530	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2530	FUT8, CDGF, CDGF1	#66CC66	#FFFFFF	line					1029,179,1029,209
+22	hsa:4166	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:4166	CHST6, C-GlcNAc6ST, GST4-beta, MCDC1, glcNAc6ST-5, gn6st-5, hCGn6ST	#66CC66	#FFFFFF	line					334,148,334,178
+23	hsa:4166	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:4166	CHST6, C-GlcNAc6ST, GST4-beta, MCDC1, glcNAc6ST-5, gn6st-5, hCGn6ST	#66CC66	#FFFFFF	line					137,148,137,178
+24	hsa:8534	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8534	CHST1, C6ST, GST-1, KS6ST, KSGal6ST, KSST	#66CC66	#FFFFFF	line					61,148,61,178
+25	path:hsa00510	map	https://www.kegg.jp/dbget-bin/www_bget?hsa00510	N-Glycan biosynthesis	#000000	#FFFFFF	roundrectangle	554	95	127	25	
+27	hsa:10678	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10678	B3GNT2, 3-Gn-T1, 3-Gn-T2, B3GN-T2, B3GNT, B3GNT-2, B3GNT1, BETA3GNT, BGNT2, BGnT-2, beta-1, beta3Gn-T1, beta3Gn-T2	#66CC66	#FFFFFF	line					473,443,503,443
+28	hsa:6482 hsa:6483	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:6482+hsa:6483	ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA.1, ST3GalIA, ST3GalIA,1, ST3O...	#66CC66	#FFFFFF	line					745,508,775,508
+31	hsa:2683 hsa:8703 hsa:8704	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2683+hsa:8703+hsa:8704	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1...	#66CC66	#FFFFFF	line					723,443,753,443
+32	hsa:10678	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10678	B3GNT2, 3-Gn-T1, 3-Gn-T2, B3GN-T2, B3GNT, B3GNT-2, B3GNT1, BETA3GNT, BGNT2, BGnT-2, beta-1, beta3Gn-T1, beta3Gn-T2	#66CC66	#FFFFFF	line					649,443,679,443
+33	hsa:2683 hsa:8703 hsa:8704	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:2683+hsa:8703+hsa:8704	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1...	#66CC66	#FFFFFF	line					551,443,581,443
+34	hsa:8702	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8702	B4GALT4, B4Gal-T4, beta4Gal-T4	#66CC66	#FFFFFF	line					365,443,395,443
+35	hsa:93010	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:93010	B3GNT7, beta3GnT7	#66CC66	#FFFFFF	line					286,443,316,443
+36	hsa:8702	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8702	B4GALT4, B4Gal-T4, beta4Gal-T4	#66CC66	#FFFFFF	line					171,443,201,443
+38	hsa:10164 hsa:9435	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10164+hsa:9435	CHST4, GST3, GlcNAc6ST2, HECGLCNAC6ST, LSST...	#66CC66	#FFFFFF	line					425,393,425,423
+39	hsa:10164 hsa:9435	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:10164+hsa:9435	CHST4, GST3, GlcNAc6ST2, HECGLCNAC6ST, LSST...	#66CC66	#FFFFFF	line					231,393,231,423
+40	hsa:8534	gene	https://www.kegg.jp/dbget-bin/www_bget?hsa:8534	CHST1, C6ST, GST-1, KS6ST, KSGal6ST, KSST	#66CC66	#FFFFFF	line					155,393,155,423

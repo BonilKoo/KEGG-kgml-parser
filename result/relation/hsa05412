@@ -1,0 +1,13 @@
+entry1	entry2	type	name	value
+39	36	PPrel	binding/association	---
+36	37	PPrel	binding/association	---
+131	132	PPrel	binding/association	---
+146	147	PPrel	binding/association	---
+148	149	PPrel	binding/association	---
+55	56	PPrel	missing interaction	-/-
+57	58	PPrel	missing interaction	-/-
+59	60	PPrel	missing interaction	-/-
+61	62	PPrel	missing interaction	-/-
+141	140	PPrel	activation	-->
+72	140	PPrel	activation	-->
+46	27	PCrel	activation	-->

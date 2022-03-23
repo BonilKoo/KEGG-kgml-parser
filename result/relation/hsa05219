@@ -1,0 +1,21 @@
+entry1	entry2	type	name	value
+25	38	PPrel	indirect effect	..>
+5	37	PPrel	activation	-->
+38	37	PPrel	activation	-->
+37	36	PPrel	activation	-->
+37	36	PPrel	phosphorylation	+p
+36	35	PPrel	activation	-->
+36	35	PPrel	phosphorylation	+p
+35	30	PPrel	activation	-->
+35	30	PPrel	phosphorylation	+p
+128	24	PPrel	activation	-->
+128	24	PPrel	phosphorylation	+p
+23	24	PPrel	dissociation	-+-
+32	15	PPrel	activation	-->
+32	13	PPrel	activation	-->
+21	22	PPrel	inhibition	--|
+19	38	PPrel	missing interaction	-/-
+20	35	PPrel	missing interaction	-/-
+16	21	PPrel	missing interaction	-/-
+17	128	PPrel	missing interaction	-/-
+31	128	PPrel	missing interaction	-/-
