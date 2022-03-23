@@ -64,15 +64,16 @@ def parse_kgml(pathway_id, output_dir):
         output_file.close()
     
     # relation
-    relation_list = []
-    for relation in relations:
-        for subtype in relation.findall('subtype'):
-            relation_attrib = copy.deepcopy(relation.attrib)
-            relation_attrib.update(subtype.attrib)
-            relation_list.append(relation_attrib)
+    if len(relations) != 0:
+        relation_list = []
+        for relation in relations:
+            for subtype in relation.findall('subtype'):
+                relation_attrib = copy.deepcopy(relation.attrib)
+                relation_attrib.update(subtype.attrib)
+                relation_list.append(relation_attrib)
 
-    relation_df = pd.DataFrame(relation_list)
-    relation_df.to_csv(f'{output_dir}/relation/{pathway_id}', sep='\t', index=False)
+        relation_df = pd.DataFrame(relation_list)
+        relation_df.to_csv(f'{output_dir}/relation/{pathway_id}', sep='\t', index=False)
 
 def main():
     args = parse_args()
