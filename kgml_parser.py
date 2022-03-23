@@ -45,8 +45,7 @@ def parse_kgml(pathway_id, output_dir):
     entries_df = pd.DataFrame([entry.attrib for entry in entries])
     entries_graphics_df = pd.DataFrame([entries[idx].findall('graphics')[0].attrib for idx in entries_df.index])
 
-    entries_df_merged = pd.merge(entries_df, entries_graphics_df, left_index=True, right_index=True)
-    entries_df_merged.columns = ['id', 'entry', 'type', 'link', 'name', 'fgcolor', 'bgcolor', 'graphic_type', 'x', 'y', 'width', 'height']
+    entries_df_merged = pd.merge(entries_df, entries_graphics_df, left_index=True, right_index=True, suffixes=('_entry','_graphic'))
 
     entries_df_merged.to_csv(f'{output_dir}/entry/{pathway_id}', index=False, sep='\t')
     
