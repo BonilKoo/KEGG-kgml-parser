@@ -1,5 +1,5 @@
 # KEGG pathway kgml parser
-Python code to download and parse KEGG pathway kgml file
+Python code to download and parse KEGG pathway kgml file (https://www.kegg.jp/kegg/xml/)
 
 This code saves two information for each pathway.
 
