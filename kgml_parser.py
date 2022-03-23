@@ -72,8 +72,9 @@ def parse_kgml(pathway_id, output_dir):
                 relation_attrib.update(subtype.attrib)
                 relation_list.append(relation_attrib)
 
-        relation_df = pd.DataFrame(relation_list)
-        relation_df.to_csv(f'{output_dir}/relation/{pathway_id}', sep='\t', index=False)
+        if len(relation_list) != 0:
+            relation_df = pd.DataFrame(relation_list)
+            relation_df.to_csv(f'{output_dir}/relation/{pathway_id}', sep='\t', index=False)
 
 def main():
     args = parse_args()
