@@ -92,7 +92,7 @@ def main():
     mkdir(f'{args.output_dir}/entry_group')
     mkdir(f'{args.output_dir}/relation')
     print('Parse kgml and save results...')
-    if verbose:
+    if args.verbose:
         for pathway_id in tqdm(pathway_list):
             parse_kgml(pathway_id, args.output_dir)
     else:
