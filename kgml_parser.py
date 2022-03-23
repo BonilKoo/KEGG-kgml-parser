@@ -27,7 +27,6 @@ def load_pathway_list(pathway_list_file):
 def download_kgml(pathway_list, kgml_dir, verbose):
     print('Download KEGG kgml files...')
     if verbose:
-        from tqdm import tqdm
         for pathway_id in tqdm(pathway_list):
             wget.download(url=f'http://rest.kegg.jp/get/{pathway_id}/kgml', out=f'{kgml_dir}/{pathway_id}.xml', bar=False)
     else:
@@ -74,6 +73,8 @@ def parse_kgml(pathway_id, output_dir):
 
 def main():
     args = parse_args()
+    if args.verbose:
+        from tqdm import tqdm
     
     # output directory
     rmfile(args.output_dir)
