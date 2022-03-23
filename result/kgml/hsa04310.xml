@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE pathway SYSTEM "https://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
-<!-- Creation date: Feb 16, 2021 15:00:11 +0900 (GMT+9) -->
+<!-- Creation date: Dec 16, 2021 10:25:31 +0900 (GMT+9) -->
 <pathway name="path:hsa04310" org="hsa" number="04310"
          title="Wnt signaling pathway"
          image="https://www.kegg.jp/kegg/pathway/hsa/hsa04310.png"
@@ -77,7 +77,7 @@
     </entry>
     <entry id="23" name="hsa:5530 hsa:5532 hsa:5533 hsa:5534 hsa:5535" type="gene"
         link="https://www.kegg.jp/dbget-bin/www_bget?hsa:5530+hsa:5532+hsa:5533+hsa:5534+hsa:5535">
-        <graphics name="PPP3CA, ACCIID, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B..." fgcolor="#000000" bgcolor="#BFFFBF"
+        <graphics name="PPP3CA, ACCIID, CALN, CALNA, CALNA1, CCN1, CNA1, DEE91, IECEE, IECEE1, PPP2B..." fgcolor="#000000" bgcolor="#BFFFBF"
              type="rectangle" x="566" y="753" width="46" height="17"/>
     </entry>
     <entry id="24" name="hsa:815 hsa:816 hsa:817 hsa:818" type="gene"
@@ -287,7 +287,7 @@
     </entry>
     <entry id="65" name="hsa:6477" type="gene"
         link="https://www.kegg.jp/dbget-bin/www_bget?hsa:6477">
-        <graphics name="SIAH1, SIAH1A" fgcolor="#000000" bgcolor="#BFFFBF"
+        <graphics name="SIAH1, BURHAS, SIAH1A" fgcolor="#000000" bgcolor="#BFFFBF"
              type="rectangle" x="534" y="414" width="46" height="17"/>
     </entry>
     <entry id="66" name="hsa:85407 hsa:85409" type="gene"
@@ -385,9 +385,9 @@
         <graphics name="FZD10, CD350, FZ-10, Fz10, FzE7, hFz10..." fgcolor="#000000" bgcolor="#BFFFBF"
              type="rectangle" x="250" y="269" width="46" height="17"/>
     </entry>
-    <entry id="86" name="hsa:6422 hsa:6423 hsa:6424 hsa:6425" type="gene"
-        link="https://www.kegg.jp/dbget-bin/www_bget?hsa:6422+hsa:6423+hsa:6424+hsa:6425">
-        <graphics name="SFRP1, FRP, FRP-1, FRP1, FrzA, SARP2..." fgcolor="#000000" bgcolor="#BFFFBF"
+    <entry id="86" name="hsa:2487 hsa:6422 hsa:6423 hsa:6424 hsa:6425" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?hsa:2487+hsa:6422+hsa:6423+hsa:6424+hsa:6425">
+        <graphics name="FRZB, FRE, FRITZ, FRP-3, FRZB-1, FRZB-PEN, FRZB1, FZRB, OS1, SFRP3, SRFP3, hFIZ..." fgcolor="#000000" bgcolor="#BFFFBF"
              type="rectangle" x="194" y="204" width="46" height="17"/>
     </entry>
     <entry id="87" name="hsa:64840" type="gene"
@@ -462,7 +462,7 @@
     </entry>
     <entry id="186" name="hsa:55366 hsa:59352 hsa:8549" type="gene"
         link="https://www.kegg.jp/dbget-bin/www_bget?hsa:55366+hsa:59352+hsa:8549">
-        <graphics name="LGR4, BNMD17, GPR48..." fgcolor="#000000" bgcolor="#BFFFBF"
+        <graphics name="LGR4, BNMD17, DPSL, GPR48..." fgcolor="#000000" bgcolor="#BFFFBF"
              type="rectangle" x="250" y="138" width="46" height="17"/>
     </entry>
     <entry id="187" name="hsa:284654 hsa:340419 hsa:343637 hsa:84870" type="gene"

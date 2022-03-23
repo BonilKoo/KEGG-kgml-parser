@@ -1,4 +1,4 @@
-id	entry	type	link	name	fgcolor	bgcolor	graphic_type	x	y	width	height
+id	name_entry	type_entry	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
 19	cpd:C00338	compound	http://www.kegg.jp/dbget-bin/www_bget?C00338	C00338	#000000	#FFFFFF	circle	138	743	8	8
 20	hsa:5923 hsa:5924	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:5923+hsa:5924	RASGRF1, CDC25, CDC25L, GNRP, GRF1, GRF55, H-GRF55, PP13187, ras-GRF1...	#000000	#BFFFBF	rectangle	392	236	46	17
 21	hsa:11221 hsa:1843 hsa:1844 hsa:1846 hsa:1847 hsa:1848 hsa:1849 hsa:1850 hsa:1852 hsa:80824	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:11221+hsa:1843+hsa:1844+hsa:1846+hsa:1847+hsa:1848+hsa:1849+hsa:1850+hsa:1852+hsa:80824	DUSP10, MKP-5, MKP5...	#000000	#BFFFBF	rectangle	789	364	46	17

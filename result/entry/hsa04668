@@ -1,4 +1,4 @@
-id	entry	type	link	name	fgcolor	bgcolor	graphic_type	x	y	width	height
+id	name_entry	type_entry	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
 24	path:hsa04668	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04668	TITLE:TNF signaling pathway	#000000	#FFFFFF	roundrectangle	143	58	205	25
 25	hsa:7124	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:7124	TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F	#000000	#BFFFBF	rectangle	166	332	46	17
 26	hsa:7132	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:7132	TNFRSF1A, CD120a, FPF, TBP1, TNF-R, TNF-R-I, TNF-R55, TNFAR, TNFR1, TNFR55, TNFR60, p55, p55-R, p60	#000000	#BFFFBF	rectangle	257	332	46	17

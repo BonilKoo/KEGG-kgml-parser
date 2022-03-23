@@ -1,4 +1,4 @@
-id	entry	type	link	name	fgcolor	bgcolor	graphic_type	x	y	width	height
+id	name_entry	type_entry	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
 4	path:hsa04915	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04915	TITLE:Estrogen signaling pathway	#000000	#FFFFFF	roundrectangle	180	58	279	25
 8	hsa:2099 hsa:2100	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2099+hsa:2100	ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1...	#000000	#BFFFBF	rectangle	596	162	46	17
 9	hsa:2099 hsa:2100	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:2099+hsa:2100	ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1...	#000000	#BFFFBF	rectangle	857	162	46	17

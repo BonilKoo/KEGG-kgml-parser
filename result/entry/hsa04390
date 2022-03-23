@@ -1,4 +1,4 @@
-id	entry	type	link	name	fgcolor	bgcolor	graphic_type	x	y	width	height
+id	name_entry	type_entry	link	name_graphic	fgcolor	bgcolor	type_graphic	x	y	width	height
 10	path:hsa04390	map	http://www.kegg.jp/dbget-bin/www_bget?hsa04390	TITLE:Hippo signaling pathway	#000000	#FFFFFF	roundrectangle	159	58	238	25
 11	hsa:23286	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:23286	WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	#000000	#BFFFBF	rectangle	320	403	46	17
 12	hsa:4771	gene	http://www.kegg.jp/dbget-bin/www_bget?hsa:4771	NF2, ACN, BANF, SCH	#000000	#BFFFBF	rectangle	289	386	46	17
