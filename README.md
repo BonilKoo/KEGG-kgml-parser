@@ -9,9 +9,9 @@ This code saves two information for each pathway.
 
 ## Usage
 ```
-python kgml_parser.py -p pathway_list.txt -o result [-v]
+python kgml_parser.py -p [pathway list file] -o [path to output directory] [-v]
 
-python kgml_parser.py --pathway_list pathway_list.txt --output_dir result [--verbose]
+python kgml_parser.py --pathway_list [pathway list file] --output_dir [path to output directory] [--verbose]
 ```
 
 pathway_list: pathway list file (one line, one pathway entry) (Refer example file: pathway_list.txt)
