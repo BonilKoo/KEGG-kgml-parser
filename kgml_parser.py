@@ -51,16 +51,17 @@ def parse_kgml(pathway_id, output_dir):
     
     # entry type group
     type_group_idx = entries_df[entries_df['type'] == 'group'].index
-    entries_df_type_group = entries_df.loc[type_group_idx]
+    if len(type_group_idx) != 0:
+        entries_df_type_group = entries_df.loc[type_group_idx]
 
-    output_file = open(f'{output_dir}/entry_group/{pathway_id}', 'w')
-    output_file.write('group\tcomponents\n')
-    for idx in entries_df_type_group.index:
-        group_id = entries_df_type_group.loc[idx]['id']
-        components = entries[idx].findall('component')
-        components = ','.join([component.attrib['id'] for component in components])
-        output_file.write(f'{group_id}\t{components}\n')
-    output_file.close()
+        output_file = open(f'{output_dir}/entry_group/{pathway_id}', 'w')
+        output_file.write('group\tcomponents\n')
+        for idx in entries_df_type_group.index:
+            group_id = entries_df_type_group.loc[idx]['id']
+            components = entries[idx].findall('component')
+            components = ','.join([component.attrib['id'] for component in components])
+            output_file.write(f'{group_id}\t{components}\n')
+        output_file.close()
     
     # relation
     relation_list = []
