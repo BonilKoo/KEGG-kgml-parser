@@ -80,7 +80,7 @@ def main():
     args = parse_args()
     
     # output directory
-    rmfile(args.output_dir)
+#     rmfile(args.output_dir)
     mkdir(args.output_dir)
     
     # load pathway list
