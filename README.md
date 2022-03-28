@@ -16,6 +16,6 @@ python kgml_parser.py --pathway_list [pathway list file] --output_dir [path to o
 
 pathway_list: pathway list file (one line, one pathway entry) (Refer example file: pathway_list.txt)
 
-output_dir: output directory for saving results (<span style="color:red">Warning: If the specified ouput directory already exists, it will be reset.)</span>
+output_dir: output directory for saving results (<span style="color:red">warning: If the specified ouput directory already exists, it will be reset.)</span>
 
 verbose: print progress bar (python package "tqdm" is required)
