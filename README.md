@@ -14,8 +14,10 @@ python kgml_parser.py -p [pathway list file] -o [path to output directory] [-v]
 python kgml_parser.py --pathway_list [pathway list file] --output_dir [path to output directory] [--verbose]
 ```
 
+### <span style="color: red">(Warning: If the specified ouput directory already exists, it will be reset.)</span>
+
 pathway_list: pathway list file (one line, one pathway entry) (Refer example file: pathway_list.txt)
 
-output_dir: output directory for saving results <span style="color: red">(Warning: If the specified ouput directory already exists, it will be reset.)</span>
+output_dir: output directory for saving results
 
 verbose: print progress bar (python package "tqdm" is required)
