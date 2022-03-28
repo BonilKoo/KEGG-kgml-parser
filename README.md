@@ -7,7 +7,7 @@ This code saves two information for each pathway.
 
 2. Relation information
 
-## Usage <span style="color: red">(Warning: If the specified ouput directory already exists, it will be reset.)</span>
+## Usage <span style="color: red">(warning: if the specified ouput directory already exists, it will be reset.)</span>
 ```
 python kgml_parser.py -p [pathway list file] -o [path to output directory] [-v]
 
