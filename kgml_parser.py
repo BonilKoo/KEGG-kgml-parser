@@ -14,12 +14,12 @@ def parse_args():
     
     return parser.parse_args()
 
-def mkdir(dir_name):
-    os.system(f'mkdir -p {dir_name}')
+# def mkdir(dir_name):
+#     os.makedirs(dir_name, exist_ok=True)
     
-def rmfile(filename):
-    if os.path.exists(filename):
-        os.system(f'rm -rf {filename}')
+# def rmfile(filename):
+#     if os.path.exists(filename):
+#         os.system(f'rm -rf {filename}')
         
 def load_pathway_list(pathway_list_file):
     return pd.read_table(pathway_list_file, names=['pathway'])['pathway'].to_list()
@@ -81,20 +81,25 @@ def main():
     
     # output directory
 #     rmfile(args.output_dir)
-    mkdir(args.output_dir)
+    # mkdir(args.output_dir)
+    os.makedirs(args.output_dir, exist_ok=True)
     
     # load pathway list
     pathway_list = load_pathway_list(args.pathway_list)
     
     # download kgml
     kgml_dir = args.output_dir + '/kgml'
-    mkdir(kgml_dir)
+    # mkdir(kgml_dir)
+    os.makedirs(kgml_dir, exist_ok=True)
     download_kgml(pathway_list, kgml_dir, args.verbose)
     
-    # parse kgml and save
-    mkdir(f'{args.output_dir}/entry')
-    mkdir(f'{args.output_dir}/entry_group')
-    mkdir(f'{args.output_dir}/relation')
+    # # parse kgml and save
+    # mkdir(f'{args.output_dir}/entry')
+    # mkdir(f'{args.output_dir}/entry_group')
+    # mkdir(f'{args.output_dir}/relation')
+    os.makedirs(f'{args.output_dir}/entry', exist_ok=True)
+    os.makedirs(f'{args.output_dir}/entry_group', exist_ok=True)
+    os.makedirs(f'{args.output_dir}/relation', exist_ok=True)
     print('Parse kgml and save results...')
     if args.verbose:
         from tqdm import tqdm
